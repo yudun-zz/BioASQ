@@ -1,0 +1,3 @@
+class: edu.cmu.lti.oaqa.baseqa.quesanal.lat.LexicalAnswerTypeTrainer
+
+# requires parameter "classifier", "feature-constructor", "qa-types-file"

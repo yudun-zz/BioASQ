@@ -1,0 +1,3 @@
+inherit: baseqa.answer.collective-score-predict
+
+classifier: 'inherit: bioqa.answer.collective-score-classifier-liblinear'

@@ -1,0 +1,5 @@
+inherit: baseqa.providers.ml.classifier-libsvm
+
+feat-index-file: src/main/resources/bioqa/quesanal/lat/model/3b-dev-libsvm-findex.tsv
+label-index-file: src/main/resources/bioqa/quesanal/lat/model/3b-dev-libsvm-lindex.tsv
+model-file: src/main/resources/bioqa/quesanal/lat/model/3b-dev-libsvm-model

@@ -1,0 +1,2380 @@
+- question: Which genes have been found mutated in Gray platelet syndrome patients?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 3}
+  qid: 52f89f4f2059c6d71c00004e
+- question: What type of enzyme is peroxiredoxin 2 (PRDX2)?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 52bf1f1303868f1b06000014
+- question: Which are the cardiac manifestations of Marfan syndrome?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 4}
+  qid: 530cf4e0c8a0b4a00c000005
+- question: What is the rate of survival after commotio cordis?
+  predict-semantic-type-abbr: clnd
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  qid: 530cf4e0c8a0b4a00c000007
+- question: Which hormone concentrations are altered in patients with the Allan–Herndon–Dudley syndrome?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 530f900ee3eabad021000003
+- question: At which kind of individuals is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?
+  predict-semantic-type-abbr: phsu
+  semantic-types: []
+  qid: 52efbfccc8da898910000018
+- question: Which are the cardiac effects of thyronamines?
+  predict-semantic-type-abbr: ortf
+  semantic-types:
+  - {value: Organ or Tissue Function, sid: T042, abbr: ortf, count: 1}
+  qid: 532c12f2d6d3ac6a3400001d
+- question: Which diseases are caused by mutations in Calsequestrin 2 (CASQ2) gene?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  - {value: 'Indicator, Reagent, or Diagnostic Aid', sid: T130, abbr: irda, count: 1}
+  - {value: Health Care Activity, sid: T058, abbr: hlca, count: 1}
+  qid: 52e8e98298d0239505000020
+- question: List causative genes for autosomal recessive forms of monogenic Parkinson's disease
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 8}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 5318367cb166e2b806000012
+- question: Which protein complexes contain mitofilin?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 2}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  - {value: Cell Function, sid: T043, abbr: celf, count: 1}
+  qid: 53215fca9b2d7acc7e000005
+- question: Which are the musculoskeletal manifestations of Marfan syndrome?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Anatomical Abnormality, sid: T190, abbr: anab, count: 3}
+  - {value: Finding, sid: T033, abbr: fndg, count: 2}
+  - {value: Congenital Abnormality, sid: T019, abbr: cgab, count: 2}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  - {value: Pathologic Function, sid: T046, abbr: patf, count: 1}
+  qid: 532f0b2cd6d3ac6a3400002c
+- question: Which is the prognostic meaning of delayed enhancement documented in patients hypertrophic cardiomyopathy?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 5339ecf4d6d3ac6a3400005f
+- question: Which is the clinical meaning of the presence of delayed enhancement in patients with hypertrophic cardiomyopathy?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 5339edd6d6d3ac6a34000061
+- question: Which are the enzymes involved in the addition of 7-methylguanosine in mRNA?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 4}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 3}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 2}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 52f112bb2059c6d71c000002
+- question: List clinical trials for prevention of sarcopenia
+  predict-semantic-type-abbr: lipd
+  semantic-types:
+  - {value: Lipid, sid: T119, abbr: lipd, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 52f893f92059c6d71c00003c
+- question: Abnormalities in which chromosomes were linked to the Moyamoya disease?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: 'Body Part, Organ, or Organ Component', sid: T023, abbr: bpoc, count: 5}
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 3}
+  - {value: 'Element, Ion, or Isotope', sid: T196, abbr: elii, count: 1}
+  qid: 5312280ce3eabad02100000a
+- question: List common symptoms of patients with the DOORS syndrome.
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  - {value: Sign or Symptom, sid: T184, abbr: sosy, count: 1}
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  - {value: Congenital Abnormality, sid: T019, abbr: cgab, count: 1}
+  - {value: Mental or Behavioral Dysfunction, sid: T048, abbr: mobd, count: 1}
+  qid: 530e1c985937551c09000004
+- question: Inhibition of which enzyme is mechanism of action of alisertib?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 531dd4af267d7dd05300000d
+- question: Which are the mutational hotspots of the human KRAS oncogene?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Laboratory Procedure, sid: T059, abbr: lbpr, count: 1}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 52e6c92598d0239505000019
+- question: Which histone modifications are associated with constitutive heterochromatin?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Molecular Function, sid: T044, abbr: moft, count: 1}
+  qid: 52e0c9a298d0239505000010
+- question: Which diseases are caused by mutations in Calsequestrin 2 (CASQ2) gene?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  qid: 52bf1af803868f1b06000008
+- question: What is the physiological role of LKB1 involved in Peutz-Jeghers syndrome?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 53175e9fb166e2b80600000a
+- question: What is the Her2 status in Li-Fraumeni syndrome?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 5318929fb166e2b80600001b
+- question: Which mutation is associated with PLMS (periodic limb movements in sleep)?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 52f899952059c6d71c00004b
+- question: How is bladder wall thickness measured?
+  predict-semantic-type-abbr: diap
+  semantic-types:
+  - {value: Diagnostic Procedure, sid: T060, abbr: diap, count: 1}
+  qid: 5324bdba9b2d7acc7e00001a
+- question: Which hormone receptor function is altered in patients with Donohue syndrome?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Hormone, sid: T125, abbr: horm, count: 1}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 5314bd7ddae131f847000006
+- question: Which drugs have been found effective for the treatment of chordoma?
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 5}
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 3}
+  - {value: Carbohydrate, sid: T118, abbr: carb, count: 1}
+  - {value: 'Nucleic Acid, Nucleoside, or Nucleotide', sid: T114, abbr: nnon, count: 1}
+  - {value: Antibiotic, sid: T195, abbr: antb, count: 1}
+  - {value: Inorganic Chemical, sid: T197, abbr: inch, count: 1}
+  qid: 532b15ecd6d3ac6a34000014
+- question: Which are the newly identified DNA nucleases that can be used to treat thalassemia?
+  predict-semantic-type-abbr: moft
+  semantic-types: []
+  qid: 52fa74052059c6d71c00005a
+- question: List disorders that are caused by mutations in the mitochondrial MTND6 gene.
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  qid: 530c844e970c65fa6b000014
+- question: List anti-amyloid-beta monoclonal antibodies that have been investigated in clinical trials for treatment of Alzheimer disease.
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 4}
+  - {value: Immunologic Factor, sid: T129, abbr: imft, count: 3}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  qid: 52fc94db2059c6d71c000074
+- question: Which cell types are known to be driving Rheumatoid Arthritis?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Cell, sid: T025, abbr: cell, count: 3}
+  qid: 52b2d405f828ad283c000009
+- question: What is the typical alteration of the thyroid profile metabolism early after coronary artery bypass graft surgery?
+  predict-semantic-type-abbr: qnco
+  semantic-types: []
+  qid: 532670e7d6d3ac6a34000008
+- question: What is the prognostic role of alterred thyroid profile after cardiosurgery?
+  predict-semantic-type-abbr: qnco
+  semantic-types:
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 1}
+  qid: 53265dd4d6d3ac6a34000007
+- question: What is the relationship between thyroid hormone and inflammatory markers in heart failure patients?
+  predict-semantic-type-abbr: qnco
+  semantic-types: []
+  qid: 53261e79600967d132000003
+- question: What is the gold standard treatment for Iatrogenic male incontinence?
+  predict-semantic-type-abbr: topp
+  semantic-types:
+  - {value: Geographic Area, sid: T083, abbr: geoa, count: 1}
+  - {value: Medical Device, sid: T074, abbr: medd, count: 1}
+  qid: 5325fdf0600967d132000001
+- question: Which value of nuchal translucency thickness is set as the threshold for high-risk for Down Syndrome?
+  predict-semantic-type-abbr: qnco
+  semantic-types:
+  - {value: Medical Device, sid: T074, abbr: medd, count: 1}
+  qid: 53592c1e9a4572de6f000002
+- question: What is the inheritance pattern of Apert syndrome?
+  predict-semantic-type-abbr: inpr
+  semantic-types:
+  - {value: Intellectual Product, sid: T170, abbr: inpr, count: 1}
+  qid: 52c7275103868f1b0600001c
+- question: Which is the genetic defect causing Neurofibromatosis type 1?
+  predict-semantic-type-abbr: neop
+  semantic-types:
+  - {value: Laboratory Procedure, sid: T059, abbr: lbpr, count: 1}
+  qid: 52f223e02059c6d71c00000e
+- question: Which are the known inhibitors of the TPL2/MAP3K8 protein?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 2}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 52fc8b772059c6d71c00006e
+- question: From which tissue was the NCI-H520 cell-line derived?
+  predict-semantic-type-abbr: bpoc
+  semantic-types:
+  - {value: 'Body Part, Organ, or Organ Component', sid: T023, abbr: bpoc, count: 1}
+  qid: 52d63b2803868f1b0600003a
+- question: Why is lock mass used in Orbitrap measurements?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 530b01a6970c65fa6b000008
+- question: List bacteria that may be useful in uranium bioremediation.
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Bacterium, sid: T007, abbr: bact, count: 8}
+  qid: 530a3e18970c65fa6b000005
+- question: What is the meaning of the acronym "TAILS" used in protein N-terminomics?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 530a5117970c65fa6b000007
+- question: Oxantel is used for periodontitis treatment. How does it work?
+  predict-semantic-type-abbr: phsu
+  semantic-types: []
+  qid: 530c7f52970c65fa6b000010
+- question: What is the reason for the narcolepsy cases developed after H1N1 influenza vaccination?
+  predict-semantic-type-abbr: topp
+  semantic-types: []
+  qid: 530cf54dab4de4de0c000009
+- question: What is the main application of SWATH-MS in proteomics?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 530cf54dab4de4de0c00000c
+- question: How much should be the duration of the QT interval in patients with short QT syndrome?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 52fb7c512059c6d71c000069
+- question: Which gene is associated with Muenke syndrome?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Receptor, sid: T192, abbr: rcpt, count: 1}
+  qid: 52bf1d2e03868f1b0600000c
+- question: Which hormone deficiency is implicated in the Costello syndrome ?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Hormone, sid: T125, abbr: horm, count: 1}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 53130a77e3eabad02100000f
+- question: Which receptors are targeted by a drug Macitentan?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  - {value: Receptor, sid: T192, abbr: rcpt, count: 2}
+  qid: 5335d4e8d6d3ac6a34000053
+- question: Which sports have a risk for commotio cordis?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Daily or Recreational Activity, sid: T056, abbr: dora, count: 5}
+  - {value: Eukaryote, sid: T204, abbr: euka, count: 1}
+  qid: 5300aad02059c6d71c000080
+- question: Which hormone abnormalities are common in Williams syndrome
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Finding, sid: T033, abbr: fndg, count: 5}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  qid: 52f88d292059c6d71c000036
+- question: What memory problems are reported in the " Gulf war syndrome"
+  predict-semantic-type-abbr: mobd
+  semantic-types:
+  - {value: Mental or Behavioral Dysfunction, sid: T048, abbr: mobd, count: 1}
+  qid: 52f896d62059c6d71c000046
+- question: List clinical trials that have directly compared microsurgical clipping with endovascular coiling for treatment of ruptured brain aneurysms?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 530e0d6e5937551c09000001
+- question: Which are the known inhibitors of the TPL2/MAP3K8 protein?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 1}
+  qid: 530cf4d5e2bfff940c000003
+- question: Which genes are affected in ROMANO-WARD syndrome?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 12}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 52eea509c8da89891000000d
+- question: which are the risk factors for sudden cardiac death in patients with hypertrophic cardiomyopathy?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Pathologic Function, sid: T046, abbr: patf, count: 2}
+  - {value: Finding, sid: T033, abbr: fndg, count: 2}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 531375a6e3eabad021000011
+- question: Which mutations of alpha-myosin heavy chain gene are implicated in hypertrophic cardiomyopathy?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 530cf4e0c8a0b4a00c000004
+- question: which mutations of troponin C gene have been found to cause hypertrophic cardiomyopathy?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 5314a7a4dae131f847000003
+- question: which mutations of phospholamban gene have been found to cause hypertrophic cardiomyopathy?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 2}
+  qid: 531376c8e3eabad021000012
+- question: What are the side effects of Nalmefene?
+  predict-semantic-type-abbr: sosy
+  semantic-types:
+  - {value: Sign or Symptom, sid: T184, abbr: sosy, count: 4}
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  qid: 52bf1dea03868f1b06000012
+- question: For the treatment of which conditions can atypical neuroleptic drugs be used?
+  predict-semantic-type-abbr: mobd
+  semantic-types:
+  - {value: Mental or Behavioral Dysfunction, sid: T048, abbr: mobd, count: 6}
+  qid: 52bf1f4503868f1b06000016
+- question: What can Nothobranchius furzeri be used as a model system for?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 52bf217003868f1b0600001b
+- question: What are the main indications of lacosamide?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 3}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 52bf202003868f1b06000018
+- question: What is the prognostic role of thyroid hormone in patients with heart failure?
+  predict-semantic-type-abbr: qnco
+  semantic-types: []
+  qid: 531b2fc3b166e2b80600003c
+- question: Which are the drugs utilized for the burning mouth syndrome?
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 3}
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 2}
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 2}
+  - {value: Lipid, sid: T119, abbr: lipd, count: 1}
+  - {value: Vitamin, sid: T127, abbr: vita, count: 1}
+  qid: 531d7430267d7dd053000008
+- question: Which is the prognostic impact of hypothyroidism in patients with acute myocardial infarction?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 531d1998267d7dd053000001
+- question: Which oncogenes are able to induce cellular senescence?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 7}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 4}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 4}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 3}
+  qid: 5309f8f5970c65fa6b000001
+- question: Which are the clinical characteristics of Tuberous Sclerosis?
+  predict-semantic-type-abbr: neop
+  semantic-types:
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 5}
+  - {value: Mental or Behavioral Dysfunction, sid: T048, abbr: mobd, count: 2}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  qid: 52ebb2c698d0239505000029
+- question: Which are the supplemental antioxidant in athletes?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 11}
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 6}
+  - {value: Lipid, sid: T119, abbr: lipd, count: 4}
+  - {value: Vitamin, sid: T127, abbr: vita, count: 3}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 3}
+  - {value: Hormone, sid: T125, abbr: horm, count: 1}
+  - {value: Neuroreactive Substance or Biogenic Amine, sid: T124, abbr: nsba, count: 1}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  - {value: Plant, sid: T002, abbr: plnt, count: 1}
+  - {value: 'Element, Ion, or Isotope', sid: T196, abbr: elii, count: 1}
+  qid: 52df8ce798d023950500000d
+- question: What is the life expectancy of professional athletes in respect to the general population?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 1}
+  qid: 52e62bae98d0239505000015
+- question: Which deiodinase polymorphisms are implicated in arterial hypertension?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 52f65bf02059c6d71c000026
+- question: Which are the thyroid hormone analogs utilized in human studies?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 2}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 2}
+  qid: 52fb42752059c6d71c00005e
+- question: Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 1}
+  qid: 52f8b2902059c6d71c000053
+- question: Where is the histone variant CENPA preferentially localized?
+  predict-semantic-type-abbr: celc
+  semantic-types:
+  - {value: Cell Component, sid: T026, abbr: celc, count: 1}
+  qid: 52fe52702059c6d71c000078
+- question: What are the results of loss of the protein Lon1 in the plant Arabidopsis?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 52e0141498d023950500000e
+- question: Which gene is associated with the Mitchell-Riley syndrome?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 52e92c6e98d0239505000024
+- question: Which genes have been found to be associated with restless leg syndrome
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 2}
+  - {value: Laboratory Procedure, sid: T059, abbr: lbpr, count: 1}
+  qid: 52f8995b2059c6d71c00004a
+- question: List anti-amyloid-beta monoclonal antibodies that have been investigated in clinical trials for treatment of Alzheimer disease.
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 4}
+  - {value: Immunologic Factor, sid: T129, abbr: imft, count: 3}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  qid: 530cefaaad0bf1360c000007
+- question: List medication interfering with purine metabolism that are used for treatment of T-cell prolymphocytic leukemia?
+  predict-semantic-type-abbr: nnon
+  semantic-types:
+  - {value: 'Nucleic Acid, Nucleoside, or Nucleotide', sid: T114, abbr: nnon, count: 3}
+  - {value: Antibiotic, sid: T195, abbr: antb, count: 2}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 530cefaaad0bf1360c00000c
+- question: Abnormality in which vertebral region is important in the Bertolotti's syndrome?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Spatial Concept, sid: T082, abbr: spco, count: 1}
+  qid: 5313058de3eabad02100000e
+- question: What is the mode of inheritance of long QT Jervell and Lange-Nielsen syndrome?
+  predict-semantic-type-abbr: inpr
+  semantic-types:
+  - {value: Intellectual Product, sid: T170, abbr: inpr, count: 1}
+  qid: 52eea4dcc8da89891000000c
+- question: How is connected "isolated Non-compaction cardiomyopathy" with dilated cardiomyopathy?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 530cf4e0c8a0b4a00c000002
+- question: Which is the most common cause of sudden cardiac death in young athletes?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 530cf4e0c8a0b4a00c000006
+- question: Mutation of which gene is associated with Achondroplasia?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Receptor, sid: T192, abbr: rcpt, count: 1}
+  qid: 52b2e498f828ad283c000010
+- question: Which drug is benserazide usually co-administered with?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Neuroreactive Substance or Biogenic Amine, sid: T124, abbr: nsba, count: 1}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 52bf1f2d03868f1b06000015
+- question: List phosphorylation consensus motifs for Casein Kinase 1 (CK1)?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 52d832dd98d0239505000003
+- question: What is a benefit of being g6PD-deficient?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 53147b52e3eabad021000015
+- question: List common features of Shapiro syndrome
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  qid: 5314c7afdae131f84700000a
+- question: List two common features of Tay syndrome.
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  qid: 53358cd2d6d3ac6a3400004e
+- question: Inhibition of which transporter is the mechanism of action of drug Canagliflozin?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 5335c7f2d6d3ac6a34000051
+- question: Which pathological conditions are caused by mutations in the CYLD gene?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 2}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 533c3af6c45e13371400000d
+- question: Which glands are subject to attack by lymphocytes in Sjogren's syndrome?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Congenital Abnormality, sid: T019, abbr: cgab, count: 1}
+  qid: 53189b05b166e2b80600001e
+- question: Which proteins act as histone-like molecules in prokaryotes?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 2}
+  - {value: Geographic Area, sid: T083, abbr: geoa, count: 1}
+  qid: 52ef7754c8da898910000014
+- question: What is the incidence of Edwards syndrom in the european population?
+  predict-semantic-type-abbr: clnd
+  semantic-types:
+  - {value: Clinical Drug, sid: T200, abbr: clnd, count: 1}
+  qid: 52f350042059c6d71c000010
+- question: Which gene mutations are responsible for isolated Non-compaction cardiomyopathy?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 5}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 3}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  - {value: Steroid, sid: T110, abbr: strd, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 52ea605098d0239505000028
+- question: Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 2}
+  qid: 52ece29f98d023950500002c
+- question: Which are the characteristics of Andersen syndrome?
+  predict-semantic-type-abbr: neop
+  semantic-types:
+  - {value: Pathologic Function, sid: T046, abbr: patf, count: 1}
+  - {value: Congenital Abnormality, sid: T019, abbr: cgab, count: 1}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 52eeddfcc8da898910000010
+- question: What is the life expectancy of professional athletes in respect to the general population?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 52efc016c8da89891000001a
+- question: Which deiodinase polymorphisms are implicated in arterial hypertension?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 52ecf2dd98d023950500002e
+- question: Which are the clinical characteristics of isolated Non-compaction cardiomyopathy?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 5}
+  - {value: Pathologic Function, sid: T046, abbr: patf, count: 1}
+  - {value: Sign or Symptom, sid: T184, abbr: sosy, count: 1}
+  qid: 52f4f1d62059c6d71c00001c
+- question: What is commotio cordis?
+  predict-semantic-type-abbr: sosy
+  semantic-types: []
+  qid: 53035d7c2059c6d71c000085
+- question: What is the incidence of sudden cardiac death among young athletes?
+  predict-semantic-type-abbr: clnd
+  semantic-types: []
+  qid: 53036faab24d855b11000001
+- question: What is the indication of Daonil (Glibenclamide)?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 52b2e1d8f828ad283c00000c
+- question: What disease in Loxapine prominently used for?
+  predict-semantic-type-abbr: mobd
+  semantic-types:
+  - {value: Mental or Behavioral Dysfunction, sid: T048, abbr: mobd, count: 1}
+  qid: 52b2e409f828ad283c00000e
+- question: What is the mode of inheritance of Facioscapulohumeral muscular dystrophy (FSHD)?
+  predict-semantic-type-abbr: inpr
+  semantic-types:
+  - {value: Intellectual Product, sid: T170, abbr: inpr, count: 1}
+  qid: 52bf19c503868f1b06000001
+- question: List interaction partners for the protein GATA1.
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 8}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 7}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 3}
+  - {value: Body Location or Region, sid: T029, abbr: blor, count: 1}
+  qid: 52f89fd32059c6d71c000051
+- question: Which are the subtypes of Pfeiffer syndrome?
+  predict-semantic-type-abbr: clas
+  semantic-types:
+  - {value: Classification, sid: T185, abbr: clas, count: 3}
+  qid: 52bf1d6003868f1b0600000e
+- question: Which gene mutations are responsible for isolated Non-compaction cardiomyopathy?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 52f637972059c6d71c000025
+- question: Which drugs affect insulin resistance in obesity?
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 52e7b7cb98d023950500001c
+- question: Which signalling pathway is involved in Tuberous Sclerosis?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 1}
+  qid: 52f11b922059c6d71c000004
+- question: Which diseases are associated with Alu element insertion?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 4}
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 2}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 52f129d92059c6d71c000009
+- question: What is the usual HER-2 status in breast cancer associated with Li-Fraumeni syndrome?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Qualitative Concept, sid: T080, abbr: qlco, count: 1}
+  qid: 52f21b722059c6d71c00000b
+- question: What is the most probable defect underlying triple negative breast cancer?
+  predict-semantic-type-abbr: neop
+  semantic-types: []
+  qid: 52f21e8f2059c6d71c00000c
+- question: List the existing methods for genetic manipulation of cells.
+  predict-semantic-type-abbr: topp
+  semantic-types:
+  - {value: Research Device, sid: T075, abbr: resd, count: 1}
+  qid: 52fa73e82059c6d71c000059
+- question: Which genetic defects are observed in Prader-Willi syndrome?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: 'Indicator, Reagent, or Diagnostic Aid', sid: T130, abbr: irda, count: 1}
+  qid: 5306158358348c0f52000001
+- question: What is the mode of inheritance of Facioscapulohumeral muscular dystrophy (FSHD)?
+  predict-semantic-type-abbr: inpr
+  semantic-types:
+  - {value: Intellectual Product, sid: T170, abbr: inpr, count: 1}
+  qid: 52e8e93498d023950500001e
+- question: Which are the subtypes of Pfeiffer syndrome?
+  predict-semantic-type-abbr: clas
+  semantic-types:
+  - {value: Classification, sid: T185, abbr: clas, count: 3}
+  qid: 52e8e9d298d0239505000022
+- question: List mouse models for autism spectrum disorder (ASD).
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 2}
+  - {value: Mammal, sid: T015, abbr: mamm, count: 1}
+  qid: 52f5417b2059c6d71c000024
+- question: List interaction partners for the protein GATA1.
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 5}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 3}
+  qid: 52e929eb98d0239505000023
+- question: Which proteins cause cytoplasmic sequestration of NF-kB?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 3}
+  qid: 530db83b38c1322806000002
+- question: Which are the major characteristics of cellular senescence?
+  predict-semantic-type-abbr: neop
+  semantic-types:
+  - {value: Cell or Molecular Dysfunction, sid: T049, abbr: comd, count: 1}
+  - {value: Cell Function, sid: T043, abbr: celf, count: 1}
+  qid: 53061af558348c0f52000002
+- question: Which is the molecular target of the immunosuppressant drug Rapamycin?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 53124bdae3eabad02100000b
+- question: Which are the cellular targets of imatinib mesylate?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  - {value: Receptor, sid: T192, abbr: rcpt, count: 2}
+  - {value: Immunologic Factor, sid: T129, abbr: imft, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 53188992b166e2b806000019
+- question: How is active neurotoxin of Clostridium botulinum detected?
+  predict-semantic-type-abbr: lbpr
+  semantic-types:
+  - {value: Laboratory Procedure, sid: T059, abbr: lbpr, count: 1}
+  - {value: Molecular Biology Research Technique, sid: T063, abbr: mbrt, count: 1}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 531d6bfc267d7dd053000007
+- question: List FDA approved treatments for androgenetic allopecia
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 2}
+  - {value: Hormone, sid: T125, abbr: horm, count: 1}
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 1}
+  - {value: Steroid, sid: T110, abbr: strd, count: 1}
+  qid: 5324d0169b2d7acc7e000022
+- question: Mutation of which gene is associated with McLeod syndrome?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 531464a6e3eabad021000014
+- question: Approximately how many recombination hotspots have been found in the yeast genome?
+  predict-semantic-type-abbr: qnco
+  semantic-types:
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 2}
+  qid: 534e364e288f4dae47000001
+- question: Which are the cardiac effects of thyronamines?
+  predict-semantic-type-abbr: ortf
+  semantic-types:
+  - {value: Organ or Tissue Function, sid: T042, abbr: ortf, count: 2}
+  - {value: Pathologic Function, sid: T046, abbr: patf, count: 1}
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 1}
+  qid: 534bb147aeec6fbd07000014
+- question: What hand deformities do patients with Apert syndrome present with?
+  predict-semantic-type-abbr: cgab
+  semantic-types:
+  - {value: Congenital Abnormality, sid: T019, abbr: cgab, count: 2}
+  - {value: 'Body Part, Organ, or Organ Component', sid: T023, abbr: bpoc, count: 1}
+  qid: 52bf1cb303868f1b0600000b
+- question: Which deficiency is the cause of restless leg syndrome?
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  - {value: 'Element, Ion, or Isotope', sid: T196, abbr: elii, count: 1}
+  qid: 530cefaaad0bf1360c000012
+- question: What memory problems are reported in the " Gulf war syndrome"?
+  predict-semantic-type-abbr: mobd
+  semantic-types:
+  - {value: Mental or Behavioral Dysfunction, sid: T048, abbr: mobd, count: 2}
+  qid: 530cefaaad0bf1360c000011
+- question: Which hormone abnormalities are common in Williams syndrome ?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 530cefaaad0bf1360c00000d
+- question: Which are the most under-represented oligonucleotides in higher eukaryote genomes?
+  predict-semantic-type-abbr: bpoc
+  semantic-types:
+  - {value: Geographic Area, sid: T083, abbr: geoa, count: 1}
+  - {value: Health Care Activity, sid: T058, abbr: hlca, count: 1}
+  qid: 52e203bc98d0239505000011
+- question: Where is the histone variant CENPA preferentially localized?
+  predict-semantic-type-abbr: celc
+  semantic-types: []
+  qid: 52fbe2bf2059c6d71c00006c
+- question: What is the mode of inheritance of Romano Ward long QT syndrome?
+  predict-semantic-type-abbr: inpr
+  semantic-types:
+  - {value: Intellectual Product, sid: T170, abbr: inpr, count: 1}
+  qid: 52ee9f55c8da898910000009
+- question: What is the mode of inheritance of short QT syndrome?
+  predict-semantic-type-abbr: inpr
+  semantic-types: []
+  qid: 52f509512059c6d71c000020
+- question: Which mutations of SCN5A gene are implicated in Brugada syndrome?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 52fb78d82059c6d71c000068
+- question: What is the prevalence of short QT syndrome?
+  predict-semantic-type-abbr: clnd
+  semantic-types:
+  - {value: Clinical Drug, sid: T200, abbr: clnd, count: 1}
+  qid: 52fb78572059c6d71c000067
+- question: Which genes are implicated in short QT syndrome?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 5}
+  qid: 52f509232059c6d71c00001f
+- question: How many different mutations have been associated with Muenke syndrome?
+  predict-semantic-type-abbr: qnco
+  semantic-types:
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 1}
+  qid: 52c7311903868f1b0600001d
+- question: What are the names of anti-CD52 monoclonal antibody that is used for treatment of multiple sclerosis patients?
+  predict-semantic-type-abbr: imft
+  semantic-types:
+  - {value: Immunologic Factor, sid: T129, abbr: imft, count: 2}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 2}
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 1}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  qid: 530cefaaad0bf1360c000003
+- question: Which brain structures have been investigated as potential targets for deep brain stimulation of patients suffering from major depression?
+  predict-semantic-type-abbr: bpoc
+  semantic-types:
+  - {value: 'Body Part, Organ, or Organ Component', sid: T023, abbr: bpoc, count: 3}
+  qid: 530cefaaad0bf1360c000002
+- question: Which gene is required for the efficient function of clopidogrel?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 531a34d5b166e2b806000036
+- question: Which are the most common methods for gene prioritization analysis?
+  predict-semantic-type-abbr: topp
+  semantic-types: []
+  qid: 530cf4d5e2bfff940c000004
+- question: To what extent does HPV vaccination reduce the risk for cervical cancer?
+  predict-semantic-type-abbr: neop
+  semantic-types: []
+  qid: 531a3a58b166e2b806000037
+- question: Which proteins are related to the loss of cell-cell adhesion during EMT (epithelial-mesenchymal transition)?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 4}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  - {value: Eukaryote, sid: T204, abbr: euka, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 531b3ff3b166e2b80600003d
+- question: How many genes outside of the MHC locus have been genetically associated to Rheumatoid Arthritis through GWAS?
+  predict-semantic-type-abbr: qnco
+  semantic-types:
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  qid: 531af8cbb166e2b80600003a
+- question: Which histone modifications are associated with Polycomb group (PcG) proteins?
+  predict-semantic-type-abbr: moft
+  semantic-types:
+  - {value: Molecular Function, sid: T044, abbr: moft, count: 2}
+  qid: 531b1e3cb166e2b80600003b
+- question: From which tissue was the NCI-H520 cell-line derived?
+  predict-semantic-type-abbr: bpoc
+  semantic-types:
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 2}
+  qid: 52f89fc62059c6d71c000050
+- question: Do archaeal genomes contain one or multiple origins of replication?
+  predict-semantic-type-abbr: qnco
+  semantic-types:
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 1}
+  qid: 52ef7786c8da898910000015
+- question: Is the transcriptional regulator BACH1 an activator or a repressor?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 52ed795098d0239505000032
+- question: Which DNA repair system is involved in HNPCC?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 53161545b166e2b806000002
+- question: Which is the cellular target of gefitinib?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Receptor, sid: T192, abbr: rcpt, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 53188480b166e2b806000018
+- question: Is the transcriptional regulator BACH1 an activator or a repressor?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 52fa6ac72059c6d71c000055
+- question: List Parkin binding partners
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 6}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 4}
+  - {value: Receptor, sid: T192, abbr: rcpt, count: 2}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 2}
+  qid: 5318380bb166e2b806000013
+- question: What is the target protein of the drug Idelalisib?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 5321bc309b2d7acc7e00000d
+- question: Which medical diagnostic tests are used to test kidney function?
+  predict-semantic-type-abbr: topp
+  semantic-types:
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 2}
+  - {value: Laboratory Procedure, sid: T059, abbr: lbpr, count: 2}
+  - {value: Diagnostic Procedure, sid: T060, abbr: diap, count: 1}
+  qid: 5311b99ae3eabad021000004
+- question: List tele monitoring applications of miniaturised sensors
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Finding, sid: T033, abbr: fndg, count: 2}
+  - {value: Organism Attribute, sid: T032, abbr: orga, count: 2}
+  - {value: Health Care Activity, sid: T058, abbr: hlca, count: 2}
+  - {value: Organ or Tissue Function, sid: T042, abbr: ortf, count: 2}
+  - {value: Diagnostic Procedure, sid: T060, abbr: diap, count: 1}
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 1}
+  - {value: Molecular Function, sid: T044, abbr: moft, count: 1}
+  - {value: Clinical Attribute, sid: T201, abbr: clna, count: 1}
+  qid: 52f895602059c6d71c000040
+- question: What are the mobile applications fields of use for patients ?
+  predict-semantic-type-abbr: dora
+  semantic-types:
+  - {value: Daily or Recreational Activity, sid: T056, abbr: dora, count: 2}
+  - {value: Idea or Concept, sid: T078, abbr: idcn, count: 1}
+  - {value: Physiologic Function, sid: T039, abbr: phsf, count: 1}
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  - {value: Clinical Attribute, sid: T201, abbr: clna, count: 1}
+  - {value: Biomedical Occupation or Discipline, sid: T091, abbr: bmod, count: 1}
+  qid: 5324cca79b2d7acc7e00001d
+- question: Which drug is considered as the first line treatment of fibromyalgia?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 5324ce779b2d7acc7e00001e
+- question: List the off-label use of SSRIs
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 5}
+  - {value: Mental or Behavioral Dysfunction, sid: T048, abbr: mobd, count: 4}
+  - {value: Sign or Symptom, sid: T184, abbr: sosy, count: 2}
+  - {value: Geographic Area, sid: T083, abbr: geoa, count: 1}
+  - {value: Plant, sid: T002, abbr: plnt, count: 1}
+  qid: 5324cf139b2d7acc7e00001f
+- question: What is the name of Bruton's tyrosine kinase inhibitor that can be used for treatment of chronic lymphocytic leukemia?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 530cf4c54a5037880c000008
+- question: Which enzyme is inhibited by a drug fostamatinib?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 53357ca0d6d3ac6a3400004b
+- question: Which JAK (Janus kinase) inhibitor is approved for treatment of rheumatoid arthritis?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 53357193d6d3ac6a34000047
+- question: Which enzyme is targeted by the drug Imetelstat?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 532498959b2d7acc7e000017
+- question: What is the mode of inheritance of Marchesani syndrome?
+  predict-semantic-type-abbr: inpr
+  semantic-types:
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  qid: 532f0bd6d6d3ac6a3400002d
+- question: What is the frequency of mutations induced spontaneously through Ethylnitrosourea (ENU) mutagenesis?
+  predict-semantic-type-abbr: clnd
+  semantic-types: []
+  qid: 533ba85ffd9a95ea0d000008
+- question: In which genomic positions is the histone variant macroH2A enriched?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Cell Component, sid: T026, abbr: celc, count: 1}
+  qid: 533c384dc45e133714000006
+- question: Which histone modification is primarily linked to elongating transcription?
+  predict-semantic-type-abbr: moft
+  semantic-types: []
+  qid: 53372ba3d6d3ac6a34000058
+- question: What is the mode of inheritance of Acromicric dysplasia?
+  predict-semantic-type-abbr: inpr
+  semantic-types:
+  - {value: Intellectual Product, sid: T170, abbr: inpr, count: 1}
+  qid: 53318685d6d3ac6a3400003d
+- question: What is the clinical indication of cardiac T1 mapping magnetic resonance?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 533ba218fd9a95ea0d000007
+- question: Against which protein is the antibody used for immonostaining of Lewy bodies raised?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 53189656b166e2b80600001c
+- question: Which is the genetic lesion associated with Huntington’s disease?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 5319a6e9b166e2b806000023
+- question: Which multiple kinase inhibitors are used in cancer therapy?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 6}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 6}
+  qid: 5319a6c9b166e2b806000022
+- question: Which trinucleotide repeat disorders are affecting the nervous system?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 6}
+  - {value: Congenital Abnormality, sid: T019, abbr: cgab, count: 2}
+  qid: 5319a724b166e2b806000025
+- question: Which is the target of bortezomib used in cancer therapy?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 5319a708b166e2b806000024
+- question: Which is the E3 ubiquitin ligase of Hsp90?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 5319a7d2b166e2b806000029
+- question: What is the characteristic domain of histone methyltransferases?
+  predict-semantic-type-abbr: topp
+  semantic-types:
+  - {value: Amino Acid Sequence, sid: T087, abbr: amas, count: 1}
+  qid: 532dcfc9d6d3ac6a34000021
+- question: What tyrosine kinase, involved in a Philadelphia- chromosome positive chronic myelogenous leukemia, is the target of Imatinib (Gleevec)?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 5324a8ac9b2d7acc7e000018
+- question: What is the gene mutated in the Gaucher disease?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 532f55fed6d3ac6a34000036
+- question: What histone trimethylation has been associated to RNA splicing?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 532ff917d6d3ac6a34000038
+- question: What histone modification is recognized by the bromodomain?
+  predict-semantic-type-abbr: moft
+  semantic-types: []
+  qid: 53398855d6d3ac6a3400005b
+- question: What histone variants play a role in the DNA damage reponse?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 2}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 533675ced6d3ac6a34000056
+- question: Which cyclin- dependent kinase inhibitor is regulated by Bmi-1?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 533abc76d6d3ac6a34000064
+- question: What are the biological roles proposed for proteins containing the SPRY domain?
+  predict-semantic-type-abbr: topp
+  semantic-types:
+  - {value: Cell Function, sid: T043, abbr: celf, count: 2}
+  - {value: Physiologic Function, sid: T039, abbr: phsf, count: 1}
+  - {value: Organ or Tissue Function, sid: T042, abbr: ortf, count: 1}
+  qid: 533c2230c45e133714000002
+- question: What is the name of the stem loop present in the 3' end of genes encoding for selenoproteins?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Genetic Function, sid: T045, abbr: genf, count: 1}
+  qid: 533ea8fcc45e133714000010
+- question: Which is the histone residue methylated by MLL1?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  qid: 533be71dfd9a95ea0d000009
+- question: Which factors play a role in promoter proximal pausing of RNA polymerase II?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 533ec7abc45e133714000015
+- question: What is the function of the protein encoded by the gene PABPC4?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 531d744c267d7dd053000009
+- question: Name a method for enrichment of arginine-methylated peptides.
+  predict-semantic-type-abbr: topp
+  semantic-types: []
+  qid: 532206819b2d7acc7e00000f
+- question: What is the ubiquitin proteome?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 532f1452d6d3ac6a34000030
+- question: How can the expression of SerH3 immobilization antigen be regulated?
+  predict-semantic-type-abbr: topp
+  semantic-types:
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 1}
+  qid: 5335f053d6d3ac6a34000055
+- question: List five applications of machine learning algorithms in medical diagnosis.
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 52ee065d98d0239505000033
+- question: Which gene is involved in CADASIL?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 5323640b9b2d7acc7e000014
+- question: Which amino acid residue appears mutated in most of the cases reported with cadasil syndrome?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 532366f09b2d7acc7e000015
+- question: What are the main benefits of pharmacophore models?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 532c0ac4d6d3ac6a3400001a
+- question: Which are the main methods for pharmacophore modelling?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 532c0c21d6d3ac6a3400001b
+- question: List programs suitable for pharmacophore modelling
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Phenomenon or Process, sid: T067, abbr: phpr, count: 1}
+  qid: 532c0d7fd6d3ac6a3400001c
+- question: List programs suitable for protein docking
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Fish, sid: T013, abbr: fish, count: 1}
+  - {value: Temporal Concept, sid: T079, abbr: tmco, count: 1}
+  - {value: Substance, sid: T167, abbr: sbst, count: 1}
+  - {value: Plant, sid: T002, abbr: plnt, count: 1}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 53355befd6d3ac6a34000046
+- question: What genes are related to breast cancer?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 5}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 5}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 3}
+  - {value: Receptor, sid: T192, abbr: rcpt, count: 2}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 2}
+  - {value: Amino Acid Sequence, sid: T087, abbr: amas, count: 1}
+  qid: 53357c98d6d3ac6a3400004a
+- question: Which are the Chompret criteria for Li-Fraumeni syndrome?
+  predict-semantic-type-abbr: neop
+  semantic-types: []
+  qid: 531778ddb166e2b80600000f
+- question: Which G protein is essential in the formation and function of lamellipodia?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 5319ac36b166e2b806000031
+- question: Which genes were found to be methylated in bladder cancer cells?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 4}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  - {value: Cell, sid: T025, abbr: cell, count: 1}
+  qid: 534ab91eaeec6fbd07000012
+- question: Which growth factors are known to be involved in the induction of EMT?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 10}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 8}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 2}
+  - {value: Immunologic Factor, sid: T129, abbr: imft, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 5319abffb166e2b80600002f
+- question: Which transcription factors are involved in E-cadherin repression during EMT?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 5}
+  - {value: Physiologic Function, sid: T039, abbr: phsf, count: 1}
+  qid: 5319abe4b166e2b80600002e
+- question: Which are the enzymes involved in the control of tubulin acetylation?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 2}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 5322d3cb9b2d7acc7e000010
+- question: Which is the third subunit of the TSC1-TSC2 complex upstream of mTORC1?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 5319ac99b166e2b806000034
+- question: Which proteins are involved in actin bundling and filopodia formation and function?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 4}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 4}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 2}
+  qid: 5358e067f1005d6b5800000b
+- question: Which methyl-CpG-binding protein when mutant becomes the hallmark for Rett syndrome?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 534ebb59288f4dae47000004
+- question: In which process Src, Cortactin and MT1-MMP are playing an essential role?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 534eb34b288f4dae47000002
+- question: Which heat shock protein is found to be upregulated during Hsp90 inhibition?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 534abe8aaeec6fbd07000013
+- question: What is the triple screening test performed during pregnancy measuring?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Hormone, sid: T125, abbr: horm, count: 2}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 2}
+  - {value: Steroid, sid: T110, abbr: strd, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 532f49f8d6d3ac6a34000035
+- question: Which is the human selenoprotein that contains several Se-Cys residues?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 5343caffaeec6fbd07000002
+- question: Which is the substrate of the haspin kinase during mitosis?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 53442023aeec6fbd07000007
+- question: Which proteins act as histone-like molecules in prokaryotes?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 2}
+  - {value: Geographic Area, sid: T083, abbr: geoa, count: 1}
+  qid: 52fe54252059c6d71c000079
+- question: Do archaeal genomes contain one or multiple origins of replication?
+  predict-semantic-type-abbr: qnco
+  semantic-types: []
+  qid: 52fe58f82059c6d71c00007a
+- question: Which are the most under-represented oligonucleotides in higher eukaryote genomes?
+  predict-semantic-type-abbr: bpoc
+  semantic-types: []
+  qid: 52ffbddf2059c6d71c00007d
+- question: Which histone modifications are associated with constitutive heterochromatin?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Molecular Function, sid: T044, abbr: moft, count: 1}
+  qid: 52fe4ad52059c6d71c000077
+- question: Which are the mammalian orthologs of Drosophila Yki?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Body Location or Region, sid: T029, abbr: blor, count: 1}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 533c2a55c45e133714000003
+- question: Which is the phosphorylated residue in the promoter paused form of RNA polymerase II?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 5343bdd6aeec6fbd07000001
+- question: What is the inheritance pattern of Hunter disease or mucopolysaccharidosis II?
+  predict-semantic-type-abbr: inpr
+  semantic-types:
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  qid: 5344155faeec6fbd07000005
+- question: Is the long non- coding RNA malat-1 up or downregulated in cancer?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 53440d2caeec6fbd07000004
+- question: Which is the gene mutated in type 1 neurofibromatosis?
+  predict-semantic-type-abbr: neop
+  semantic-types:
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 1}
+  qid: 5343fc1aaeec6fbd07000003
+- question: Which is the transcript responsible for X-chromosome inactivation?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 5353aedb288f4dae47000006
+- question: Name five programs for transcript quantification from RNASeq experiments
+  predict-semantic-type-abbr: food
+  semantic-types:
+  - {value: Food, sid: T168, abbr: food, count: 1}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 5354f289288f4dae47000008
+- question: What is the number of protein coding genes in the human genome?
+  predict-semantic-type-abbr: clnd
+  semantic-types: []
+  qid: 535d3c069a4572de6f000006
+- question: What is the localization of the protein encoded by the gene DNAJC11?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Cell Component, sid: T026, abbr: celc, count: 1}
+  qid: 531e2695267d7dd05300000f
+- question: What does polyadenylate-binding protein 4 (PABP4) bind to?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 5326a85ad6d3ac6a3400000b
+- question: What does iBAQ stand for in proteomic analysis?
+  predict-semantic-type-abbr: nnon
+  semantic-types: []
+  qid: 5348307daeec6fbd07000011
+- question: List diseases where protein citrullination plays an important role.
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 5}
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 1}
+  qid: 534df8c9aeec6fbd07000016
+- question: Which genes have been found mutated in Gray platelet syndrome patients?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 4}
+  qid: 52d8494698d0239505000007
+- question: Which is the subcellular localization of ERAP2?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 53442ca9aeec6fbd0700000b
+- question: Which are the clinical characteristics of TSC?
+  predict-semantic-type-abbr: neop
+  semantic-types:
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 3}
+  - {value: Finding, sid: T033, abbr: fndg, count: 2}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  - {value: Sign or Symptom, sid: T184, abbr: sosy, count: 1}
+  - {value: Mental or Behavioral Dysfunction, sid: T048, abbr: mobd, count: 1}
+  qid: 52f77f042059c6d71c000029
+- question: Which are the enzymes involved in the addition of 7-methylguanosine in mRNA?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 2}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 52f77f4d2059c6d71c00002a
+- question: Which substances are dangerous to g6PD deficient individuals?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 5}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 4}
+  - {value: Antibiotic, sid: T195, abbr: antb, count: 1}
+  - {value: Plant, sid: T002, abbr: plnt, count: 1}
+  qid: 5314b20bdae131f847000005
+- question: Which proteins in the cerebro-spinal fluid can be used for early diagnosis of Alzheimer's disease?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Laboratory Procedure, sid: T059, abbr: lbpr, count: 2}
+  qid: 5311d130e3eabad021000009
+- question: Which types of cancer can be recognized and treated by the use of immunotherapy?
+  predict-semantic-type-abbr: neop
+  semantic-types:
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 8}
+  qid: 5321badd9b2d7acc7e00000a
+- question: Which are the newly identified DNA nucleases that can be used to treat thalassemia?
+  predict-semantic-type-abbr: moft
+  semantic-types:
+  - {value: Molecular Function, sid: T044, abbr: moft, count: 1}
+  qid: 52d2818403868f1b06000033
+- question: List the existing methods for genetic manipulation of cells.
+  predict-semantic-type-abbr: topp
+  semantic-types:
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 1}
+  - {value: Lipid, sid: T119, abbr: lipd, count: 1}
+  - {value: Laboratory Procedure, sid: T059, abbr: lbpr, count: 1}
+  - {value: Research Activity, sid: T062, abbr: resa, count: 1}
+  qid: 52d1389303868f1b06000032
+- question: Describe a diet that reduces the chance of kidney stones.
+  predict-semantic-type-abbr: topp
+  semantic-types: []
+  qid: 5311bcc2e3eabad021000005
+- question: Which are the biotracers used for detection of Alzheimer's disease using PET?
+  predict-semantic-type-abbr: topp
+  semantic-types:
+  - {value: 'Indicator, Reagent, or Diagnostic Aid', sid: T130, abbr: irda, count: 2}
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 2}
+  - {value: 'Element, Ion, or Isotope', sid: T196, abbr: elii, count: 2}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 5311bf53e3eabad021000006
+- question: Are there drugs for Tick-borne Encephalitis?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 532083389b2d7acc7e000003
+- question: Is there a crystal structure of Greek Goat Encephalitis?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 532819afd6d3ac6a3400000f
+- question: Is there a crystal structure of the full-length of the flaviviridae NS5(Methyltransferase - RNA depended RNA Polymerase) ?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Virus, sid: T005, abbr: virs, count: 1}
+  qid: 532aad53d6d3ac6a34000010
+- question: Which are the mains risk factors of metabolic syndrome?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 5}
+  - {value: Finding, sid: T033, abbr: fndg, count: 2}
+  qid: 5326c6fed6d3ac6a3400000c
+- question: List algorithms suitable for predicting protein complexes
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 3}
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 2}
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 1}
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 1}
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 1}
+  - {value: Bird, sid: T012, abbr: bird, count: 1}
+  - {value: Clinical Drug, sid: T200, abbr: clnd, count: 1}
+  - {value: Organophosphorus Compound, sid: T115, abbr: opco, count: 1}
+  qid: 5333f728d6d3ac6a34000041
+- question: What is the definitive treatment for low pressure headache?
+  predict-semantic-type-abbr: topp
+  semantic-types:
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 1}
+  qid: 53262cdcd6d3ac6a34000003
+- question: What are the indications for treatment with anti-hepcidin?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 3}
+  qid: 535d59349a4572de6f000009
+- question: List all articles on network meta-analysis for smoking cessation
+  predict-semantic-type-abbr: orch
+  semantic-types: []
+  qid: 535d5bac7d100faa09000001
+- question: What is the mode of inheritance of Wilson's disease?
+  predict-semantic-type-abbr: inpr
+  semantic-types:
+  - {value: Intellectual Product, sid: T170, abbr: inpr, count: 1}
+  qid: 52bf1b0a03868f1b06000009
+- question: What is the inheritance pattern of Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) caused by RYR2 mutations?
+  predict-semantic-type-abbr: inpr
+  semantic-types:
+  - {value: Intellectual Product, sid: T170, abbr: inpr, count: 1}
+  qid: 52bf19f703868f1b06000002
+- question: Which virus is Cidofovir (Vistide) indicated for?
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 52bf1cad03868f1b0600000a
+- question: To the ligand of which receptors does Denosumab (Prolia) bind?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 52bf1d9e03868f1b06000010
+- question: Is Rheumatoid Arthritis more common in men or women?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Population Group, sid: T098, abbr: popg, count: 1}
+  qid: 5118dd1305c10fae75000001
+- question: What is the most prominent sequence consensus for the polyadenylation site?
+  predict-semantic-type-abbr: nnon
+  semantic-types:
+  - {value: 'Nucleic Acid, Nucleoside, or Nucleotide', sid: T114, abbr: nnon, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 5133b9455274a5fb0700000c
+- question: Which extra thyroid tissues have thyrotropin (TSH) receptors?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Tissue, sid: T024, abbr: tisu, count: 1}
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  qid: 513f45abbee46bd34c000013
+- question: What is the methyl donor of DNA (cytosine-5)-methyltransferases?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 51404dd723fec90375000002
+- question: Tumors of which three organs are classically associated with the multiple endocrine neoplasia type 1 syndrome?
+  predict-semantic-type-abbr: bpoc
+  semantic-types:
+  - {value: 'Body Part, Organ, or Organ Component', sid: T023, abbr: bpoc, count: 3}
+  qid: 51477de5d24251bc05000020
+- question: Which acetylcholinesterase inhibitors are used for treatment of myasthenia gravis?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 2}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 2}
+  qid: 5149199dd24251bc05000040
+- question: Which medication should be administered when managing patients with suspected acute opioid overdose?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 5149f494d24251bc0500004c
+- question: Which antiepileptic drug is most strongly associated with spina bifida?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Lipid, sid: T119, abbr: lipd, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 51588bb2d24251bc05000091
+- question: Where in the cell do we find the protein Cep135?
+  predict-semantic-type-abbr: celc
+  semantic-types:
+  - {value: Cell Component, sid: T026, abbr: celc, count: 1}
+  qid: 51596a8ad24251bc0500009e
+- question: In which isochores are Alu elements enriched?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Body Part, Organ, or Organ Component', sid: T023, abbr: bpoc, count: 1}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 515bd543298dcd4e51000001
+- question: Which forms of cancer is the Tpl2 gene associated with?
+  predict-semantic-type-abbr: neop
+  semantic-types:
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 6}
+  qid: 515bf6d6298dcd4e51000004
+- question: Which species may be used for the biotechnological production of itaconic acid?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Fungus, sid: T004, abbr: fngs, count: 3}
+  qid: 515ffc2b298dcd4e51000035
+- question: Which histone marks are deposited by Set7?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 5160412d298dcd4e5100003c
+- question: What is the inheritance pattern of Emery-Dreifuss muscular dystrophy?
+  predict-semantic-type-abbr: inpr
+  semantic-types:
+  - {value: Intellectual Product, sid: T170, abbr: inpr, count: 2}
+  - {value: Genetic Function, sid: T045, abbr: genf, count: 1}
+  qid: 51656c94298dcd4e51000058
+- question: Which is the vector of Louping ill virus?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Eukaryote, sid: T204, abbr: euka, count: 1}
+  qid: 51716e808ed59a060a00000b
+- question: Name the major classes of small non coding RNAs in mammalians?
+  predict-semantic-type-abbr: nnon
+  semantic-types:
+  - {value: 'Nucleic Acid, Nucleoside, or Nucleotide', sid: T114, abbr: nnon, count: 4}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 4}
+  qid: 517295c18ed59a060a000016
+- question: Which drugs are utilized to treat eosinophilic esophagitis?
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 2}
+  - {value: Steroid, sid: T110, abbr: strd, count: 1}
+  qid: 518ba4b5310faafe08000005
+- question: Which microRNAs are involved in exercise adaptation?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 10}
+  - {value: 'Nucleic Acid, Nucleoside, or Nucleotide', sid: T114, abbr: nnon, count: 5}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 518cca6f310faafe0800000a
+- question: What is the average diameter of intermediate filaments?
+  predict-semantic-type-abbr: clnd
+  semantic-types: []
+  qid: 515db3d8298dcd4e51000015
+- question: What disease is Velcade (bortezomib) mainly used for?
+  predict-semantic-type-abbr: neop
+  semantic-types:
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 1}
+  qid: 51631154298dcd4e5100004e
+- question: List co-morbidities that may occur together with "Stiff man Syndrome"
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  - {value: Classification, sid: T185, abbr: clas, count: 1}
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 1}
+  - {value: Mental or Behavioral Dysfunction, sid: T048, abbr: mobd, count: 1}
+  qid: 515df86a298dcd4e5100002e
+- question: Which are the inhibitors of histone methyltransferases?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 6}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 3}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 2}
+  - {value: 'Indicator, Reagent, or Diagnostic Aid', sid: T130, abbr: irda, count: 1}
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 1}
+  - {value: Immunologic Factor, sid: T129, abbr: imft, count: 1}
+  - {value: Antibiotic, sid: T195, abbr: antb, count: 1}
+  - {value: 'Nucleic Acid, Nucleoside, or Nucleotide', sid: T114, abbr: nnon, count: 1}
+  qid: 5166f41a298dcd4e5100005b
+- question: Which is the causative agent of malaria?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Eukaryote, sid: T204, abbr: euka, count: 1}
+  qid: 517194ef8ed59a060a000011
+- question: Name the factors required for selenoprotein synthesis in eukaryotes
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 7}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 3}
+  - {value: Genetic Function, sid: T045, abbr: genf, count: 2}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 2}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 51766e438ed59a060a000031
+- question: List some ways to reverse Tau hyperphosphorylation in Tauopathies?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 517775c78ed59a060a000033
+- question: Which is the molecular mechanism underlying K-ras alterations in carcinomas?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Cell or Molecular Dysfunction, sid: T049, abbr: comd, count: 1}
+  qid: 5177def18ed59a060a000034
+- question: Which is the neurodevelopmental disorder associated to mutations in the X- linked gene mecp2?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 517818508ed59a060a000035
+- question: What are the effects of ILK ablation?
+  predict-semantic-type-abbr: sosy
+  semantic-types: []
+  qid: 5179602c8ed59a060a00003d
+- question: Which deiodinase is known to be present in liver?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 517a8b768ed59a060a00003f
+- question: Which deiodinases are best known to be present in brain?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 517a8bab8ed59a060a000040
+- question: Which deiodinases are present in skeletal muscle?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 517a8bef8ed59a060a000041
+- question: Where is X-ray free electron laser used?
+  predict-semantic-type-abbr: diap
+  semantic-types:
+  - {value: Diagnostic Procedure, sid: T060, abbr: diap, count: 1}
+  qid: 51475d5cd24251bc0500001b
+- question: How is myotonic dystrophy inherited?
+  predict-semantic-type-abbr: inpr
+  semantic-types:
+  - {value: Intellectual Product, sid: T170, abbr: inpr, count: 1}
+  qid: 51635202298dcd4e5100004f
+- question: What is the function of cryptochrome-1 in mouse?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 51680a6d298dcd4e51000063
+- question: Which are the families of mammalian DNA-(cytosine-5)-methyltransferases?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 2}
+  - {value: Amino Acid Sequence, sid: T087, abbr: amas, count: 1}
+  qid: 516c3960298dcd4e51000073
+- question: By which methods can we evaluate the reliability of a phylogenetic tree?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 1}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 516ec97f298dcd4e51000087
+- question: Which genes are more frequently affected by somatic mutations in Chronic Lymphocytic Leukemia
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 8}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  - {value: Congenital Abnormality, sid: T019, abbr: cgab, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 5171a1498ed59a060a000012
+- question: Which is the execution time (complexity) of the Smith-Waterman algorithm for the alignment of two sequences
+  predict-semantic-type-abbr: medd
+  semantic-types:
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 1}
+  qid: 51724fca8ed59a060a000013
+- question: How many TAp73 isoforms have been identified in humans?
+  predict-semantic-type-abbr: qnco
+  semantic-types:
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 2}
+  qid: 5173bdb38ed59a060a000020
+- question: What type of cancers and inherited diseases have been associated to mutations in the Notch pathway?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 1}
+  - {value: Congenital Abnormality, sid: T019, abbr: cgab, count: 1}
+  qid: 5173eb428ed59a060a000021
+- question: Which mitochondrial genes are regulated by thyroid hormone?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 3}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 517539e68ed59a060a000028
+- question: The antibodies MK-3475 and CT-011 have shown promising results in treating malignancies. Which protein are they targeting?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 517901bc8ed59a060a00003b
+- question: Which dediodinases are present in kidney?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 517a8c238ed59a060a000042
+- question: Which drugs are utilized to treat amiodarone-induced thyroitoxicosis?
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 3}
+  - {value: Hormone, sid: T125, abbr: horm, count: 2}
+  - {value: Diagnostic Procedure, sid: T060, abbr: diap, count: 1}
+  - {value: Steroid, sid: T110, abbr: strd, count: 1}
+  - {value: 'Element, Ion, or Isotope', sid: T196, abbr: elii, count: 1}
+  qid: 518cb4b5310faafe08000006
+- question: Which are the best treatment options to treat Helicobacter pylori?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 3}
+  - {value: Antibiotic, sid: T195, abbr: antb, count: 2}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 518cb5ab310faafe08000008
+- question: Which are currently available software tools for detecting rare codon clusters in coding sequences?
+  predict-semantic-type-abbr: dora
+  semantic-types:
+  - {value: Daily or Recreational Activity, sid: T056, abbr: dora, count: 1}
+  qid: 51be411b047fa84d1d000006
+- question: Which is the most widely used anti-TNF drug?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Immunologic Factor, sid: T129, abbr: imft, count: 1}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 512d0e635274a5fb07000005
+- question: Which is the prevalence of cystic fibrosis in the human population?
+  predict-semantic-type-abbr: clnd
+  semantic-types: []
+  qid: 513ce5f2bee46bd34c00000a
+- question: Which is the binding site motif of Sp1?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 515d692c298dcd4e5100000a
+- question: What is the treatment of neuropathic pain in children?
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 4}
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 2}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  qid: 515da6e2298dcd4e51000010
+- question: What are the advantages of the top down mass spectrometric analysis of histones?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 51630226298dcd4e5100004d
+- question: What is the mode of inheritance of nemaline myopathy?
+  predict-semantic-type-abbr: inpr
+  semantic-types:
+  - {value: Intellectual Product, sid: T170, abbr: inpr, count: 2}
+  qid: 516be1d6298dcd4e5100006a
+- question: Which genes does thyroid hormone receptor beta1 regulate in the liver?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 3}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  - {value: Receptor, sid: T192, abbr: rcpt, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 516c0ebc298dcd4e5100006e
+- question: Is cancer related to global DNA hypo or hypermethylation?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 516e5f10298dcd4e5100007c
+- question: What is the genetic basis of Rubinstein-Taybi syndrome?
+  predict-semantic-type-abbr: phsu
+  semantic-types: []
+  qid: 516e5f41298dcd4e5100007f
+- question: Which is the methyl donor of histone methyltransferases?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 6}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 6}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 6}
+  qid: 516e7fda298dcd4e51000081
+- question: In which proteins is the chromodomain present?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 19}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 10}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 9}
+  - {value: 'Nucleic Acid, Nucleoside, or Nucleotide', sid: T114, abbr: nnon, count: 1}
+  - {value: Cell Component, sid: T026, abbr: celc, count: 1}
+  - {value: Molecular Function, sid: T044, abbr: moft, count: 1}
+  - {value: Food, sid: T168, abbr: food, count: 1}
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 1}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 517137c18ed59a060a000001
+- question: What is the gene frequently mutated in Multiple endocrine neoplasia 2 (MEN2) and Hisrchsprung disease?
+  predict-semantic-type-abbr: bpoc
+  semantic-types:
+  - {value: 'Body Part, Organ, or Organ Component', sid: T023, abbr: bpoc, count: 1}
+  qid: 5171438a8ed59a060a000007
+- question: Name five popular computer programs used to identify genes in genomic sequences
+  predict-semantic-type-abbr: fngs
+  semantic-types:
+  - {value: Fungus, sid: T004, abbr: fngs, count: 1}
+  - {value: Intellectual Product, sid: T170, abbr: inpr, count: 1}
+  - {value: Substance, sid: T167, abbr: sbst, count: 1}
+  qid: 51716a438ed59a060a00000a
+- question: Which is the most important prognosis sub-classification in Chronic Lymphocytic Leukemia?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 51739df58ed59a060a00001c
+- question: Which are the bioinformatics tools for gene structure prediction?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 1}
+  - {value: Fish, sid: T013, abbr: fish, count: 1}
+  - {value: 'Body Part, Organ, or Organ Component', sid: T023, abbr: bpoc, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  - {value: Substance, sid: T167, abbr: sbst, count: 1}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  - {value: Mental Process, sid: T041, abbr: menp, count: 1}
+  qid: 51740da48ed59a060a000024
+- question: Which viruses are best known to cause myocarditis?
+  predict-semantic-type-abbr: virs
+  semantic-types:
+  - {value: Virus, sid: T005, abbr: virs, count: 2}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 517a8c918ed59a060a000043
+- question: What is the treatment of acute myocarditis?
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 517a8cc68ed59a060a000044
+- question: Which genes does thyroid hormone receptor alpha1 regulate in the heart?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 8}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 2}
+  qid: 515c4f05298dcd4e51000006
+- question: Which genes does thyroid hormone receptor beta1 regulate in the heart?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 515c4f1f298dcd4e51000007
+- question: Which cellular processes are regulated by Nanog?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Cell Function, sid: T043, abbr: celf, count: 3}
+  - {value: Organism Function, sid: T040, abbr: orgf, count: 1}
+  - {value: Molecular Function, sid: T044, abbr: moft, count: 1}
+  qid: 515d1ff7298dcd4e51000009
+- question: How many genes does the human hoxD cluster contain?
+  predict-semantic-type-abbr: qnco
+  semantic-types:
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 1}
+  qid: 515db083298dcd4e51000012
+- question: What are the current treatments for generalised anxiety disorder in teenagers?
+  predict-semantic-type-abbr: topp
+  semantic-types:
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 3}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 2}
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 1}
+  qid: 515db20e298dcd4e51000014
+- question: List all clinical trials of the polypill.
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 2}
+  - {value: Vitamin, sid: T127, abbr: vita, count: 2}
+  - {value: Food, sid: T168, abbr: food, count: 2}
+  - {value: Virus, sid: T005, abbr: virs, count: 1}
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  - {value: Body Location or Region, sid: T029, abbr: blor, count: 1}
+  - {value: Qualitative Concept, sid: T080, abbr: qlco, count: 1}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 515de572298dcd4e51000021
+- question: List all approved indications for Glivec
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 3}
+  qid: 515de748298dcd4e51000023
+- question: List all reported treatment options for anxiety in autism spectrum disorder.
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 515de993298dcd4e51000024
+- question: List the endoscopic diagnoses that have been reported in children with autism
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 4}
+  qid: 515deafd298dcd4e51000025
+- question: What is the indication for prophylactic use of antibiotics in COPD?
+  predict-semantic-type-abbr: mobd
+  semantic-types: []
+  qid: 515df063298dcd4e51000029
+- question: What is the lay name of the treatment for CCSVI (chronic cerebro-spinal venous insufficiency) in multiple sclerosis.
+  predict-semantic-type-abbr: phsu
+  semantic-types: []
+  qid: 515df199298dcd4e5100002a
+- question: Which species may be used for the biotechnological production of itaconic acid?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Fungus, sid: T004, abbr: fngs, count: 3}
+  qid: 515ffc2b298dcd4e51000035
+- question: Which are the most commonly reported pathological states associated with the formation of DNA G-quadruplexes?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 1}
+  - {value: Pathologic Function, sid: T046, abbr: patf, count: 1}
+  - {value: Functional Concept, sid: T169, abbr: ftcn, count: 1}
+  qid: 51600ab3298dcd4e51000036
+- question: Against which organisms has reverse vaccinology been used?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Bacterium, sid: T007, abbr: bact, count: 10}
+  - {value: Eukaryote, sid: T204, abbr: euka, count: 2}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 51601071298dcd4e51000038
+- question: Which histone marks are deposited by Set7?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 5160412d298dcd4e5100003c
+- question: Global quantitative phosphoproteomic analyses are emerging. List the preferred technologies for the enrichment for phosphorylated peptides?
+  predict-semantic-type-abbr: topp
+  semantic-types: []
+  qid: 516281e6298dcd4e51000040
+- question: The protein neprilysin has an positive effect on Alzheimer disease, how can it be delivered to the brain?
+  predict-semantic-type-abbr: topp
+  semantic-types:
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 2}
+  - {value: Body Space or Junction, sid: T030, abbr: bsoj, count: 1}
+  - {value: Research Activity, sid: T062, abbr: resa, count: 1}
+  - {value: Genetic Function, sid: T045, abbr: genf, count: 1}
+  qid: 5162e44f298dcd4e5100004a
+- question: How many genera comprise the Flaviviridae family?
+  predict-semantic-type-abbr: qnco
+  semantic-types:
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 2}
+  qid: 51651e24298dcd4e51000054
+- question: Which is the protein (antigen) targeted by anti-Vel antibodies in the Vel blood group?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 516545a8298dcd4e51000056
+- question: Which genes does thyroid hormone receptor alpha1 regulate in the liver?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 3}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 3}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 516c0ed3298dcd4e5100006f
+- question: Which anticancer drugs target human topoisomerase II?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 5}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 4}
+  - {value: Antibiotic, sid: T195, abbr: antb, count: 3}
+  - {value: Carbohydrate, sid: T118, abbr: carb, count: 2}
+  qid: 516e5f25298dcd4e5100007d
+- question: Which are the synonyms of prostate-specific antigen?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Molecular Function, sid: T044, abbr: moft, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 5171651e8ed59a060a000009
+- question: Which enzyme is deficient in Krabbe disease?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 5147c8a6d24251bc05000027
+- question: What are the computational methods for the prediction of beta-barrel transmembrane proteins?
+  predict-semantic-type-abbr: topp
+  semantic-types:
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 1}
+  qid: 5149a61ed24251bc05000044
+- question: Which are the available biomedical text mining tools for the detection of protein-protein interactions?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: 'Body Part, Organ, or Organ Component', sid: T023, abbr: bpoc, count: 1}
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 1}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  - {value: Medical Device, sid: T074, abbr: medd, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  - {value: 'Element, Ion, or Isotope', sid: T196, abbr: elii, count: 1}
+  qid: 5149aafcd24251bc05000045
+- question: Which are the state-of-the-art computational tools for the prediction of gene fusion events?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  - {value: Medical Device, sid: T074, abbr: medd, count: 1}
+  qid: 5149af96d24251bc05000046
+- question: How many genes are in the gene signature screened by MammaPrint?
+  predict-semantic-type-abbr: qnco
+  semantic-types:
+  - {value: Clinical Attribute, sid: T201, abbr: clna, count: 1}
+  qid: 514a0f4ad24251bc05000053
+- question: How many clinical trials for off-label drugs in neonates are cited in the literature.
+  predict-semantic-type-abbr: qnco
+  semantic-types:
+  - {value: Quantitative Concept, sid: T081, abbr: qnco, count: 3}
+  qid: 5150b807d24251bc05000072
+- question: What are the generic versions of Viagra?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  qid: 5150f401d24251bc05000075
+- question: Which gene test can be used for the X-linked myotubular myopathy?
+  predict-semantic-type-abbr: neop
+  semantic-types:
+  - {value: Medical Device, sid: T074, abbr: medd, count: 1}
+  qid: 51542dabd24251bc0500007d
+- question: What are the symptoms of abacavir hypersensitivity?
+  predict-semantic-type-abbr: sosy
+  semantic-types:
+  - {value: Sign or Symptom, sid: T184, abbr: sosy, count: 6}
+  - {value: Pathologic Function, sid: T046, abbr: patf, count: 1}
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 51542dc3d24251bc0500007e
+- question: Mutations in which gene determine response to both erlotinib and gefitinib?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Receptor, sid: T192, abbr: rcpt, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 51542e44d24251bc05000081
+- question: Which population has a high frequency of the HLA-B*1502 allele?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 51542e6fd24251bc05000082
+- question: What gene test is recommended for clopidogrel?
+  predict-semantic-type-abbr: nnon
+  semantic-types: []
+  qid: 5156be04d24251bc05000085
+- question: What disease is mirtazapine predominantly used for?
+  predict-semantic-type-abbr: mobd
+  semantic-types:
+  - {value: Mental or Behavioral Dysfunction, sid: T048, abbr: mobd, count: 1}
+  qid: 5156be17d24251bc05000086
+- question: Which diseases is microRNA 132 (miR-132) implicated in?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 7}
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 2}
+  - {value: Mental or Behavioral Dysfunction, sid: T048, abbr: mobd, count: 2}
+  - {value: Organ or Tissue Function, sid: T042, abbr: ortf, count: 1}
+  qid: 5156be75d24251bc05000088
+- question: Gene silencing can be achieved by RNA interference (RNAi) in eukaryotic organisms. What is the name of the analogous process in prokaryotic organisms?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Molecular Function, sid: T044, abbr: moft, count: 1}
+  qid: 5157539ed24251bc0500008a
+- question: Carbapenemase-producing gram-negative bacteria is a major health concern because their resistance to antibiotics. List the most frequent carbapenemases found in Enterobacteriaceae.
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 2}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 2}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  - {value: 'Indicator, Reagent, or Diagnostic Aid', sid: T130, abbr: irda, count: 1}
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 1}
+  - {value: Neuroreactive Substance or Biogenic Amine, sid: T124, abbr: nsba, count: 1}
+  - {value: 'Nucleic Acid, Nucleoside, or Nucleotide', sid: T114, abbr: nnon, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  - {value: Clinical Attribute, sid: T201, abbr: clna, count: 1}
+  qid: 515870cdd24251bc0500008f
+- question: Proteomic analyses have revealed proteins associated with the triple-negative breast cancers. List some proposed proteins.
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 11}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 9}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 6}
+  - {value: Immunologic Factor, sid: T129, abbr: imft, count: 2}
+  - {value: Laboratory Procedure, sid: T059, abbr: lbpr, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  - {value: Receptor, sid: T192, abbr: rcpt, count: 1}
+  qid: 51595fb0d24251bc0500009c
+- question: Where in the cell do we find the protein Cep135?
+  predict-semantic-type-abbr: celc
+  semantic-types:
+  - {value: Cell Component, sid: T026, abbr: celc, count: 1}
+  qid: 51596a8ad24251bc0500009e
+- question: Which compounds exist that are thyroid hormone analogs?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 14}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 7}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 6}
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  - {value: Hazardous or Poisonous Substance, sid: T131, abbr: hops, count: 1}
+  qid: 515993f3d24251bc050000a0
+- question: What are the effects of depleting protein km23-1 (DYNLRB1) in a cell?
+  predict-semantic-type-abbr: gngm
+  semantic-types: []
+  qid: 515a7ffdd24251bc050000a5
+- question: Where can we find the protein lacritin?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  - {value: Body Substance, sid: T031, abbr: bdsu, count: 1}
+  - {value: 'Body Part, Organ, or Organ Component', sid: T023, abbr: bpoc, count: 1}
+  qid: 515b30d8d24251bc050000b0
+- question: A common problem in proteomics is the contamination of samples with exogenous proteins (often from other species). These proteins can be found in specific databases. List some contaminants.
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 3}
+  - {value: Immunologic Factor, sid: T129, abbr: imft, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 515d7693298dcd4e5100000c
+- question: List all clinical trials of the polypill.
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Body Location or Region, sid: T029, abbr: blor, count: 1}
+  qid: 515db020298dcd4e51000011
+- question: What are the reported adverse effects of gabapentin used in children?
+  predict-semantic-type-abbr: sosy
+  semantic-types:
+  - {value: Sign or Symptom, sid: T184, abbr: sosy, count: 5}
+  - {value: Finding, sid: T033, abbr: fndg, count: 5}
+  - {value: Individual Behavior, sid: T055, abbr: inbe, count: 1}
+  - {value: Mental or Behavioral Dysfunction, sid: T048, abbr: mobd, count: 1}
+  - {value: Clinical Attribute, sid: T201, abbr: clna, count: 1}
+  qid: 515db70c298dcd4e51000017
+- question: In what proportion of children with heart failure has Enalapril been shown to be safe and effective?
+  predict-semantic-type-abbr: clnd
+  semantic-types:
+  - {value: Clinical Drug, sid: T200, abbr: clnd, count: 1}
+  qid: 515dd3d5298dcd4e5100001c
+- question: What is the percentage of responders to tetrabenazine treatment for dystonia in children?
+  predict-semantic-type-abbr: clnd
+  semantic-types:
+  - {value: Clinical Drug, sid: T200, abbr: clnd, count: 1}
+  qid: 515ddda6298dcd4e5100001f
+- question: What are the known families of deadenylases?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 5}
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 1}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 5162c8a8298dcd4e51000047
+- question: What is the treatment of triiodothyronine toxicosis?
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 2}
+  - {value: Diagnostic Procedure, sid: T060, abbr: diap, count: 1}
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 1}
+  - {value: 'Nucleic Acid, Nucleoside, or Nucleotide', sid: T114, abbr: nnon, count: 1}
+  qid: 518cb6ab310faafe08000009
+- question: Which are the most widely reported side-effects in the treatment of Crohn's disease?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 4}
+  - {value: Pathologic Function, sid: T046, abbr: patf, count: 1}
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  - {value: Sign or Symptom, sid: T184, abbr: sosy, count: 1}
+  qid: 511a20f3df1ebcce7d00000c
+- question: How many tissue kallikrein genes are present in the human genome?
+  predict-semantic-type-abbr: bpoc
+  semantic-types:
+  - {value: 'Body Part, Organ, or Organ Component', sid: T023, abbr: bpoc, count: 1}
+  qid: 511a3573df1ebcce7d000018
+- question: Which are the plant DNA (cytosine-5) methyltransferase families?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 511a4d391159fa8212000003
+- question: Is the H3K4me3 histone mark related to transcriptional initiation or elongation?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Genetic Function, sid: T045, abbr: genf, count: 1}
+  qid: 512d2fff5274a5fb07000006
+- question: Which are the main histone modifications associated with enhancers?
+  predict-semantic-type-abbr: dsyn
+  semantic-types: []
+  qid: 5131bef65274a5fb07000008
+- question: Which are the main causes of fetal echogenic bowel?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 2}
+  - {value: Laboratory Procedure, sid: T059, abbr: lbpr, count: 1}
+  qid: 5131fa145274a5fb07000009
+- question: Which is the process that Conserved noncoding elements mostly regulate?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Physiologic Function, sid: T039, abbr: phsf, count: 1}
+  qid: 51387022bee46bd34c000002
+- question: Which is the most widely used model for the study of multiple sclerosis (MS)?
+  predict-semantic-type-abbr: neop
+  semantic-types:
+  - {value: Experimental Model of Disease, sid: T050, abbr: emod, count: 1}
+  qid: 5139b31dbee46bd34c000004
+- question: Which human genes are more commonly related to craniosynostosis?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 6}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 3}
+  - {value: Receptor, sid: T192, abbr: rcpt, count: 3}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 2}
+  - {value: Physiologic Function, sid: T039, abbr: phsf, count: 1}
+  qid: 513ce3c8bee46bd34c000008
+- question: Which is the most common disease attributed to malfunction or absence of primary cilia?
+  predict-semantic-type-abbr: dsyn
+  semantic-types:
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 513ce494bee46bd34c000009
+- question: Which drugs may interfere thyroxine absorption?
+  predict-semantic-type-abbr: phsu
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 7}
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 3}
+  - {value: Inorganic Chemical, sid: T197, abbr: inch, count: 3}
+  - {value: Carbohydrate, sid: T118, abbr: carb, count: 1}
+  qid: 513f3d1fbee46bd34c000010
+- question: Which is the defective protein causing the lysosomal storage disease Fabry?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 1}
+  qid: 51405cd123fec90375000005
+- question: Which are the major transcription factors regulating glycolysis in mammals?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 5}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 4}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 2}
+  - {value: Immunologic Factor, sid: T129, abbr: imft, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 514168ab23fec9037500000a
+- question: The CXCR2 receptor is targeted in cancer. Name five antagonists.
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 3}
+  qid: 5141bcd423fec9037500000d
+- question: Which are the available biomedical text mining tools for the detection of protein-protein interactions?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Medical Device, sid: T074, abbr: medd, count: 1}
+  qid: 514217a6d24251bc05000005
+- question: The protein NONO forms heterodimers. With which proteins?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 514241fcd24251bc05000006
+- question: What are the computational tools for the prediction of beta-barrel transmembrane proteins?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 1}
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 1}
+  - {value: Therapeutic or Preventive Procedure, sid: T061, abbr: topp, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 51434c74d24251bc0500000c
+- question: Which type of lung cancer is the most strongly associated with Lambert-Eaton syndrome?
+  predict-semantic-type-abbr: neop
+  semantic-types:
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 1}
+  qid: 5147c088d24251bc05000026
+- question: Which protein is affected by dusp8 activation?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Molecular Function, sid: T044, abbr: moft, count: 1}
+  qid: 5148691bd24251bc0500002d
+- question: Which scales are recommended by the American Heart Association for depression screening in cardiovascular patients?
+  predict-semantic-type-abbr: bpoc
+  semantic-types: []
+  qid: 51486f7dd24251bc0500002e
+- question: Which pharmacogenetic test is available for abacavir?
+  predict-semantic-type-abbr: orch
+  semantic-types: []
+  qid: 51487dead24251bc05000030
+- question: Which two catechol-O-methyl transferase (COMT) inhibitors can be used for treatment of Parkinson disease?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 2}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 2}
+  qid: 51487ef9d24251bc05000031
+- question: Which genes are involved in patient response to warfarin?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 7}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 6}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 5}
+  - {value: Immunologic Factor, sid: T129, abbr: imft, count: 1}
+  qid: 5148885ad24251bc05000032
+- question: Mutation of which gene and which chromosome cause Neurofibromatosis type I?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Cell Component, sid: T026, abbr: celc, count: 1}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 1}
+  qid: 5148e1d6d24251bc0500003a
+- question: Which drug should be used as an antidote in benzodiazepine overdose?
+  predict-semantic-type-abbr: orch
+  semantic-types:
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 1}
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 1}
+  qid: 514a0a57d24251bc05000051
+- question: Which diseases can Oncotype DX be used for?
+  predict-semantic-type-abbr: neop
+  semantic-types:
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 2}
+  qid: 514a11add24251bc05000054
+- question: Which pituitary adenoma is common cause of infertility is women?
+  predict-semantic-type-abbr: neop
+  semantic-types:
+  - {value: Neoplastic Process, sid: T191, abbr: neop, count: 1}
+  qid: 514a51c2d24251bc0500005c
+- question: Intact macromolecular assemblies are analysed by advanced mass spectrometry. How large complexes (in molecular weight) have been studied?
+  predict-semantic-type-abbr: clnd
+  semantic-types: []
+  qid: 514c3fd7d24251bc05000062
+- question: Which enzyme is involved in the maintenance of DNA (cytosine-5-)-methylation?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 2}
+  qid: 51585b28d24251bc0500008d
+- question: Which are the DNA (cytosine-5-)-methyltransferases inhibitors?
+  predict-semantic-type-abbr: aapp
+  semantic-types:
+  - {value: Pharmacologic Substance, sid: T121, abbr: phsu, count: 12}
+  - {value: 'Nucleic Acid, Nucleoside, or Nucleotide', sid: T114, abbr: nnon, count: 9}
+  - {value: Organic Chemical, sid: T109, abbr: orch, count: 8}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 2}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 5165932e298dcd4e51000059
+- question: Which genes are regulated by MEF-2 in the heart?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 5}
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 4}
+  - {value: Enzyme, sid: T126, abbr: enzy, count: 2}
+  - {value: Immunologic Factor, sid: T129, abbr: imft, count: 1}
+  - {value: Laboratory Procedure, sid: T059, abbr: lbpr, count: 1}
+  - {value: Molecular Function, sid: T044, abbr: moft, count: 1}
+  - {value: Eukaryote, sid: T204, abbr: euka, count: 1}
+  - {value: Receptor, sid: T192, abbr: rcpt, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  - {value: Disease or Syndrome, sid: T047, abbr: dsyn, count: 1}
+  qid: 517539af8ed59a060a000026
+- question: Which genes are regulated by TRalpha2 in the heart?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 2}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 1}
+  - {value: Molecular Function, sid: T044, abbr: moft, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 517539ca8ed59a060a000027
+- question: What are the major classes of retrotransposons active in the human genome?
+  predict-semantic-type-abbr: nnon
+  semantic-types:
+  - {value: 'Nucleic Acid, Nucleoside, or Nucleotide', sid: T114, abbr: nnon, count: 2}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 2}
+  - {value: 'Body Part, Organ, or Organ Component', sid: T023, abbr: bpoc, count: 1}
+  - {value: Finding, sid: T033, abbr: fndg, count: 1}
+  qid: 517843638ed59a060a000036
+- question: What is a popular mesaure of gene expression in RNA-seq experiments?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 5178d6be8ed59a060a000038
+- question: Which are the known human transmembrane nucleoporins?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 8}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 3}
+  - {value: Receptor, sid: T192, abbr: rcpt, count: 1}
+  - {value: Biologically Active Substance, sid: T123, abbr: bacs, count: 1}
+  qid: 51bdb644047fa84d1d000001
+- question: Which is the receptor for substrates of Chaperone Mediated Autophagy?
+  predict-semantic-type-abbr: aapp
+  semantic-types: []
+  qid: 51bdd9c2047fa84d1d000002
+- question: Which are the Atg8 homologs in human?
+  predict-semantic-type-abbr: gngm
+  semantic-types:
+  - {value: Gene or Genome, sid: T028, abbr: gngm, count: 16}
+  - {value: 'Amino Acid, Peptide, or Protein', sid: T116, abbr: aapp, count: 6}
+  qid: 51bdf045047fa84d1d000003
+- question: How many selenoproteins are encoded in the human genome?
+  predict-semantic-type-abbr: qnco
+  semantic-types:
+  - {value: 'Body Part, Organ, or Organ Component', sid: T023, abbr: bpoc, count: 1}
+  qid: 517170c48ed59a060a00000d

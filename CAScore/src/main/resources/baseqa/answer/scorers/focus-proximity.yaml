@@ -1,0 +1,5 @@
+class: edu.cmu.lti.oaqa.baseqa.answer.scorers.FocusProximityCavScorer
+
+window-size: 10
+infinity: 20
+smoothing: 5.0

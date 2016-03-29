@@ -1,0 +1,8 @@
+class: edu.cmu.lti.oaqa.baseqa.answer.CollectiveAnswerScorePredictor
+
+scorers: |
+  - inherit: baseqa.answer.collective_scorers.original
+  - inherit: baseqa.answer.collective_scorers.distance
+  - inherit: baseqa.answer.collective_scorers.type-coercion
+#feature-file: result/collective-predict.tsv
+# add "classifier"

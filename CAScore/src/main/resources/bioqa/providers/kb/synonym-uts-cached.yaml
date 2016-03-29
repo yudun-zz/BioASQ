@@ -1,0 +1,11 @@
+class: edu.cmu.lti.oaqa.bioqa.providers.kb.CachedUtsSynonymExpansionProvider
+
+service: http://umlsks.nlm.nih.gov
+version: 2014AB
+username: yangzi
+password: 'Oaqa12#$'
+nthreads: 100
+timeout: 5
+
+db-file: src/main/resources/synonym-cache/uts-cache.mapdb
+map-name: uts-cache

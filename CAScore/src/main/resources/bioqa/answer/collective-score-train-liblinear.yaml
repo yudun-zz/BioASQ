@@ -1,0 +1,4 @@
+inherit: baseqa.answer.collective-score-train
+
+balance-sample: false
+classifier: 'inherit: bioqa.answer.collective-score-classifier-liblinear'

@@ -1,0 +1,3 @@
+class: edu.cmu.lti.oaqa.baseqa.providers.ml.transducer.featctors.PrecedingFollowingContextFeatureConstructor
+
+# add "preceding-size", "following-size"

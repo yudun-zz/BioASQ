@@ -1,0 +1,3 @@
+inherit: bioqa.quesanal.metamap-concept
+
+concept-provider: 'inherit: bioqa.providers.kb.metamap-cached'

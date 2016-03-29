@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.baseqa.answer.CavModificationManager
+
+handlers: |
+  - inherit: baseqa.answer.modifiers.merge

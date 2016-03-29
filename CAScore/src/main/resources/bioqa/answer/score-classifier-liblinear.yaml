@@ -1,0 +1,7 @@
+inherit: baseqa.providers.ml.classifier-liblinear
+
+balance-weight: true
+feat-index-file: src/main/resources/bioqa/answer/score-model/3b-dev-liblinear-findex.tsv
+label-index-file: src/main/resources/bioqa/answer/score-model/3b-dev-liblinear-lindex.tsv
+model-file: src/main/resources/bioqa/answer/score-model/3b-dev-liblinear-model
+solver-type: L1R_LR # L2R_LR, L2R_L1LOSS_SVC_DUAL, L1R_LR, L2R_LR_DUAL, L2R_L2LOSS_SVC, L2R_L2LOSS_SVC_DUAL, L1R_L2LOSS_SVC

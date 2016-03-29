@@ -1,0 +1,3 @@
+class: edu.cmu.lti.oaqa.baseqa.retrieval.PassageToViewCopier
+
+view-name-prefix: ptv

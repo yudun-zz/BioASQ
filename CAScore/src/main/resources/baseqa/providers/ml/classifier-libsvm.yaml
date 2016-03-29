@@ -1,0 +1,3 @@
+class: edu.cmu.lti.oaqa.baseqa.providers.ml.LibSvmClassifierProvider
+
+# add parameters "feat-index-file", "label-index-file", "model-file"

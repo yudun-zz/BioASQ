@@ -1,0 +1,8 @@
+inherit: baseqa.retrieval.document.lucene
+
+search-fields: [articleTitle, abstractText]
+index: ../index/medline15-lucene
+id-field: pmid
+title-field: articleTitle
+text-field: abstractText
+uri-prefix: http://www.ncbi.nlm.nih.gov/pubmed/

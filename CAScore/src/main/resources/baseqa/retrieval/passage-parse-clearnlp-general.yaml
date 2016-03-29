@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.baseqa.retrieval.PassageParser
+
+nlp-provider: 'inherit: baseqa.providers.nlp.clearnlp-general'
+view-name-prefix: ptv

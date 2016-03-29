@@ -1,0 +1,5 @@
+class: edu.cmu.lti.oaqa.baseqa.answer.generators.ConceptCavGenerator
+
+filter-question-concepts: true
+filter-question-tokens: true
+stoplist: /baseqa/answer/generators/stoplist-top5k.txt

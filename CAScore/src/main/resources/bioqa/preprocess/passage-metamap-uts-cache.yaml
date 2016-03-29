@@ -1,0 +1,5 @@
+inherit: baseqa.preprocess.passage-concept-cache
+
+batch-size: 200
+concept-provider: 'inherit: bioqa.providers.kb.metamap-cached'
+synonym-expansion-provider: 'inherit: bioqa.providers.kb.synonym-uts-cached'

@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.baseqa.answer.AnswerCandidateModifier
+
+handlers: |
+  - inherit: baseqa.answer.modifiers.constituent

@@ -1,0 +1,3 @@
+inherit: baseqa.providers.ml.feature-constructor
+
+quantity-question-words-file: src/main/resources/baseqa/quesanal/lat/quantity-question-words.txt

@@ -1,0 +1,125 @@
+# execute
+#      mvn exec:exec -Dconfig=bioasq.train-factlist-answer-collective-score
+# to test the pipeline
+
+configuration:
+  name: train-factlist-answer-collective-score
+  author: ziy
+
+persistence-provider:
+  inherit: baseqa.persistence.local-sqlite-persistence-provider
+
+collection-reader:
+  inherit: baseqa.collection.json.json-collection-reader
+  dataset: BIOASQ-QA
+  file:
+    - /input/dryrun-b.json
+    - /input/1b-1-b.json.fixed
+    - /input/1b-2-b.json.fixed
+    - /input/1b-3-b.json.fixed
+    - /input/2b-1-b.json
+    - /input/2b-2-b.json
+    - /input/2b-3-b.json
+    - /input/2b-4-b.json
+    - /input/2b-5-b.json
+  type: [factoid, list]
+  decorators: |
+    - inherit: bioasq.gs.bioasq-qa-gs-decorator
+  persistence-provider: |
+    inherit: baseqa.persistence.local-sqlite-persistence-provider
+
+pipeline:
+  - inherit: ecd.phase
+    name: quesanal-parse
+    options: |
+      - inherit: bioqa.quesanal.parse-clearnlp-bioinformatics
+
+  - inherit: ecd.phase
+    name: quesanal-concept
+    options: |
+      - inherit: bioqa.quesanal.concept-metamap-cached
+
+  - inherit: ecd.phase
+    name: quesanal-concept
+    options: |
+      - inherit: bioqa.quesanal.concept-lingpipe-genia
+
+  - inherit: ecd.phase
+    name: quesanal-concept
+    options: |
+      - inherit: baseqa.quesanal.concept-opennlp-np
+
+  - inherit: ecd.phase
+    name: quesanal-concept
+    options: |
+      - inherit: baseqa.quesanal.concept-opennlp-npppnp
+
+  - inherit: ecd.phase
+    name: quesanal-focus
+    options: |
+      - inherit: baseqa.quesanal.focus
+
+  - inherit: ecd.phase
+    name: quesanal-lat
+    options: |
+      - inherit: bioqa.quesanal.lat.load-cv
+
+  - inherit: ecd.phase
+    name: passage-to-view
+    options: |
+      - inherit: baseqa.retrieval.passage-to-view
+
+  - inherit: ecd.phase
+    name: retrieval-passage-parse
+    options: |
+      - inherit: bioqa.retrieval.passage-parse-clearnlp-bioinformatics
+
+  - inherit: ecd.phase
+    name: retrieval-passage-concept-metamap
+    options: |
+      - inherit: bioqa.retrieval.passage-concept-metamap-cached
+
+  - inherit: ecd.phase
+    name: retrieval-passage-concept-lingpipe
+    options: |
+      - inherit: bioqa.retrieval.passage-concept-lingpipe-genia
+
+  - inherit: ecd.phase
+    name: quesanal-concept
+    options: |
+      - inherit: baseqa.retrieval.passage-concept-opennlp-np
+
+  - inherit: ecd.phase
+    name: quesanal-concept
+    options: |
+      - inherit: baseqa.retrieval.passage-concept-opennlp-npppnp
+
+  - inherit: ecd.phase
+    name: concept-search-uts
+    options: |
+      - inherit: bioqa.retrieval.concept-search-uts-cached
+
+  - inherit: ecd.phase
+    name: concept-merge
+    options: |
+      - inherit: baseqa.retrieval.concept-merge
+
+  - inherit: ecd.phase
+    name: answer-generator
+    options: |
+      - inherit: bioqa.answer.generate
+
+  - inherit: ecd.phase
+    name: answer-modifier
+    options: |
+      - inherit: baseqa.answer.modify
+
+  - inherit: ecd.phase
+    name: answer-score
+    options: |
+      - inherit: bioqa.answer.score-load-cv
+
+  - inherit: ecd.phase
+    name: answer-collective-rank
+    options: |
+      - inherit: bioqa.answer.collective-score-train-liblinear

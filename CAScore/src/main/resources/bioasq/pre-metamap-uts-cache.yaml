@@ -1,0 +1,47 @@
+# execute
+#      mvn exec:exec -Dconfig=bioasq.pre-metamap-uts-cache
+# to test the pipeline
+
+configuration:
+  name: pre-metamap-uts-cache
+  author: ziy
+
+persistence-provider:
+  inherit: baseqa.persistence.local-sqlite-persistence-provider
+
+collection-reader:
+  inherit: baseqa.collection.json.json-collection-reader
+  dataset: BIOASQ-QA
+  file:
+#    - /input/dryrun-b.json
+#    - /input/1b-1-b.json
+#    - /input/1b-2-b.json
+#    - /input/1b-3-b.json
+#    - /input/2b-1-b.json
+#    - /input/2b-2-b.json
+#    - /input/2b-3-b.json
+#    - /input/2b-4-b.json
+#    - /input/2b-5-b.json
+#    - /input/3b-1-b.json
+#    - /input/3b-2-b.json
+#    - /input/3b-3-b.json
+#    - /input/3b-4-b.json
+    - /input/3b-5-b.json
+  type: [factoid, list, yesno, summary]
+  decorators: |
+    - inherit: bioasq.gs.bioasq-qa-gs-decorator
+  persistence-provider: |
+    inherit: baseqa.persistence.local-sqlite-persistence-provider
+
+pipeline:
+  - inherit: ecd.phase
+    name: question-metamap-cache
+    option-timeout: 30
+    options: |
+      - inherit: bioqa.preprocess.question-metamap-uts-cache
+
+  - inherit: ecd.phase
+    name: passage-metamap-cache
+    option-timeout: 30
+    options: |
+      - inherit: bioqa.preprocess.passage-metamap-uts-cache
