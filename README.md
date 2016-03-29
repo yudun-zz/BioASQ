@@ -24,3 +24,15 @@ Build an retrieval system to search relavant biological concepts
 Download all the ontologies datasets.
 
 Standadize the data format.
+
+## LeToR feature design
+
+##Target:
+
+Enrich feature space of LeToR.
+
+### Progress:
+
+Get familiar with current features.
+Set up the environment to generate features and prediction results. (the process is quite slow...)
+
