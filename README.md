@@ -36,3 +36,10 @@ Enrich feature space of LeToR.
 Get familiar with current features.
 Set up the environment to generate features and prediction results. (the process is quite slow...)
 
+## Word Embedding - Yu
+
+### Target:
+Apply word embedding to tasks of query expansion and summarization
+
+### Progress:
+Completed a program which can do query expansion based on word embedding and evaluate document retrieval performance. 
