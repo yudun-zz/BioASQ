@@ -3,6 +3,7 @@
  */
 
 import java.io.*;
+import java.util.ArrayList;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -19,6 +20,11 @@ import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.search.ScoreDoc;
 
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+
+
 public class idx {
 
     public static final String FILES_TO_INDEX_DIRECTORY = "ontology";
@@ -31,9 +37,87 @@ public class idx {
 
     public static void main(String[] args) throws Exception {
 
+        double map_for_hit = 0;
+        int hit = 0;
         //createIndex();
-        searchIndex("definition:sarcoma");
-        //searchIndex(args[1], args[2]);
+        //searchIndex("Which is the receptor for substrates of Chaperone Mediated Autophagy");
+        double MAP = 0.0;
+        int queryNumber = 0;
+        JSONParser parser = new JSONParser();
+        JSONArray goldStandard = (JSONArray) parser.parse(new FileReader("./3b-dev-concepts.json"));
+        for (Object o:goldStandard){
+            ArrayList goldConcepts = new ArrayList();
+            JSONObject query = (JSONObject) o;
+            String body = (String) query.get("body");
+            JSONArray answers = (JSONArray) query.get("concepts");
+            for (Object c : answers){
+                String url = (String) c;
+                String terms[] = url.split("=");
+                String conceptId = terms[terms.length-1];
+                if (!(conceptId.startsWith("D")|| conceptId.startsWith("G") ||conceptId.startsWith("h"))){
+                    conceptId = "GO:" + conceptId;
+                }
+
+                if (terms[terms.length-1].contains("/")){
+                    String subterms[] = terms[terms.length-1].split("/");
+                    conceptId = subterms[subterms.length-1];
+                    if (conceptId.contains("#")){
+                        conceptId = conceptId.substring(conceptId.indexOf("#")+1);
+                    }
+                }
+                goldConcepts.add(conceptId);
+            }
+
+            double AP = evaluation(body, goldConcepts);
+            MAP += AP;
+            queryNumber ++;
+            if (AP != 0) {
+                System.out.print(queryNumber);
+                System.out.print(": ");
+                System.out.println(body);
+                System.out.println(goldConcepts);
+                System.out.println(AP);
+                hit += 1;
+                map_for_hit += AP;
+            }
+        }
+        MAP /= queryNumber;
+
+        map_for_hit /= hit;
+        System.out.print("MAP: ");
+        System.out.println(MAP);
+
+        System.out.print("hit_map: ");
+        System.out.println(map_for_hit);
+
+    }
+
+    public static double evaluation(String query, ArrayList<String> concepts ){
+        try {
+            ArrayList<String> results = searchIndex(query);
+            int length = results.size();
+            double relevantNumber = 0;
+            double AP = 0;
+            for (int i = 0; i < length; i++){
+                if (concepts.contains(results.get(i))){
+                    relevantNumber += 1;
+                    AP += relevantNumber/(i+1);
+                    System.out.print(results.get(i));
+                    System.out.print("  ");
+                    System.out.print(relevantNumber);
+                    System.out.print("  ");
+                    System.out.print(i+1);
+                    System.out.print("  ");
+                }
+            }
+            if (relevantNumber != 0){
+                AP /= relevantNumber;
+            }
+            return AP;
+        }catch (Exception e){
+            e.printStackTrace();
+            return 0.0;
+        }
     }
 
     public static void createIndex() throws CorruptIndexException, LockObtainFailedException, IOException {
@@ -73,8 +157,11 @@ public class idx {
         indexWriter.close();
     }
 
-    public static void searchIndex(String searchString) throws IOException, ParseException {
-        System.out.println("Searching for '" + searchString + "'");
+    public static ArrayList searchIndex(String searchString) throws IOException, ParseException {
+
+        ArrayList results = new ArrayList();
+
+        //System.out.println("Searching for '" + searchString + "'");
         Directory directory = FSDirectory.open(new File(INDEX_DIRECTORY).toPath());
         DirectoryReader indexReader = DirectoryReader.open(directory);
         IndexSearcher indexSearcher = new IndexSearcher(indexReader);
@@ -85,13 +172,14 @@ public class idx {
 
 
         Query query = queryParser.parse(searchString);
-        ScoreDoc[] hits = indexSearcher.search(query, null, 1000).scoreDocs;
-        System.out.println("Number of hits: " + hits.length);
+        ScoreDoc[] hits = indexSearcher.search(query, null, 10).scoreDocs;
+        //System.out.println("Number of hits: " + hits.length);
         for (int i = 0; i < hits.length; i ++){
             Document hitDoc = indexSearcher.doc(hits[i].doc);
-            System.out.println("This is the text to be indexed: " + hitDoc.get(FIELD_ID));
+            //System.out.println("This is the text to be indexed: " + hitDoc.get(FIELD_ID));
+            results.add(hitDoc.get(FIELD_ID));
         }
-
+        return results;
     }
 
 }
