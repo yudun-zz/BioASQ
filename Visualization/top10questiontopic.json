@@ -1,0 +1,164 @@
+[
+  {
+    "maincat": {
+      "Family & Relationships": {
+        "questionNum": 239179,
+        "answerNum": 2498485
+      },
+      "Freunde & Familie": {
+        "questionNum": 590,
+        "answerNum": 6850
+      }
+    },
+    "answerNum": 2511587,
+    "name": "Singles & Dating",
+    "questionNum": 240344
+  },
+  {
+    "maincat": {
+      "Entertainment & Music": {
+        "questionNum": 137605,
+        "answerNum": 938129
+      },
+      "Unterhaltung & Musik": {
+        "questionNum": 1578,
+        "answerNum": 12659
+      },
+      "Entretenimento e Música": {
+        "questionNum": 2562,
+        "answerNum": 21420
+      },
+      "Musica e intrattenimento": {
+        "questionNum": 2585,
+        "answerNum": 21166
+      },
+      "Musique, ciné, tv, loisirs": {
+        "questionNum": 2881,
+        "answerNum": 22597
+      },
+      "Música y Entretenimiento": {
+        "questionNum": 7308,
+        "answerNum": 49815
+      },
+      "Música y Ocio": {
+        "questionNum": 2597,
+        "answerNum": 28992
+      }
+    },
+    "answerNum": 1096963,
+    "name": "Blues",
+    "questionNum": 157443
+  },
+  {
+    "maincat": {
+      "Business & Finance": {
+        "questionNum": 137755,
+        "answerNum": 652362
+      }
+    },
+    "answerNum": 653469,
+    "name": "Other - Business & Finance",
+    "questionNum": 138002
+  },
+  {
+    "maincat": {
+      "Family & Relationships": {
+        "questionNum": 132418,
+        "answerNum": 1274247
+      }
+    },
+    "answerNum": 1276989,
+    "name": "Other - Family & Relationships",
+    "questionNum": 132720
+  },
+  {
+    "maincat": {
+      "Society & Culture": {
+        "questionNum": 124465,
+        "answerNum": 1782944
+      }
+    },
+    "answerNum": 1786202,
+    "name": "Religion & Spirituality",
+    "questionNum": 124689
+  },
+  {
+    "maincat": {
+      "Computers & Internet": {
+        "questionNum": 91096,
+        "answerNum": 421953
+      }
+    },
+    "answerNum": 422695,
+    "name": "Other - Internet",
+    "questionNum": 91267
+  },
+  {
+    "maincat": {
+      "Society & Culture": {
+        "questionNum": 74614,
+        "answerNum": 735346
+      }
+    },
+    "answerNum": 736904,
+    "name": "Other - Society & Culture",
+    "questionNum": 74769
+  },
+  {
+    "maincat": {
+      "Family & Relationships": {
+        "questionNum": 60756,
+        "answerNum": 547027
+      }
+    },
+    "answerNum": 548275,
+    "name": "Friends",
+    "questionNum": 60905
+  },
+  {
+    "maincat": {
+      "Entertainment & Music": {
+        "questionNum": 57602,
+        "answerNum": 416414
+      }
+    },
+    "answerNum": 417431,
+    "name": "Reality Television",
+    "questionNum": 57732
+  },
+  {
+    "maincat": {
+      "Computadores e Internet": {
+        "questionNum": 1860,
+        "answerNum": 9054
+      },
+      "Computer e Internet": {
+        "questionNum": 999,
+        "answerNum": 4813
+      },
+      "Computers & Internet": {
+        "questionNum": 47924,
+        "answerNum": 193834
+      },
+      "Computadoras e Internet": {
+        "questionNum": 2339,
+        "answerNum": 9728
+      },
+      "Computer & Internet": {
+        "questionNum": 916,
+        "answerNum": 4799
+      },
+      "Ordenadores e Internet": {
+        "questionNum": 1356,
+        "answerNum": 8407
+      },
+      "Internet y Computadoras": {
+        "questionNum": 1003,
+        "answerNum": 3914
+      }
+    },
+    "answerNum": 235068,
+    "name": "Software",
+    "questionNum": 56515
+  }
+]

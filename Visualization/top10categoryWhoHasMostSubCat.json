@@ -1,0 +1,532 @@
+[
+  {
+    "maincat": {
+      "Dining Out": {
+        "questionNum": 160,
+        "answerNum": 1391
+      },
+      "Viajes": {
+        "questionNum": 20,
+        "answerNum": 110
+      },
+      "Voyage": {
+        "questionNum": 2,
+        "answerNum": 13
+      },
+      "Negócios Regionais": {
+        "questionNum": 2,
+        "answerNum": 4
+      },
+      "Travel": {
+        "questionNum": 689,
+        "answerNum": 3850
+      },
+      "Reisen": {
+        "questionNum": 3,
+        "answerNum": 16
+      },
+      "Viagens": {
+        "questionNum": 10,
+        "answerNum": 59
+      },
+      "Turismo": {
+        "questionNum": 4,
+        "answerNum": 19
+      },
+      "Économie locale": {
+        "questionNum": 1,
+        "answerNum": 15
+      },
+      "Restaurantes": {
+        "questionNum": 5,
+        "answerNum": 21
+      },
+      "Viaggi": {
+        "questionNum": 6,
+        "answerNum": 46
+      },
+      "Negocios Locales": {
+        "questionNum": 28,
+        "answerNum": 101
+      },
+      "Local Businesses": {
+        "questionNum": 178,
+        "answerNum": 694
+      }
+    },
+    "answerNum": 6355,
+    "name": "Miami",
+    "questionNum": 1111
+  },
+  {
+    "maincat": {
+      "Dining Out": {
+        "questionNum": 3,
+        "answerNum": 25
+      },
+      "Ausgehen": {
+        "questionNum": 1,
+        "answerNum": 5
+      },
+      "Viajes": {
+        "questionNum": 54,
+        "answerNum": 369
+      },
+      "Voyage": {
+        "questionNum": 5,
+        "answerNum": 37
+      },
+      "Travel": {
+        "questionNum": 147,
+        "answerNum": 780
+      },
+      "Reisen": {
+        "questionNum": 3,
+        "answerNum": 9
+      },
+      "Turismo": {
+        "questionNum": 106,
+        "answerNum": 795
+      },
+      "Negozi ed aziende locali": {
+        "questionNum": 1,
+        "answerNum": 2
+      },
+      "Viagens": {
+        "questionNum": 8,
+        "answerNum": 68
+      },
+      "Restaurantes": {
+        "questionNum": 41,
+        "answerNum": 249
+      },
+      "Viaggi": {
+        "questionNum": 3,
+        "answerNum": 38
+      },
+      "Negocios Locales": {
+        "questionNum": 167,
+        "answerNum": 664
+      },
+      "Local Businesses": {
+        "questionNum": 2,
+        "answerNum": 4
+      }
+    },
+    "answerNum": 3045,
+    "name": "Buenos Aires",
+    "questionNum": 541
+  },
+  {
+    "maincat": {
+      "Dining Out": {
+        "questionNum": 171,
+        "answerNum": 1511
+      },
+      "Ausgehen": {
+        "questionNum": 2,
+        "answerNum": 17
+      },
+      "Viajes": {
+        "questionNum": 12,
+        "answerNum": 83
+      },
+      "Voyage": {
+        "questionNum": 3,
+        "answerNum": 17
+      },
+      "Örtliche Unternehmen": {
+        "questionNum": 1,
+        "answerNum": 2
+      },
+      "Travel": {
+        "questionNum": 1610,
+        "answerNum": 10692
+      },
+      "Reisen": {
+        "questionNum": 5,
+        "answerNum": 47
+      },
+      "Viagens": {
+        "questionNum": 2,
+        "answerNum": 8
+      },
+      "Restaurantes": {
+        "questionNum": 2,
+        "answerNum": 7
+      },
+      "Viaggi": {
+        "questionNum": 1,
+        "answerNum": 10
+      },
+      "Negocios Locales": {
+        "questionNum": 1,
+        "answerNum": 3
+      },
+      "Local Businesses": {
+        "questionNum": 154,
+        "answerNum": 612
+      }
+    },
+    "answerNum": 13020,
+    "name": "Las Vegas",
+    "questionNum": 1966
+  },
+  {
+    "maincat": {
+      "Dining Out": {
+        "questionNum": 97,
+        "answerNum": 690
+      },
+      "Ausgehen": {
+        "questionNum": 1,
+        "answerNum": 13
+      },
+      "Viajes": {
+        "questionNum": 14,
+        "answerNum": 61
+      },
+      "Voyage": {
+        "questionNum": 1,
+        "answerNum": 6
+      },
+      "Travel": {
+        "questionNum": 1541,
+        "answerNum": 10238
+      },
+      "Reisen": {
+        "questionNum": 3,
+        "answerNum": 36
+      },
+      "Turismo": {
+        "questionNum": 6,
+        "answerNum": 26
+      },
+      "Viagens": {
+        "questionNum": 1,
+        "answerNum": 8
+      },
+      "Viaggi": {
+        "questionNum": 1,
+        "answerNum": 5
+      },
+      "Restaurantes": {
+        "questionNum": 1,
+        "answerNum": 4
+      },
+      "Negocios Locales": {
+        "questionNum": 6,
+        "answerNum": 21
+      },
+      "Local Businesses": {
+        "questionNum": 128,
+        "answerNum": 505
+      }
+    },
+    "answerNum": 11621,
+    "name": "Orlando",
+    "questionNum": 1802
+  },
+  {
+    "maincat": {
+      "Dining Out": {
+        "questionNum": 138,
+        "answerNum": 996
+      },
+      "Viajes": {
+        "questionNum": 6,
+        "answerNum": 34
+      },
+      "Voyage": {
+        "questionNum": 5,
+        "answerNum": 28
+      },
+      "Örtliche Unternehmen": {
+        "questionNum": 1,
+        "answerNum": 20
+      },
+      "Travel": {
+        "questionNum": 660,
+        "answerNum": 3698
+      },
+      "Reisen": {
+        "questionNum": 3,
+        "answerNum": 9
+      },
+      "Viagens": {
+        "questionNum": 4,
+        "answerNum": 20
+      },
+      "Économie locale": {
+        "questionNum": 1,
+        "answerNum": 2
+      },
+      "Viaggi": {
+        "questionNum": 2,
+        "answerNum": 6
+      },
+      "Restaurantes": {
+        "questionNum": 2,
+        "answerNum": 15
+      },
+      "Negocios Locales": {
+        "questionNum": 1,
+        "answerNum": 5
+      },
+      "Local Businesses": {
+        "questionNum": 182,
+        "answerNum": 633
+      }
+    },
+    "answerNum": 5466,
+    "name": "Toronto",
+    "questionNum": 1005
+  },
+  {
+    "maincat": {
+      "Dining Out": {
+        "questionNum": 179,
+        "answerNum": 1398
+      },
+      "Viajes": {
+        "questionNum": 5,
+        "answerNum": 44
+      },
+      "Voyage": {
+        "questionNum": 3,
+        "answerNum": 9
+      },
+      "Travel": {
+        "questionNum": 502,
+        "answerNum": 2893
+      },
+      "Reisen": {
+        "questionNum": 2,
+        "answerNum": 11
+      },
+      "Viagens": {
+        "questionNum": 1,
+        "answerNum": 13
+      },
+      "Économie locale": {
+        "questionNum": 1,
+        "answerNum": 2
+      },
+      "Restaurantes": {
+        "questionNum": 2,
+        "answerNum": 9
+      },
+      "Viaggi": {
+        "questionNum": 1,
+        "answerNum": 4
+      },
+      "Negocios Locales": {
+        "questionNum": 2,
+        "answerNum": 18
+      },
+      "Local Businesses": {
+        "questionNum": 229,
+        "answerNum": 860
+      }
+    },
+    "answerNum": 5272,
+    "name": "Boston",
+    "questionNum": 930
+  },
+  {
+    "maincat": {
+      "Dining Out": {
+        "questionNum": 206,
+        "answerNum": 1541
+      },
+      "Viajes": {
+        "questionNum": 7,
+        "answerNum": 36
+      },
+      "Voyage": {
+        "questionNum": 2,
+        "answerNum": 10
+      },
+      "Örtliche Unternehmen": {
+        "questionNum": 1,
+        "answerNum": 2
+      },
+      "Travel": {
+        "questionNum": 661,
+        "answerNum": 3772
+      },
+      "Reisen": {
+        "questionNum": 1,
+        "answerNum": 7
+      },
+      "Viagens": {
+        "questionNum": 1,
+        "answerNum": 4
+      },
+      "Économie locale": {
+        "questionNum": 1,
+        "answerNum": 11
+      },
+      "Restaurantes": {
+        "questionNum": 1,
+        "answerNum": 4
+      },
+      "Negocios Locales": {
+        "questionNum": 2,
+        "answerNum": 21
+      },
+      "Local Businesses": {
+        "questionNum": 226,
+        "answerNum": 955
+      }
+    },
+    "answerNum": 6365,
+    "name": "Washington, D.C.",
+    "questionNum": 1110
+  },
+  {
+    "maincat": {
+      "Dining Out": {
+        "questionNum": 367,
+        "answerNum": 2493
+      },
+      "Viajes": {
+        "questionNum": 7,
+        "answerNum": 30
+      },
+      "Voyage": {
+        "questionNum": 3,
+        "answerNum": 16
+      },
+      "Travel": {
+        "questionNum": 882,
+        "answerNum": 4752
+      },
+      "Reisen": {
+        "questionNum": 6,
+        "answerNum": 26
+      },
+      "Turismo": {
+        "questionNum": 1,
+        "answerNum": 10
+      },
+      "Negozi ed aziende locali": {
+        "questionNum": 1,
+        "answerNum": 2
+      },
+      "Économie locale": {
+        "questionNum": 1,
+        "answerNum": 8
+      },
+      "Viaggi": {
+        "questionNum": 8,
+        "answerNum": 37
+      },
+      "Negocios Locales": {
+        "questionNum": 1,
+        "answerNum": 2
+      },
+      "Local Businesses": {
+        "questionNum": 234,
+        "answerNum": 914
+      }
+    },
+    "answerNum": 8327,
+    "name": "San Francisco",
+    "questionNum": 1512
+  },
+  {
+    "maincat": {
+      "Dining Out": {
+        "questionNum": 456,
+        "answerNum": 3840
+      },
+      "Viajes": {
+        "questionNum": 6,
+        "answerNum": 29
+      },
+      "Voyage": {
+        "questionNum": 6,
+        "answerNum": 21
+      },
+      "Travel": {
+        "questionNum": 1010,
+        "answerNum": 5991
+      },
+      "Reisen": {
+        "questionNum": 2,
+        "answerNum": 22
+      },
+      "Viagens": {
+        "questionNum": 1,
+        "answerNum": 12
+      },
+      "Negozi ed aziende locali": {
+        "questionNum": 2,
+        "answerNum": 6
+      },
+      "Viaggi": {
+        "questionNum": 1,
+        "answerNum": 6
+      },
+      "Negocios Locales": {
+        "questionNum": 6,
+        "answerNum": 19
+      },
+      "Local Businesses": {
+        "questionNum": 632,
+        "answerNum": 2491
+      }
+    },
+    "answerNum": 12437,
+    "name": "Chicago",
+    "questionNum": 2122
+  },
+  {
+    "maincat": {
+      "Dining Out": {
+        "questionNum": 27,
+        "answerNum": 133
+      },
+      "Viajes": {
+        "questionNum": 5,
+        "answerNum": 22
+      },
+      "Voyage": {
+        "questionNum": 31,
+        "answerNum": 178
+      },
+      "Travel": {
+        "questionNum": 214,
+        "answerNum": 1119
+      },
+      "Reisen": {
+        "questionNum": 1,
+        "answerNum": 4
+      },
+      "Viagens": {
+        "questionNum": 2,
+        "answerNum": 9
+      },
+      "Économie locale": {
+        "questionNum": 4,
+        "answerNum": 24
+      },
+      "Viaggi": {
+        "questionNum": 1,
+        "answerNum": 5
+      },
+      "Negocios Locales": {
+        "questionNum": 4,
+        "answerNum": 79
+      },
+      "Local Businesses": {
+        "questionNum": 27,
+        "answerNum": 89
+      }
+    },
+    "answerNum": 1667,
+    "name": "Montreal",
+    "questionNum": 317
+  }
+]

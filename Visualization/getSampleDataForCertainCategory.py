@@ -19,19 +19,16 @@ parsingBegun = False
 # metadata we need to get
 questionNum = 0 # expect 4483032, actual 4483031
 answerNum = 0
-categoryMetadata = {}
-# example: {
-#    "Education & Reference":{
-#       "maincat":{
-#          "Trivia":{
-#             "questionNum":34,
-#             "answerNum":105
-#          }
-#       },
-#       "questionNum":1234,
-#       "answerNum":3454
-#    }
-# }
+
+targetCatName = "Buenos Aires"
+
+sampleData = {}
+# { "Education & Reference" :
+#                 [{
+#                     "question": "Why are yawns contagious?",
+#                     "answernum": 2
+#                 }]
+#               }
 
 context = ET.iterparse(DATA_PATH, events=("start", "end"))
 
@@ -57,24 +54,19 @@ for event, elem in context:
         elif parsingBegun:
             if tag == "cat":
                 currentCat = value
-                catAppear = True
-                if currentCat:
-                    if currentCat in categoryMetadata:
-                        categoryMetadata[currentCat]["questionNum"] += 1
-                    else:
-                        categoryMetadata[currentCat] = { "maincat" : {},
-                                                          "questionNum": 1,
-                                                          "answerNum": 0}
+                if currentCat == targetCatName:
+                    catAppear = True
+
+            elif tag == "subject":
+                currentQuestion = value
+
             elif tag == "maincat":
                 if catAppear and currentCat:
                     maincat = value
-                    if maincat:
-                        if maincat in categoryMetadata[currentCat]["maincat"]:
-                            categoryMetadata[currentCat]["maincat"][maincat]["questionNum"] += 1
-                            categoryMetadata[currentCat]["maincat"][maincat]["answerNum"] += thisQuestionAnswerNum
-                        else:
-                            categoryMetadata[currentCat]["maincat"][maincat] = {"questionNum": 1,
-                                                                                "answerNum" : thisQuestionAnswerNum}
+                    if maincat not in sampleData:
+                        sampleData[maincat] = []
+                    currentObj = {"question": currentQuestion}
+
             elif tag == "answer_item":
                 thisQuestionAnswerNum += 1
 
@@ -84,8 +76,10 @@ for event, elem in context:
             questionNum += 1
             answerNum += thisQuestionAnswerNum
 
-            if catAppear and currentCat:
-                categoryMetadata[currentCat]["answerNum"] += thisQuestionAnswerNum
+            if catAppear and maincat:
+                print currentObj["question"]
+                currentObj["answerNum"] = thisQuestionAnswerNum
+                sampleData[maincat].append(currentObj)
 
             catAppear = False
             # stop parsing when we finish parsing the needed partial
@@ -97,7 +91,7 @@ for event, elem in context:
 print "finished in ", time.time() - start, "s. "
 print questionNum - startQuestionNum, " questions parsed"
 
-f = open(METADATA_PATH, "w")
-f.write(json.dumps(categoryMetadata))
+f = open(SAMPLE_DATA_PATH_PREFIX + "sample.json", "w")
+f.write(json.dumps(sampleData))
 f.close()
 

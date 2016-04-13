@@ -1,0 +1,11 @@
+04/12/2016
+1. Need to do clustering analysis on these 2916 categories
+2. Testing Visualize on "Buenos Aires":
+    First Decide the similirities among questions;
+    Then generate the adjacent matrix for these 541 nodes (for future larger sets, do pruning based on answer num)
+    Using SVD to perform LSI to do clustering on them
+    using several top singular vectors (10~15?) as concept nodes, derived the distance within each cluster to this node
+    and using D3.js force directed to visualize them
+
+3. Then Visualize 2916 categories using similar technique
+
