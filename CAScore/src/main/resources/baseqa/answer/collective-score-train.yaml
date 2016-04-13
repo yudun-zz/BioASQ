@@ -1,0 +1,7 @@
+class: edu.cmu.lti.oaqa.baseqa.answer.CollectiveAnswerScoreTrainer
+
+scorers: |
+  - inherit: baseqa.answer.collective_scorers.original
+  - inherit: baseqa.answer.collective_scorers.distance
+  - inherit: baseqa.answer.collective_scorers.type-coercion
+# add "classifier"

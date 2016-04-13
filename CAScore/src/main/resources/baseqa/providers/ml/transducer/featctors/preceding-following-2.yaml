@@ -1,0 +1,4 @@
+inherit: baseqa.providers.ml.transducer.featctors.preceding-following
+
+preceding-size: 2
+following-size: 2

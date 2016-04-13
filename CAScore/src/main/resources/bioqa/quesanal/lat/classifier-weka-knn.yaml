@@ -1,0 +1,5 @@
+inherit: baseqa.providers.ml.classifier-weka-knn
+
+feat-index-file: src/main/resources/bioqa/quesanal/lat/model/3b-dev-weka-knn-findex.tsv
+label-index-file: src/main/resources/bioqa/quesanal/lat/model/3b-dev-weka-knn-lindex.tsv
+model-file: src/main/resources/bioqa/quesanal/lat/model/3b-dev-weka-knn-model

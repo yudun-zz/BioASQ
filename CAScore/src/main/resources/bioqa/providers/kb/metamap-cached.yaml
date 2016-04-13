@@ -1,0 +1,9 @@
+class: edu.cmu.lti.oaqa.bioqa.providers.kb.CachedMetamapConceptProvider
+
+version: '1415'
+username: yangzi
+password: 'Oaqa12#$'
+email: ziy@cs.cmu.edu
+
+db-file: src/main/resources/metamap-cache/metamap-cache.mapdb
+map-name: metamap-cache

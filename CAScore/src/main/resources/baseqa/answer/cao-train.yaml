@@ -1,0 +1,12 @@
+class: edu.cmu.lti.oaqa.baseqa.answer.CaoTrainer
+
+feature-constructors: |
+  - inherit: baseqa.providers.ml.transducer.featctors.token
+  - inherit: baseqa.providers.ml.transducer.featctors.concept
+  - inherit: baseqa.providers.ml.transducer.featctors.token-overlap
+  - inherit: baseqa.providers.ml.transducer.featctors.concept-overlap
+context-feature-constructors: |
+  - inherit: baseqa.providers.ml.transducer.featctors.preceding-following-3
+  - inherit: baseqa.providers.ml.transducer.featctors.head
+view-name-prefix: ptv
+# add "transducer", "sample-o2o"

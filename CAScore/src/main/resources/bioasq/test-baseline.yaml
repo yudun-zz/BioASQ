@@ -1,0 +1,164 @@
+# execute
+#      mvn exec:exec -Dconfig=bioasq.test-baseline
+# to test the pipeline
+
+configuration:
+  name: test-baseline
+  author: ziy
+
+persistence-provider:
+  inherit: baseqa.persistence.local-sqlite-persistence-provider
+
+collection-reader:
+  inherit: baseqa.collection.json.json-collection-reader
+  dataset: BIOASQ-QA
+  file:
+#    - /input/one-b.json
+#    - /input/dryrun-b.json
+#    - /input/1b-1-b.json
+#    - /input/1b-2-b.json
+#    - /input/1b-3-b.json
+#    - /input/2b-1-b.json
+#    - /input/2b-2-b.json
+#    - /input/2b-3-b.json
+#    - /input/2b-4-b.json
+#    - /input/2b-5-b.json
+#    - /input/3b-1-b.json
+#    - /input/3b-2-b.json
+#    - /input/3b-3-b.json
+#    - /input/3b-4-b.json
+    - /input/3b-5-b.json
+  type: [factoid, list, yesno, summary]
+  decorators: |
+    - inherit: bioasq.gs.bioasq-qa-gs-decorator
+  persistence-provider: |
+    inherit: baseqa.persistence.local-sqlite-persistence-provider
+
+pipeline:
+  - inherit: ecd.phase
+    name: quesanal-parse
+    options: |
+      - inherit: bioqa.quesanal.parse-clearnlp-bioinformatics
+
+  - inherit: ecd.phase
+    name: quesanal-concept
+    options: |
+      - inherit: bioqa.quesanal.concept-metamap-cached
+
+  - inherit: ecd.phase
+    name: quesanal-concept
+    options: |
+      - inherit: bioqa.quesanal.concept-lingpipe-genia
+
+  - inherit: ecd.phase
+    name: quesanal-concept
+    options: |
+      - inherit: baseqa.quesanal.concept-opennlp-np
+
+  - inherit: ecd.phase
+    name: quesanal-concept
+    options: |
+      - inherit: baseqa.quesanal.concept-opennlp-npppnp
+
+  - inherit: ecd.phase
+    name: quesanal-focus
+    options: |
+      - inherit: baseqa.quesanal.focus
+
+  - inherit: ecd.phase
+    name: quesanal-lat
+    options: |
+      - inherit: bioqa.quesanal.lat.predict-liblinear
+
+  - inherit: ecd.phase
+    name: passage-to-view
+    options: |
+      - inherit: baseqa.retrieval.passage-to-view
+
+  - inherit: ecd.phase
+    name: retrieval-passage-parse
+    options: |
+      - inherit: bioqa.retrieval.passage-parse-clearnlp-bioinformatics
+
+  - inherit: ecd.phase
+    name: retrieval-passage-concept-metamap
+    options: |
+      - inherit: bioqa.retrieval.passage-concept-metamap-cached
+
+  - inherit: ecd.phase
+    name: retrieval-passage-concept-lingpipe
+    options: |
+      - inherit: bioqa.retrieval.passage-concept-lingpipe-genia
+
+  - inherit: ecd.phase
+    name: quesanal-concept
+    options: |
+      - inherit: baseqa.retrieval.passage-concept-opennlp-np
+
+  - inherit: ecd.phase
+    name: quesanal-concept
+    options: |
+      - inherit: baseqa.retrieval.passage-concept-opennlp-npppnp
+
+  - inherit: ecd.phase
+    name: concept-search-uts
+    options: |
+      - inherit: bioqa.retrieval.concept-search-uts-cached
+
+  - inherit: ecd.phase
+    name: concept-merge
+    options: |
+      - inherit: baseqa.retrieval.concept-merge
+
+  - inherit: ecd.phase
+    name: gs-cao
+    options: |
+      - inherit: baseqa.answer.gs-cao-identify
+
+  - inherit: ecd.phase
+    name: answer-generator
+    options: |
+      - inherit: bioqa.answer.generate
+#      - inherit: bioqa.answer.cao-predict-crf
+#      - inherit: bioqa.answer.cao-predict-hmm
+
+  - inherit: ecd.phase
+    name: answer-modifier
+    options: |
+      - inherit: baseqa.answer.modify
+
+  - inherit: ecd.phase
+    name: answer-independent-rank
+    options: |
+      - inherit: bioqa.answer.score-predict-liblinear
+#      - inherit: baseqa.answer.score-simple
+
+  - inherit: ecd.phase
+    name: answer-collective-rank
+    options: |
+      - inherit: bioqa.answer.collective-score-predict-liblinear
+
+  - inherit: ecd.phase
+    name: answer-pruner
+    options: |
+      - inherit: baseqa.answer.pruner
+
+  - inherit: baseqa.cas-serialize
+
+post-process:
+  # answer evaluation
+  - inherit: baseqa.eval.base
+    calculator: |
+      inherit: bioasq.eval.calculator.answer-eval-calculator
+    evaluatee-provider: |
+      inherit: baseqa.eval.evaluatee.answer-evaluatee-provider
+    persistence-provider: |
+      inherit: baseqa.eval.persistence.jdbc-eval-persistence-provider
+
+  # report
+  - inherit: report.csv-report-generator
+    builders: |
+      - inherit: baseqa.report.accumulated-measurements-report-component
+
+  # submission
+  - inherit: bioasq.collection.json.json-cas-consumer

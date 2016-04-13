@@ -1,0 +1,5 @@
+inherit: baseqa.answer.generators.concept
+
+filter-question-concepts: false
+filter-question-tokens: false
+stoplist: null # /bioqa/answer/generators/stoplist-gene-top5k.txt # stoplist-gene-modified.txt, stoplist-top5k.txt

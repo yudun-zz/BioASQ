@@ -1,0 +1,16 @@
+class: edu.cmu.lti.oaqa.baseqa.answer.AnswerScorePredictor
+
+scorers: |
+  - inherit: baseqa.answer.scorers.type-coercion
+  - inherit: baseqa.answer.scorers.cao-count
+  - inherit: baseqa.answer.scorers.name-count
+  - inherit: baseqa.answer.scorers.avg-covered-token-count
+  - inherit: baseqa.answer.scorers.stopword-count
+  - inherit: baseqa.answer.scorers.token-overlap-count
+  - inherit: baseqa.answer.scorers.concept-overlap-count
+  - inherit: baseqa.answer.scorers.token-proximity
+  - inherit: baseqa.answer.scorers.concept-proximity
+  - inherit: baseqa.answer.scorers.focus-overlap-count
+  - inherit: baseqa.answer.scorers.parsehead-proximity
+#  - inherit: baseqa.answer.scorers.parse
+# add "classifier", "feature-file"

@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.baseqa.retrieval.PassageParser
+
+nlp-provider: 'inherit: bioqa.providers.nlp.clearnlp-medical'
+view-name-prefix: ptv

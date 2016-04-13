@@ -1,0 +1,6 @@
+class: edu.cmu.lti.oaqa.baseqa.answer.scorers.ParseHeadProximityCavScorer
+
+stoplist: /bioqa/answer/generators/stoplist-gene-top5k.txt
+window-size: 10
+infinity: 20
+smoothing: 5.0

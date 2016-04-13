@@ -1,0 +1,5 @@
+class: edu.cmu.lti.oaqa.baseqa.answer.AnswerModificationManager
+
+handlers: |
+  - inherit: baseqa.answer.modifiers.ratio-88
+#  - inherit: baseqa.answer.modifiers.list-85

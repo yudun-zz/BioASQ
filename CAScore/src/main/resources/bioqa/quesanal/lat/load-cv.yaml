@@ -1,0 +1,3 @@
+inherit: baseqa.quesanal.lat.load-cv
+
+cv-predict-file: /bioqa/quesanal/lat/feat-label/3b-dev-qa-types-cv.tsv

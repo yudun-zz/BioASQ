@@ -1,0 +1,3 @@
+inherit: baseqa.providers.ml.transducer.hmm
+
+model-file: src/main/resources/bioqa/answer/cao-model/3b-dev-hmm-model

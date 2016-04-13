@@ -1,0 +1,2658 @@
+{
+  "questions": [
+    {
+      "body": "Intact macromolecular assemblies are analysed by advanced mass spectrometry. How large complexes (in molecular weight) have been studied?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23064518",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19140748",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16939266",
+        "http://www.ncbi.nlm.nih.gov/pubmed/8006040"
+      ],
+      "type": "factoid",
+      "id": "514c3fd7d24251bc05000062",
+      "snippets": [
+        {
+          "offsetInBeginSection": 165,
+          "offsetInEndSection": 354,
+          "text": "Here we show that the Orbitrap mass analyzer can be used to measure protein assemblies of molecular weights approaching one megadalton with sensitivity down to the detection of single ions.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23064518",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 874,
+          "offsetInEndSection": 1015,
+          "text": "Using this relationship we show that we can determine masses of both 30S subunits and intact 2.3 MDa 70S ribosomes from Thermus thermophilus.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16939266",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1415,
+          "offsetInEndSection": 1801,
+          "text": "We confirm the existence of these subpopulations using tandem mass spectrometry of intact 30S subunits. Overall, the results show that, rather than uniform particles, gas-phase ribosomes consist of a number of discrete populations. More generally, the results establish a rigorous procedure for accurate mass measurement and spectral analysis of heterogeneous macromolecular assemblies.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16939266",
+          "endSection": "sections.0"
+        }
+      ]
+    },
+    {
+      "body": "How many genes does the human hoxD cluster contain?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22879880",
+        "http://www.ncbi.nlm.nih.gov/pubmed/10364522"
+      ],
+      "type": "factoid",
+      "id": "515db083298dcd4e51000012",
+      "snippets": [
+        {
+          "offsetInBeginSection": 699,
+          "offsetInEndSection": 828,
+          "text": "Both children are heterozygous for a deletion that eliminates at least eight (HOXD3-HOXD13) of the nine genes in the HOXD cluster",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/10364522",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 698,
+          "offsetInEndSection": 949,
+          "text": "The human HOXD complex contains nine genes HOXD1, HOXD3, HOXD4, HOXD8, HOXD9, HOXD10, HOXD11, HOXD12 and HOXD13, which are clustered from 3\u2032 to 5\u2032 in an approximately 100-kb stretch on chromosome 2q31.1, with HOXD1 at the 3' end and HOXD13 the 5\u2032. end",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22879880",
+          "endSection": "sections.1"
+        }
+      ]
+    },
+    {
+      "body": "What is the percentage of responders to tetrabenazine treatment for dystonia in children?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19808991",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18555882",
+        "http://www.ncbi.nlm.nih.gov/pubmed/9549503",
+        "http://www.ncbi.nlm.nih.gov/pubmed/9040721",
+        "http://www.ncbi.nlm.nih.gov/pubmed/6502174",
+        "http://www.ncbi.nlm.nih.gov/pubmed/6128697",
+        "http://www.ncbi.nlm.nih.gov/pubmed/6889706",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22515742",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12710012",
+        "http://www.ncbi.nlm.nih.gov/pubmed/3400500",
+        "http://www.ncbi.nlm.nih.gov/pubmed/2904118"
+      ],
+      "type": "factoid",
+      "id": "515ddda6298dcd4e5100001f",
+      "snippets": [
+        {
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 94,
+          "text": "report a patient with dystonia secondary to bilateral lesions of the basal ganglia",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19808991",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 494,
+          "offsetInEndSection": 635,
+          "text": "The patient's dystonia responded to Trihexyphenidyl and to tetrabenazine, but these medications needed to be stopped because of side effects.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19808991",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 239,
+          "offsetInEndSection": 375,
+          "text": "An 8-year-old girl received 53 grays radiotherapy after surgery for craniopharyngioma. One year later she developed generalized dystonia",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18555882",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 481,
+          "offsetInEndSection": 606,
+          "text": "Pharmacological treatment with tetrabenazine, clonazepam and trihexiphenydile allowed a very limited improvement of dystonia;",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18555882",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 167,
+          "offsetInEndSection": 249,
+          "text": "welve cases of status dystonicus, of various underlying aetiologies, are presented",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/9549503",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1134,
+          "offsetInEndSection": 1237,
+          "text": "Drug therapy with benzhexol, tetrabenazine and pimozide or haloperidol may be beneficial in some cases.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/9549503",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 120,
+          "text": "Over the past 15 years we have treated 526 patients with severe hyperkinetic movement disorders with tetrabenazine (TBZ)",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/9040721",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 502,
+          "offsetInEndSection": 799,
+          "text": "The global response rating of 1 (marked improvement) was recorded in 89.2% of 93 patients with tardive stereotypy, 83.3% of 12 with myoclonus, 82.8% of 29 with Huntington's disease, 80.5% of 82 with tardive dystonia, 79.3% of 29 with other movement disorders, 62.9% of 108 with idiopathic dystonia",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/9040721",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 462,
+          "offsetInEndSection": 692,
+          "text": "Twelve adults with severe axial dystonia, and two children with life-threatening generalised dystonia were treated with a combination of a low constant dose of tetrabenazine to which were added pimozide and benzhexol as necessary.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/6502174",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1341,
+          "offsetInEndSection": 1582,
+          "text": "When benzhexol treatment alone fails in adults with severe disabling axial dystonia, or in children with life-threatening generalised dystonia, combined therapy with tetrabenazine, pimozide and benzhexol may give valuable symptomatic relief.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/6502174",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 330,
+          "offsetInEndSection": 424,
+          "text": "We present 42 patients with tardive dystonia. The age of onset of dystonia was 13 to 60 years.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/6128697",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 682,
+          "offsetInEndSection": 804,
+          "text": "The most frequently helpful medications were tetrabenazine (68% of patients improved) and anticholinergics (39% improved).",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/6128697",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 151,
+          "offsetInEndSection": 373,
+          "text": "8-year-old boy of non-Jewish, Mexican-American descent with autosomal-dominant dystonia musculorum deformans who developed rapidly progressive and severe generalized dystonia, hyperpyrexia, myoglobinuria, and renal failure",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/6889706",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 402,
+          "offsetInEndSection": 468,
+          "text": "Transient improvement was achieved with tetrabenazine and baclofen",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/6889706",
+          "endSection": "sections.0"
+        }
+      ]
+    },
+    {
+      "body": "How many TAp73 isoforms have been identified in humans?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18256531",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22388545",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23159862",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21852228",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21459846",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20615966",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20528922",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20613985",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19148480",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19139399",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18611950",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18583365",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16980297",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15138575",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23362263",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23188674",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22508983",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22484480",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22457351",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22056305",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21946516",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21807636",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21643019",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20926182",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20842728",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20807817",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20803057",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20733477",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20581467",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20298673",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20194434",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19885566",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19861456",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19777343",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19671150",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19615968",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19509292",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19363520",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19103865",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18546269",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18477895",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18469517",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18421303",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18350258",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18342333",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18039564",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17912537",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17626635",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17446929",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17076661",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17047653",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17029218",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16964385",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16773194",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16630058",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16467208",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16380414",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16322298",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16290057",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16254107",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16083956",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15975558",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15889017",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15803372",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15781249",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15752257",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15741235",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15610529",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15467455",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15059898",
+        "http://www.ncbi.nlm.nih.gov/pubmed/14676279",
+        "http://www.ncbi.nlm.nih.gov/pubmed/14634023",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12944917",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12920125",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12897129",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11859407",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11830511",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11753569",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23470527",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23414597",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22740507",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23436675",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12235210",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17637683",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20146801",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23271007",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17430565"
+      ],
+      "type": "factoid",
+      "id": "5173bdb38ed59a060a000020",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 162,
+          "text": "A member of the p53 family, p73, has several isoforms and differentially regulates transcription of genes involved in the control of the cell cycle and apoptosis.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18256531",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 534,
+          "text": "The Trp73 gene belongs to the p53 family of transcription factors and, like the other members, is transcribed into different isoforms [1-4]. TP73 gene contains two promoters, encoding the transcriptional domain-containing (TAp73) and the amino deleted (\u0394Np73) isoforms [5, 6]. Furthermore alternative splicing at the 3'-end (to generate \u03b1, \u03b2, \u03b3, etc isoforms) and 5'-end (to generate \u03942, \u03943 and \u03942-3 isoforms) results in generation of at least 14 different transcripts, with different abilities to promote or repress apoptosis [7, 8].",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22388545",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 42,
+          "offsetInEndSection": 448,
+          "text": "Due to the presence in the 5' flanking region of two promoters, there are two N-terminal variants, TAp73, which retains a fully active transactivation domain (TA), and \u0394Np73, in which the N terminus is truncated. In addition, extensive 3' splicing gives rise to at least seven distinctive isoforms; TAp73-selective knockout highlights its role as a regulator of cell death, senescence and tumor suppressor.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23159862",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 217,
+          "text": "The p73 gene, a homologue of the p53 tumor suppressor, is expressed as TA and \u0394N isoforms. TAp73 has similar activity as p53 and functions as a tumor suppressor whereas \u0394Np73 has both pro- and anti-survival functions.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21852228",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 533,
+          "offsetInEndSection": 777,
+          "text": "The \u0394Np73 isoforms that are derived from an internal promoter, antagonize the growth suppressing, pro-apoptotic functions of p53 and of the full length TAp73 isoforms in a dominant negative way by competing for the respective binding sites (2).",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21459846",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1335,
+          "offsetInEndSection": 1519,
+          "text": "TAp73 isoforms have been reported to play a role in DNA damage pathways, since p73 is activated by ionizing irradiation and cisplatin through c-Abl, thereby inducing apoptosis (10\u201312).",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21459846",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 103,
+          "offsetInEndSection": 316,
+          "text": "Transcription from two different promoters on the p73 gene results in generation of transcriptionally active TAp73 isoforms and dominant negative DeltaNp73 isoforms with opposing pro- and anti-apoptotic functions.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20615966",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 293,
+          "offsetInEndSection": 520,
+          "text": "Given that the transactivation activity resides in the protein's N-terminus, TAp63 isoforms function as transcription factors inducing cell cycle arrest and apoptosis. TAp63\u03b3 is the most potent transcription activator [1], [2].",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20613985",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 78,
+          "offsetInEndSection": 426,
+          "text": "We have evaluated the differential expression and subcellular localization of the functionally distinct apoptotic (TA) and anti-apoptotic (DeltaN) isoforms of p73 in non-small cell lung cancer (NSCLC), their possible association with p53 expression and determined the methylation status of the two p73 gene promoters (P1 and P2) in this tumor type.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19148480",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 403,
+          "text": "The role of various p73 isoforms in tumorigenesis has been controversial. However, as we have recently shown, the generation of TAp73-deficient (TAp73(-/-)) mice reveals that TAp73 isoforms exert tumor-suppressive functions, indicating an emerging role for Trp-73 in the maintenance of genomic stability. Unlike mice lacking all p73 isoforms, TAp73(-/-) mice show a high incidence of spontaneous tumors.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19139399",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 431,
+          "text": "p73 is a member of the p53 family of transcription factors, existing as numerous NH2- and COOH-terminal isoforms (1,2) The NH2-terminal variant, known as the deltaNp73 (DNp73), is generated from an internal intronic promoter and lacks the NH2-terminal transactivation (TA) domain, and hence, has been suggested to bind to and counter the tumour-suppressive properties of the TA proficient full-length TAp73 forms (3,4).",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18611950",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 606,
+          "offsetInEndSection": 876,
+          "text": "The COOH-terminal variants arise due to alternate splicing resulting in multiple isoforms that exhibit varying degrees of TApotential (6,7). The longest isoform, the TAp73\u03b1, generally shows weaker activity than TAp73\u03b2 and TAp73\u03b3 that exhibit stronger TA potential (7,8).",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18611950",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1946,
+          "offsetInEndSection": 2222,
+          "text": "TAp73 isoforms, harbouring a transactivating domain (TA), are known to transactivate p53 responsive genes and to induce apoptosis and growth arrest, whereas N-terminal truncated \u0394Np73 isoforms, lacking the TA domain, can act as dominant-negative towards p53 and TAp73 (14,15).",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18583365",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 150,
+          "offsetInEndSection": 445,
+          "text": "Alternative promoters and N-terminal splicing result in the transcription and processing of either full-length (TA) or N-terminally truncated (deltaN) p73 isoforms. TAp73 possesses pro-apoptotic functions, while deltaNp73 has anti-apoptotic properties via functional inhibition of TAp73 and p53.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16980297",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 132,
+          "text": "The p73 gene is able to encode transcriptionaly active TAp73, as well as a dominant-negatively acting DeltaNp73 transcript isoforms.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15138575",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 143,
+          "offsetInEndSection": 333,
+          "text": "Since some mutant p53 proteins and \u0394Np73 isoforms form heterocomplexes with TAp73, we asked whether p53 isoforms can do the same and potentially act as dominant-negative inhibitors of TAp73.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23188674",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 71,
+          "text": "p73, a p53 family tumor suppressor, is expressed as TA and \u0394N isoforms.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22508983",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 107,
+          "text": "p73 is expressed as TA and \u0394N isoforms, both of which are implicated in tumor suppression and/or promotion.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22457351",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 141,
+          "offsetInEndSection": 276,
+          "text": "TP73 gene contains two promoters, encoding the transcriptional domain-containing (TAp73) and the amino deleted (\u0394Np73) isoforms [5, 6].",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22388545",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 881,
+          "offsetInEndSection": 971,
+          "text": "We found that TAp73 isoforms are down regulated in oocytes from women older than 38 years.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21946516",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 182,
+          "text": "p73 possesses an extrinsic P1 promoter and an intrinsic P2 promoter controlling the expression of the pro-apoptotic TAp73 isoforms and the anti-apoptotic \u0394\u039dp73 isoforms respectively.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20926182",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 870,
+          "offsetInEndSection": 1150,
+          "text": "BRCA1-deficient ovarian carcinoma cells exhibit hypermethylation within a p73 regulatory region, which includes the binding site for the p73 transcriptional repressor ZEB1, leading to the abrogation of ZEB1 binding and increased expression of transactivating p73 isoforms (TAp73).",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20807817",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 359,
+          "offsetInEndSection": 540,
+          "text": "In this study, we investigated the expression and subcellular distribution of two N-terminal isoforms, TAp73 and \u0394Np73, in medulloblastoma cells using immunofluorescence microscopy.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20803057",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 409,
+          "offsetInEndSection": 600,
+          "text": "Proteasomal degradation of p73 is mediated by polyubiquitination-dependent and -independent processes both of which appear, thus far, to lack selectivity for the TAp73 and DeltaNp73 isoforms.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20615966",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 218,
+          "offsetInEndSection": 406,
+          "text": "In general, TAp73 isoforms show proapoptotic activities, whereas members of the N-terminally truncated (\u0394N) p73 subfamily that lack the transactivation domain show antiapoptotic functions.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20581467",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 135,
+          "text": "The p73 gene possesses an extrinsic P1 promoter and an intrinsic P2 promoter, resulting in TAp73 and DeltaNup73 isoforms, respectively.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20528922",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 145,
+          "text": "Mice with a complete deficiency of p73 have severe neurological and immunological defects due to the absence of all TAp73 and DeltaNp73 isoforms.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20194434",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 713,
+          "offsetInEndSection": 822,
+          "text": "Moreover, we also found that subcellular location of p73 isoforms changes with the culture density increases.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19885566",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1133,
+          "offsetInEndSection": 1271,
+          "text": "Moreover, ectopic expression of DeltaNp73alpha (but not other p73 isoforms) increased alphaB-crystallin mRNA levels in the absence of p53.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19777343",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 329,
+          "offsetInEndSection": 437,
+          "text": "Like wt p53, TAp63 and TAp73 isoforms transactivate target genes that activate apoptosis signaling pathways.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19615968",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 130,
+          "text": "The TP73 gene gives rise to transactivation domain-p73 isoforms (TAp73) as well as DeltaNp73 variants with a truncated N terminus.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19509292",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 225,
+          "offsetInEndSection": 344,
+          "text": "In contrast, antiapoptotic DeltaNp73 isoforms lack the TA domain and are dominant-negative inhibitors of p53 and TAp73.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19363520",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 125,
+          "offsetInEndSection": 336,
+          "text": "The isoforms TAp63 and TAp73 transactivate p53 target genes and induce apoptosis, whereas the isoforms DeltaNp63 and DeltaNp73 lack transactivation and might have dominant-negative effects in p53 family members.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19103865",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 347,
+          "offsetInEndSection": 602,
+          "text": "The expression of all 5 N-terminal isoforms (TAp73, DeltaNp73, DeltaN'p73, Ex2p73 and Ex2/3p73) was measured by real-time RT-PCR and p53 status was analyzed by immunohistochemistry. TAp73, DeltaNp73 and DeltaN'p73 were significantly upregulated in tumors.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16964385",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 552,
+          "offsetInEndSection": 734,
+          "text": "Consequently, different p73 isoforms can be degraded by calpains, i.e., both N-terminal isoforms (TAp73 and DeltaNp73) as well as the C-terminal isoforms (alpha, beta, gamma, delta).",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15975558",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 218,
+          "offsetInEndSection": 343,
+          "text": "Variants lacking the TA domain (DeltaN isoforms) are induced by TAp73 and by p53, and inhibit their transcriptional activity.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15781249",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 429,
+          "offsetInEndSection": 675,
+          "text": "Indeed, tazarotene modulates the expression of the p73 gene in immortalized keratinocyte cell lines by inducing the pro-apoptotic and anti-proliferative TAp73 isoforms and by repressing the anti-apoptotic and pro-proliferative DeltaNp73 isoforms.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15610529",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 211,
+          "text": "p73, the first p53 gene homologue, encodes an array of p73 proteins including p73 alpha full-length (TAp73 alpha) and amino-truncated isoforms (Delta Np73 alpha), two proteins with opposite biological functions.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14676279",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 329,
+          "offsetInEndSection": 567,
+          "text": "We further showed that DeltaNp73 is a potent transdominant inhibitor of wild-type p53 and TAp73 in cultured human tumor cells by efficiently counteracting their target gene transactivations, apoptosis, and growth suppression functions (A.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12897129",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 216,
+          "offsetInEndSection": 408,
+          "text": "In developing sympathetic neurons of mice, p73 is predominantly expressed as a truncated anti-apoptotic isoform (DeltaNp73), which antagonizes both p53 and the full-length p73 protein (TAp73).",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11859407",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1358,
+          "offsetInEndSection": 1561,
+          "text": "Interestingly, expression of the Delta Np73 is strongly up-regulated by the TA isoforms and by p53, thus creating a feedback loop that tightly regulates the function of TAp73 and more importantly of p53.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11753569",
+          "endSection": "sections.0"
+        }
+      ]
+    },
+    {
+      "body": "Which is the prevalence of cystic fibrosis in the human population?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22627569",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18442953",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18243066",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15970608",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15266396",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11336401"
+      ],
+      "type": "factoid",
+      "id": "513ce5f2bee46bd34c00000a",
+      "snippets": [
+        {
+          "offsetInBeginSection": 688,
+          "offsetInEndSection": 771,
+          "text": "The allelic frequency of this variant was calculated to be 0.7% for this population",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22627569",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 111,
+          "offsetInEndSection": 365,
+          "text": "The results of literature reviews, surveys, and registry analyses revealed a mean prevalence of 0.737/10,000 in the 27 EU countries, which is similar to the value of 0.797 in the United States, and only one outlier, namely the Republic of Ireland at 2.98",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18442953",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 741,
+          "offsetInEndSection": 942,
+          "text": "The age related prevalence of CF among the South Asian and general populations was: 0-14 years, 1:9200 versus 1:6600; 15-24 years, 1:13,200 versus 1:7600; older than 25 years, 1:56,600 versus 1:12,400.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15970608",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 845,
+          "offsetInEndSection": 1130,
+          "text": "A theoretical estimate of the prevalence of cystic fibrosis based on anthropological data suggested a frequency of 25 affected individuals/100,000 inhabitants. However, our data indicated that the true prevalence in the population was considerably lower (6.9 cases/100,000 inhabitants)",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15266396",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 856,
+          "offsetInEndSection": 911,
+          "text": "CF mutations were identified in 374 (4.0%) individuals.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11336401",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 110,
+          "text": "The aim of this study was to evaluate the screening policies of cystic fibrosis (CF) in the Jewish population.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11336401",
+          "endSection": "sections.0"
+        }
+      ]
+    },
+    {
+      "body": "How many clinical trials for off-label drugs in neonates are cited in the literature.",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20821198"
+      ],
+      "type": "factoid",
+      "id": "5150b807d24251bc05000072",
+      "snippets": [
+        {
+          "offsetInBeginSection": 459,
+          "offsetInEndSection": 1195,
+          "text": "Of the 17 Paediatric Investigation Plans submitted, 14 have resulted in an EMA Decision, 3 were withdrawn by the applicants, 8 were granted a full waiver from development, and 1 resulted in a negative opinion. Decisions as issued included 15 clinical trials, with at least 1,282 children to be recruited into studies across five different products. Neonates were included in four of the products. CONCLUSIONS: The small number of submissions indicates a lack of new drugs being developed for the management of pain. Ethical concerns that too many vulnerable children will be recruited into clinical trials must be balanced against limiting the number of off-label prescribing and obtaining age-appropriate information on paediatric use.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20821198",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 298,
+          "offsetInEndSection": 449,
+          "text": "Paediatric Investigations Plans (PIPs) submitted with a Decision (outcome) reached between September 2007 and March 2010 were included in the analysis.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20821198",
+          "endSection": "sections.0"
+        }
+      ]
+    },
+    {
+      "body": "What is the average diameter of intermediate filaments?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/2264817",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22848616",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22126386",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19656809",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21669844",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19559031",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18726512",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18523546",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17289402",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16458019",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15373777"
+      ],
+      "type": "factoid",
+      "id": "515db3d8298dcd4e51000015",
+      "snippets": [
+        {
+          "offsetInBeginSection": 553,
+          "offsetInEndSection": 801,
+          "text": "Negative staining showed that supernatants from the centrifugation assays contained protofilaments, protofibrils and short particles (less than 300 nm), but pellets contained long filaments (greater than 1 micron) with an average diameter of 10 nm.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/2264817",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 811,
+          "offsetInEndSection": 1018,
+          "text": "The building blocks of the cortex are trichocyte keratins intermediate filaments (IFs) with a 7.5 nm diameter embedded in a sulfur-rich protein matrix and arranged in a paracrystalline hexagonal lattice [4].",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22848616",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1072,
+          "offsetInEndSection": 1197,
+          "text": "Ultrastructurally, rhabdoid cells showed paranuclear aggregates and whorls of intermediate filaments with a 9-10 nm diameter.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22126386",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 437,
+          "offsetInEndSection": 650,
+          "text": "After removing IFs by calcination, electron microscopy revealed hollow silica nanotubes several micrometers long, with outer diameters of 35-55 nm and an average inner diameter of 10 nm (comparable to that of IFs)",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19656809",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 133,
+          "text": "Intermediate filaments are filaments 10\u2009nm in diameter that make up an important component of the cytoskeleton in most metazoan taxa.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21669844",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 259,
+          "text": "Neurofilaments (NFs) are essential cytoskeletal filaments that impart mechanical integrity to nerve cells. They are assembled from three distinct molecular mass proteins that bind to each other to form a 10-nm-diameter filamentous rod with sidearm extensions.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19559031",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 108,
+          "offsetInEndSection": 312,
+          "text": "Scanning tunneling microscope (STM) and transmission electron microscope (TEM) micrographs showed that acidic keratins and basic keratins can assemble into dimers and further into 10 nm filamentsin vitro.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18726512",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 137,
+          "text": "ntroductionIntermediate filaments are a diverse family of cytoskeletal proteins that assemble into 10 nm diameter filaments in cells[1].",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18523546",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 151,
+          "offsetInEndSection": 289,
+          "text": "Intermediate in diameter between microtubules and microfilaments, IFs constitute the third cytoskeletal filament system of metazoan cells.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17289402",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 613,
+          "offsetInEndSection": 720,
+          "text": "Just above the bulb, the filaments are characterized by a diameter of 100 Angstroms and a low-density core.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16458019",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1656,
+          "offsetInEndSection": 2023,
+          "text": "Further, using cryo-transmission electron microscopy on native, fully hydrated, vitreous epidermis we show that the subfilametous keratin electron density pattern consists, both in corneocytes and in viable keratinocytes, of one axial subfilament surrounded by an undetermined number of peripheral subfilaments forming filaments with a diameter of approximately 8 nm.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15373777",
+          "endSection": "sections.0"
+        }
+      ]
+    },
+    {
+      "body": "How many genera comprise the Flaviviridae family?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22513121",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20470249",
+        "http://www.ncbi.nlm.nih.gov/pubmed/8396675",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19534676",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19035566",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18991746",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22039536",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21249176",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19555498",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16225688",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22031952"
+      ],
+      "type": "factoid",
+      "id": "51651e24298dcd4e51000054",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 352,
+          "text": "Within a project aimed at discovering new Flaviviridae inhibitors, new variously substituted 2-phenylbenzimidazoles were synthesized and evaluated in cell-based assays for cytotoxicity and antiviral activity against viruses representatives of the three genera of the Flaviviridae family, i.e.: Pestivirus (BVDV), Flavivirus (YFV) and Hepacivirus (HCV).",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22513121",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 172,
+          "offsetInEndSection": 340,
+          "text": "Compounds were tested in cell-based assays against viruses representative of: i) two of the three genera of the Flaviviridae family, i.e. Pestiviruses and Flaviviruses;",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20470249",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 189,
+          "offsetInEndSection": 368,
+          "text": "The RNA-stimulated NTPase activity of this protein from prototypic members of the Pestivirus and Flavivirus genera has recently been established and enzymologically characterized.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8396675",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 196,
+          "offsetInEndSection": 539,
+          "text": "Compounds were tested in cell-based assays against viruses representative of: i) two of the three genera of the Flaviviridae family, i.e. Flaviviruses and Pestiviruses; ii) other RNA virus families, such as Retroviridae, Picornaviridae, Paramyxoviridae, Rhabdoviridae and Reoviridae; iii) two DNA virus families (Herpesviridae and Poxviridae).",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19534676",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 490,
+          "text": "Forty-three 2-[(benzotriazol-1/2-yl)methyl]benzimidazoles, bearing either linear (dialkylamino)alkyl- or bulkier (quinolizidin-1-yl)alkyl moieties at position 1, were evaluated in cell-based assays for cytotoxicity and antiviral activity against viruses representative of two of the three genera of the Flaviviridae family, i.e. Flaviviruses (Yellow Fever Virus (YFV)) and Pestiviruses (Bovine Viral Diarrhoea Virus (BVDV)), as Hepaciviruses can hardly be used in routine cell-based assays.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19035566",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 360,
+          "offsetInEndSection": 703,
+          "text": "Compounds were tested in cell-based assays against viruses representative of: i) two of the three genera of the Flaviviridae family, i.e. Flaviviruses and Pestiviruses; ii) other RNA virus families, such as Retroviridae, Picornaviridae, Paramyxoviridae, Rhabdoviridae and Reoviridae; iii) two DNA virus families (Herpesviridae and Poxviridae).",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18991746",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 102,
+          "text": "The family Flaviviridae consists of three genera \u2013 Flavivirus, Pestivirus and Hepacivirus.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22039536",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 146,
+          "text": "The Flavivirus, Pestivirus and Hepacivirus genera of the Flaviviridae family each include important human and/or animal pathogens [1].",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21249176",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 292,
+          "offsetInEndSection": 352,
+          "text": ": Pestivirus (BVDV), Flavivirus (YFV) and Hepacivirus (HCV).",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22513121",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 158,
+          "text": "The family Flaviviridae contains three genera of positive-strand RNA viruses, namely, Flavivirus, Hepacivirus (e.g., hepatitis C virus [HCV]), and Pestivirus.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22031952",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 10,
+          "offsetInEndSection": 164,
+          "text": "The viral family Flaviviridae comprises the genera Flavivirus, Pestivirus and Hepacivirus and includes numerous important human and animal pathogens [1]. ",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19555498",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 10,
+          "offsetInEndSection": 122,
+          "text": "The Flaviviridae virus family comprises three genera pestivirus, hepacivirus, and the large group of flavivirus.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16225688",
+          "endSection": "sections.0"
+        }
+      ]
+    },
+    {
+      "body": "How many selenoproteins are encoded in the human genome?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/12775843",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22943432",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18174224",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15843685"
+      ],
+      "type": "factoid",
+      "id": "517170c48ed59a060a00000d",
+      "snippets": [
+        {
+          "offsetInBeginSection": 448,
+          "offsetInEndSection": 503,
+          "text": "The human selenoproteome consists of 25 selenoproteins.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12775843",
+          "endSection": "sections.0"
+        }
+      ]
+    },
+    {
+      "body": "How many tissue kallikrein genes are present in the human genome?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/1697365",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11006094",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21741862",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20354523",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20103546",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17210241",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16829021",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16800744",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16800742",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15588589",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15015574",
+        "http://www.ncbi.nlm.nih.gov/pubmed/14710225",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12925213",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12727843",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12725528",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12439720",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12439719",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11522960",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11478802",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21072173",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23093268",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21596022",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20574445",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20180637",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18627305",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17275179",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16800725",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16170411",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15516960",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15192120",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11258672",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11177570",
+        "http://www.ncbi.nlm.nih.gov/pubmed/10662548"
+      ],
+      "type": "factoid",
+      "id": "511a3573df1ebcce7d000018",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 129,
+          "text": "Tissue kallikreins are a group of closely related serine proteinases that are represented by multigene families in mice and rats.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/1697365",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1075,
+          "offsetInEndSection": 1221,
+          "text": "Our map specifies the distance between genes to one base pair accuracy, the relative location, and the direction of transcription of all 15 genes.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11006094",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 160,
+          "text": "The human tissue Kallikrein family consists of 15 genes with the majority shown to be differentially expressed in cancers and/or indicators of cancer prognosis.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21741862",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 428,
+          "offsetInEndSection": 636,
+          "text": "The prognostic value of at least 11 out of 15 members of the human kallikrein family in ovarian cancer has been also published (Clements et al, 2004; Yousef et al, 2005; Prezas et al, 2006; Dorn et al, 2007).",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20354523",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 155,
+          "text": "The 15 members of the kallikrein-related serine peptidase (KLK) family have diverse tissue-specific expression profiles and putative proteolytic functions.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20103546",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 205,
+          "offsetInEndSection": 382,
+          "text": "The 15 human and 24 mouse kallikreins have been implicated in pathophysiology of brain, kidney, and respiratory and reproductive systems and often are used as cancer biomarkers.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17210241",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 180,
+          "text": "Kallikrein gene families have been identified previously in genomes of the human, the mouse, and the rat, and individual kallikrein-like genes have been found in many more species.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16829021",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 146,
+          "text": "The human tissue kallikrein family of serine proteases (hK1-hK15 encoded by the genes KLK1-KLK15) is involved in several cancer-related processes.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16800744",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 101,
+          "text": "The tissue kallikrein gene family consists of 15 genes tandemly arranged on human chromosome 19q13.4.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16800742",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 184,
+          "text": "Human kallikreins are a cluster of 15 serine protease genes located in the chromosomal band 19q13.4, a non-randomly rearranged region in many solid tumors, including pancreatic cancer.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15015574",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 102,
+          "offsetInEndSection": 224,
+          "text": "Tissue kallikrein genes (KLKs) are found on chromosome 19q13.3-4 as a gene cluster encoding 15 different serine proteases.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12925213",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 198,
+          "text": "Kallikreins are a family of 15 genes clustered together on chromosome 19 (Yousef and Diamandis, 2001,2003) and encode for serine protease enzymes (Clements et al, 2001; Yousef and Diamandis, 2002b).",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14710225",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 664,
+          "offsetInEndSection": 843,
+          "text": "The mRNA sequences of the 15 human kallikrein genes were used to identify unique sequence tags of UniGene clusters for each kallikrein (the GenBank reference sequences were used).",
+          "beginSection": "sections.4",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14710225",
+          "endSection": "sections.4"
+        },
+        {
+          "offsetInBeginSection": 305,
+          "offsetInEndSection": 450,
+          "text": "Project to perform in silico analyses of the expression pattern of the 15 human KLK genes in normal and cancerous ovarian tissues and cell lines.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12727843",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 85,
+          "offsetInEndSection": 250,
+          "text": "Novel kallikrein genes were cloned recently, and it was shown that the human kallikrein family contains 15 genes tandemly aligned on chromosomal locus 19q13.3-q13.4.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12725528",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 100,
+          "text": "The human kallikrein gene family includes 15 serine protease genes, clustered on chromosome 19q13.4.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12439720",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1658,
+          "offsetInEndSection": 1838,
+          "text": "The kallikrein genes, denoted KLK1\u2013KLK15, are located on chromosome 19q13.4 and encode for corresponding kallikrein enzymes, hK1\u2013hK15 (Diamandis et al, 2000a; Yousef et al, 2000b).",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12439719",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 65,
+          "text": "The human kallikrein gene family consists of 15 serine proteases.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11522960",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 434,
+          "offsetInEndSection": 555,
+          "text": "We have recently characterized the human kallikrein gene locus on chromosome 19q13.4, which includes 15 kallikrein genes.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11478802",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 293,
+          "offsetInEndSection": 531,
+          "text": "The human tissue kallikrein and kallikrein-related peptidases (KLKs), encoded by the largest contiguous cluster of protease genes in the human genome, are secreted serine proteases with diverse expression patterns and physiological roles.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23093268",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 106,
+          "offsetInEndSection": 186,
+          "text": "that forms the largest cluster of contiguous protease genes in the human genome.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21596022",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 3937,
+          "offsetInEndSection": 4007,
+          "text": "Amongst the genes in this region is a cluster of the kallikrein genes.",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20574445",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 193,
+          "text": "Kallikrein-related peptidases (KLKs) constitute a family of 15 highly conserved serine proteases encoded by the largest uninterrupted cluster of protease-encoding genes within the human genome.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20180637",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 779,
+          "offsetInEndSection": 899,
+          "text": "In this review, we describe the organization of the kallikrein locus and the structure of kallikrein genes and proteins.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20103546",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 190,
+          "offsetInEndSection": 317,
+          "text": "The human tissue kallikrein gene family is the largest contiguous family of proteases in the human genome, containing 15 genes.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18627305",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 246,
+          "offsetInEndSection": 352,
+          "text": "Human tissue kallikrein genes represent the largest contiguous group of proteases within the human genome.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17275179",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 210,
+          "text": "Human tissue kallikreins (hKs), which are encoded by the largest contiguous cluster of protease genes in the human genome, are secreted serine proteases with diverse expression patterns and physiological roles.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15516960",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 305,
+          "text": "Human tissue kallikrein-related serine peptidases (KLKs) constitute a single family of 15 highly conserved trypsin- or chymotrypsin-like serine proteases encoded by the largest contiguous cluster of protease-encoding genes (KLK1-15) in the human genome mapped to chromosomal locus 19q13.4 [1].",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21072173",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 8169,
+          "offsetInEndSection": 8486,
+          "text": "These phylogenies suggest that, apart from the fifteen \u201cconventional\u201d KLK family members, three \u2018orphan\u2019 KLKs are present in anole lizard. The lizard KLK orphans appear to arise from the basal node (Figure 4) leading to the suggestion that they are the members of the KLK family that diverged earliest (\u201cproto-KLKs\u201d).",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21072173",
+          "endSection": "sections.1"
+        }
+      ]
+    },
+    {
+      "body": "How many genes are in the gene signature screened by MammaPrint?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23371464",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23347730",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22738860",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22553468",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21479927",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21347257",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21291290",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21151591",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21081926",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20359886",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20204499",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20094918",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19214742",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19126254",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18786252",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18483364"
+      ],
+      "type": "factoid",
+      "id": "514a0f4ad24251bc05000053",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 35,
+          "text": "The 70-gene signature (MammaPrint\u2122)",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23371464",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 138,
+          "text": "The 70 gene-signature (MammaPrint(\u00ae)) is a prognostic profile of distant recurrence and survival of primary breast cancer (BC)",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23347730",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 501,
+          "offsetInEndSection": 552,
+          "text": "The 70-gene signature was analysed using MammaPrint",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22738860",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 52,
+          "offsetInEndSection": 104,
+          "text": "the prognostic value of the MammaPrint(TM) signature",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22553468",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 474,
+          "offsetInEndSection": 498,
+          "text": "by the 70-gene signature",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22553468",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 477,
+          "offsetInEndSection": 498,
+          "text": "the 70-gene signature",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22553468",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1433,
+          "offsetInEndSection": 1484,
+          "text": "n FDA-cleared 70-gene signature of MammaPrint panel",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21479927",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 15723,
+          "offsetInEndSection": 15803,
+          "text": "MammaPrint (the commercial test of the 70 genes, marketed by Agendia, Amsterdam)",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21347257",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 22,
+          "offsetInEndSection": 50,
+          "text": "70-gene MammaPrint signature",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21291290",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 470,
+          "offsetInEndSection": 487,
+          "text": "70-gene signature",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21291290",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 2528,
+          "offsetInEndSection": 2638,
+          "text": "MammaPrint genes indeed capture these six steps, we examined the biological functions of each of the 70 genes.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21151591",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 183,
+          "offsetInEndSection": 233,
+          "text": "The 70 genes that make up the MammaPrint signature",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21151591",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 26,
+          "offsetInEndSection": 41,
+          "text": "70-gene profile",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21151591",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 747,
+          "offsetInEndSection": 762,
+          "text": "70 gene profile",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21151591",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 34,
+          "offsetInEndSection": 57,
+          "text": "the 70 MammaPrint genes",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21151591",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 582,
+          "offsetInEndSection": 599,
+          "text": "a set of 70 genes",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21151591",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1276,
+          "offsetInEndSection": 1314,
+          "text": "the 70 genes in the MammaPrint profile",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21151591",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 6064,
+          "offsetInEndSection": 6108,
+          "text": "in the MammaPrint 70 gene expression profile",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21151591",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 58,
+          "text": "he MammaPrint 70-gene tumor expression profile",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21151591",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 969,
+          "offsetInEndSection": 1084,
+          "text": "the 70-gene prognosis signature (MammaPrint, Agendia Inc., Huntington Beach, CA, USA and Amsterdam, The Netherlands",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21081926",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 2574,
+          "offsetInEndSection": 2606,
+          "text": "the 70-gene MammaPrint signature",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21081926",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 289,
+          "offsetInEndSection": 321,
+          "text": "The 70-gene MammaPrint signature",
+          "beginSection": "sections.4",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21081926",
+          "endSection": "sections.4"
+        },
+        {
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 156,
+          "text": "The 70-gene signature (MammaPrint) is a prognostic test used to guide adjuvant treatment decisions in patients with node-negative breast cancer.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20359886",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 917,
+          "offsetInEndSection": 935,
+          "text": "70-gene signature.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20359886",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 26,
+          "offsetInEndSection": 43,
+          "text": "70-gene signature",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20359886",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 26,
+          "offsetInEndSection": 43,
+          "text": "70-gene signature",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20359886",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 26,
+          "offsetInEndSection": 43,
+          "text": "70-gene signature",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20359886",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 158,
+          "offsetInEndSection": 220,
+          "text": "the 70-gene MammaPrint signature for chemotherapy (CT) benefit",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20204499",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 61,
+          "offsetInEndSection": 93,
+          "text": "the 70-gene MammaPrint signature",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20094918",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 99,
+          "text": "The 70-gene signature (MammaPrint) is a prognostic tool used to guide adjuvant treatment decisions.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19214742",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 214,
+          "offsetInEndSection": 233,
+          "text": "the 70-gene profile",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19214742",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 287,
+          "offsetInEndSection": 373,
+          "text": "the 70-gene prognosis signature (MammaPrint) for node-negative breast cancer patients.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19126254",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 642,
+          "offsetInEndSection": 660,
+          "text": "70-gene signature.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19126254",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 642,
+          "offsetInEndSection": 659,
+          "text": "70-gene signature",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19126254",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 4677,
+          "offsetInEndSection": 4869,
+          "text": "The Amsterdam 70-gene expression signature as breast cancer prognosis marker has been validated in follow-up studies [39,40], and a clinical assay MammaPrint\u00ae has recently been cleared by FDA.",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18786252",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 836,
+          "offsetInEndSection": 868,
+          "text": "The MammaPrint 70-gene signature",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18483364",
+          "endSection": "sections.0"
+        }
+      ]
+    },
+    {
+      "body": "In what proportion of children with heart failure has Enalapril been shown to be safe and effective?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23124387",
+        "http://www.ncbi.nlm.nih.gov/pubmed/14990637",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12530495",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12454107",
+        "http://www.ncbi.nlm.nih.gov/pubmed/9315539",
+        "http://www.ncbi.nlm.nih.gov/pubmed/7576410",
+        "http://www.ncbi.nlm.nih.gov/pubmed/8110005",
+        "http://www.ncbi.nlm.nih.gov/pubmed/8512763",
+        "http://www.ncbi.nlm.nih.gov/pubmed/1318542",
+        "http://www.ncbi.nlm.nih.gov/pubmed/9381720"
+      ],
+      "type": "factoid",
+      "id": "515dd3d5298dcd4e5100001c",
+      "snippets": [
+        {
+          "offsetInBeginSection": 1407,
+          "offsetInEndSection": 1609,
+          "text": "The responses to IV KCl were attenuated by concomitant furosemide (p\u00a0=\u00a00.01), amphotericin B (p\u00a0<\u00a00.01), and KCl in parenteral nutrition (p\u00a0<\u00a00.01). The responses were augmented by concomitant enalapril",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23124387",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 306,
+          "text": "To determine whether an angiotensin-converting enzyme (ACE) inhibitor, enalapril, prevents cardiac function deterioration (defined using maximal cardiac index [MCI] on exercise testing or increase in left ventricular end-systolic wall stress [LVESWS]) in long-term survivors of pediatric cancer.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14990637",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1342,
+          "offsetInEndSection": 1441,
+          "text": "Enalapril treatment did not influence exercise performance, but did reduce LVESWS in the first year",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14990637",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 233,
+          "text": "Patients with intraatrial baffle procedure for transposition of the great arteries (TGA) have diastolic dysfunction, decreased exercise capacity, stroke volume response and elevated systemic vascular resistance (SVR) during exercise.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12530495",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1713,
+          "offsetInEndSection": 1887,
+          "text": "We conclude that short-term (<1 year) use of enalapril does not improve exercise performance in patients with TGA in whom the intraatrial baffle procedure has been performed.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12530495",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 428,
+          "text": "A common late effect of doxorubicin therapy for childhood cancer is reduced left-ventricular (LV) wall thickness resulting in elevated LV afterload and depressed LV function. Many children are given angiotensin-converting enzyme inhibitors, which have been studied primarily in adults. We document the long-term effects of angiotensin-converting enzyme inhibitors in doxorubicin-treated survivors of childhood cancer.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12454107",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1375,
+          "offsetInEndSection": 1676,
+          "text": "In doxorubicin-treated long-term survivors of childhood cancer, enalapril-induced improvement in LV structure and function is transient. The primary defect, which is LV wall thinning, continues to deteriorate, and thus the short-term improvement was mostly related to lowered diastolic blood pressure.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12454107",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 208,
+          "offsetInEndSection": 417,
+          "text": "Patients who have undergone the Fontan procedure have decreased cardiac output, increased systemic vascular resistance, abnormal diastolic function, and decreased exercise capacity compared with normal people.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/9315539",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1884,
+          "offsetInEndSection": 2107,
+          "text": "We conclude that enalapril administration for 10 weeks does not alter abnormal systemic vascular resistance, resting cardiac index, diastolic function, or exercise capacity in patients who have undergone a Fontan procedure.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/9315539",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 642,
+          "text": "Angiotensin convertase inhibitor (Enalapril) was used in 51 children aged 4 days up to 18 years (mean 4.3 +/- 5.5, years). As many as 27 subjects were newborns (4) and infants (23). The patients suffered from circulatory insufficiency due to congestive cardiomyopathy (13 cases). 6 treated subjects suffered from circulatory insufficiency due to congenital heart malformations before cardiac surgery and 22 after it (including complex malformations operated according to Fontan method). 10 children were treated because of arterial hypertension. 4 subjects suffered form life-threatening arrhythmias coexisting with circulatory insufficiency.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/9381720",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 850,
+          "offsetInEndSection": 1233,
+          "text": "4 patients (8%) died during treatment but their deaths can not be related to angiotensin convertase inhibitor therapy. In the other children (82%) the beneficial influence of angiotensin convertase inhibitor use was found (improvement in comparison with the state before convertase inhibitor introduction). In 10% of subjects enalapril did not show any significant therapeutic effect",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/9381720",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1183,
+          "offsetInEndSection": 1385,
+          "text": "We conclude that the combination of ACE inhibitor and beta-blocker deserves further exploration for inclusion in any management regimen for the treatment of muscular dystrophy-associated cardiomyopathy.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/7576410",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 943,
+          "offsetInEndSection": 1182,
+          "text": "Addition of these medications, never before attempted in the management of cardiomyopathy associated with generalized myopathic disease, complemented each other in relieving symptoms and reversing signs of congestive heart failure and DCM.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/7576410",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 864,
+          "offsetInEndSection": 1098,
+          "text": "Enalapril was clinically safe and effective for children with cardiac failure secondary to ventricular impairment, valvar regurgitation, or after cardiac surgery. Renal failure was a problem in young infants with left-to-right shunts.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8110005",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 694,
+          "text": "In a tertiary referral centre 63 patients underwent 67 treatment periods with enalapril. The median age was 5.4 months. All children had signs of heart failure: congestive cardiac failure with breathlessness at rest was present in 88%. Haemodynamic groups were left-to-right shunt (n = 15), impaired ventricular function (n = 14), after cardiac surgery (n = 23), valvar regurgitation (n = 12), and hypertension (n = 3). Serial clinical, radiological, and laboratory data were used to judge outcome. The mean (SD) maximal dose was 0.30 (0.21) mg/kg/day. Thirty nine (58%) patients improved, 20 (30%) showed no improvement, and eight (12%) had side effects requiring discontinuation of enalapril.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8110005",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 225,
+          "text": "We studied the inhibition of angiotensin converting enzyme (ACE) in eight infants with congestive heart failure (CHF) poorly controlled with digoxin and diuretics, treated orally with 0.25 mg kg-1 enalapril maleate once a day",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8512763",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 584,
+          "offsetInEndSection": 680,
+          "text": "In infants with CHF, mean baseline ACE activity was significantly higher than in control infants",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8512763",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1240,
+          "offsetInEndSection": 1397,
+          "text": "Converting enzyme inhibitors may benefit \"heart failure\" associated with large ventricular septal defects and normal or mildly elevated pulmonary resistance.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/1318542",
+          "endSection": "sections.0"
+        }
+      ]
+    },
+    {
+      "body": "How many different mutations have been associated with Muenke syndrome?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23378035",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22038757",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21403557",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19755431",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19215249",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15241680"
+      ],
+      "type": "factoid",
+      "id": "52c7311903868f1b0600001d",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 164,
+          "text": "Muenke syndrome is an autosomal dominant craniosynostosis syndrome resulting from a defining point mutation in the Fibroblast Growth Factor Receptor3 (FGFR3) gene. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23378035",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 214,
+          "offsetInEndSection": 483,
+          "text": "The associated of FGFR3 mutations with craniosynostosis has been restricted to three mutations, the common p.Pro250Arg in Muenke syndrome, p.Ala391Glu in Crouzon syndrome with acanthosis nigricans, and p.Pro250Leu identified in a family with isolated craniosynostosis. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22038757",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 267,
+          "offsetInEndSection": 437,
+          "text": "The Pro250Arg mutation in the FGFR3 gene is found in patients with Muenke syndrome and is one of the most frequently encountered mutations in craniosynostosis syndromes. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21403557",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 547,
+          "offsetInEndSection": 808,
+          "text": " Fibroblasts from 10 individuals each with Apert syndrome (FGFR2 substitution S252W), Muenke syndrome (FGFR3 substitution P250R), Saethre-Chotzen syndrome (various mutations in TWIST1) and non-syndromic sagittal synostosis (no mutation detected) were cultured. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19755431",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 418,
+          "offsetInEndSection": 542,
+          "text": "The identification of the P250R mutation allowed the confirmation of the Muenke Syndrome in 9 out of the 52 cases referred. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19215249",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 270,
+          "text": "Muenke syndrome, also known as FGFR3-associated coronal synostosis, is defined molecularly by the presence of a heterozygous nucleotide transversion, c.749C>G, encoding the amino acid substitution Pro250Arg, in the fibroblast growth factor receptor type 3 gene (FGFR3). ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15241680",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is the incidence of Edwards syndrom in the european population?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23421080",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23116348",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21786507",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20584846",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19911411",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19408854",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18467377",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18156713",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18067809",
+        "http://www.ncbi.nlm.nih.gov/pubmed/8248469"
+      ],
+      "type": "factoid",
+      "id": "52f350042059c6d71c000010",
+      "snippets": [
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 102,
+          "text": "dwards syndrome (trisomy 18) occurs in 1: 8000 live births and is closely related to the mother's age",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23421080",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1189,
+          "offsetInEndSection": 1274,
+          "text": "Mean incidence was 390.06 (449.08 in boys and 327.93 in girls) per 10 000 live births",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23116348",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 340,
+          "offsetInEndSection": 396,
+          "text": "The incidence of Edwards syndrome is 1:5000 of live-born",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21786507",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1121,
+          "offsetInEndSection": 1310,
+          "text": "The OR for Patau syndrome was 1.10 (95% CI 0.83 to 1.45); for Edwards syndrome, 1.15 (0.96 to 1.38); for Klinefelter syndrome, 1.35 (1.02 to 1.79); and for XYY syndrome, 1.99 (0.75 to 5.26)",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20584846",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 710,
+          "offsetInEndSection": 937,
+          "text": "The live birth prevalence in the absence of prenatal screening and selective termination in England and Wales from 1997 to 2004 was 1.4 (95% CI: 1.2-1.6) per 10 000 births for trisomy 13 and 2.3 (95% CI: 2.1-2.5) for trisomy 18",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19911411",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1501,
+          "offsetInEndSection": 1997,
+          "text": "During the period under the study, following total numbers, mean relative incidences (per 10,000 live births, in brackets) and mean prenatal diagnostics efficiency (in %) were found in following chromosomal syndromes: Down syndrome 2,244 (16.58) and 63.37%, Edwards syndrome 521 (3.85) and 79.93%, Patau syndrome 201 (1.49) and 68.87%, Turner syndrome 380 (2.81) and 79.89%, 47,XXX syndrome 61 (0.45) and 59.74%, Klinefelter syndrome 163 (1.20) and 73.65% and 47,XYY syndrome 22 (0.16) and 54.76%",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19408854",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1043,
+          "offsetInEndSection": 1278,
+          "text": "There was evidence of space-time clustering for Down syndrome (fixed threshold of close in space: P = 0.01, NN threshold: P = 0.02), but little or no clustering for Patau (P = 0.57, P = 0.19) or Edwards (P = 0.37, P = 0.06) syndromes. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18467377",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 542,
+          "offsetInEndSection": 836,
+          "text": "Of the 49,806 pregnant women between 15 and 23 weeks' gestational age who received prenatal serum screening with a cut-off value (a risk of 1:270 for Down and 1:100 for Edwards syndrome), 2,116 (4.2%) and 196 (0.4%) were screen positive for Down syndrome and for Edwards syndrome, respectively.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18156713",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1051,
+          "offsetInEndSection": 1265,
+          "text": "26,803 of the 27,313 women (98%) were screened. The average was 25.1, and 1.7% of them were over 35. Serum screening showed that 1,244 (5%) were Down syndrome positive and 105 (0.4%) were Edwards syndrome positive.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18067809",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 362,
+          "offsetInEndSection": 728,
+          "text": "235 pregnancies of women delivered in units in the North West Thames region over a two-year period (1990-91) whose babies or fetuses were diagnosed as having Down, Edwards or Patau syndrome. RESULTS: 33% of Down syndrome, 68% of Edwards syndrome and 52% of Patau syndrome were diagnosed prenatally (before 28 weeks) in the region without the use of serum screening. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/8248469",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is the prevalence of short QT syndrome?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21855519",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18543308",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18070308",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17679619",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19303371"
+      ],
+      "type": "factoid",
+      "id": "52fb78572059c6d71c000067",
+      "snippets": [
+        {
+          "offsetInBeginSection": 384,
+          "offsetInEndSection": 714,
+          "text": "We chose patients with a short Bazett QTc interval from a database consisting of 114,334 patients to determine the clinical characteristics and prognostic value of a short QT interval. RESULTS: A total of 427 patients (mean age 43.4 \u00b1 22.4 years) had a short QT interval with about a 1.2 times higher male predominance (234 men). ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21855519",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 965,
+          "offsetInEndSection": 1347,
+          "text": "Among 5,511 males, 69 subjects (1.25%) exhibited QTc < 354 msec(1/2) (2 standard deviations [SDs] below the mean in males), and among 5,473 females, 89 subjects (1.63%) exhibited QTc < 364 msec(1/2) (2 SDs below the mean in females). Only 3 subjects (0.03% in all subjects and 0.05% in males) exhibited QTc < 300 msec(1/2), however, none had clinical symptoms of short QT syndrome. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18543308",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 447,
+          "offsetInEndSection": 640,
+          "text": "Of the 19,153 subjects, two met the criteria of short QT interval and allowed for prevalence and incidence estimates for short QT interval as 0.01% and 0.39/100,000 person-years, respectively. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18070308",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 887,
+          "offsetInEndSection": 1065,
+          "text": "The prevalence of QT interval <320 ms based on QTc, QTfc, and QTnc was 0.10%, 0.08%, and 0.06%, and the prevalence of QT interval <340 ms was 0.4%, 0.3%, and 0.3%, respectively. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17679619",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is the incidence of sudden cardiac death among young athletes?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22362900",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20682064",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19734497",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17330410",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17143117",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19587604"
+      ],
+      "type": "factoid",
+      "id": "53036faab24d855b11000001",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 132,
+          "text": "Sudden cardiac death is the leading cause of mortality among young athletes with an incidence of 1-2 per 100,000 athletes per annum.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22362900",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 392,
+          "offsetInEndSection": 478,
+          "text": "The incidence of SCD is expected at one case for each 200,000 young athletes per year.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20682064",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 141,
+          "text": "The incidence of sudden cardiac death (SCD) among young athletes is estimated to be 1-3 per 100,000 person years, and may be underestimated. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19734497",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 171,
+          "text": "Sudden cardiac death in a young athlete is a tragic and marking event, even though the media attention it gets is more important than its incidence (1-2/100000 per year). ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17330410",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 267,
+          "offsetInEndSection": 516,
+          "text": "The sudden death of athletes under 35 years engaged in competitive sports is a well-known occurrence; the incidence is higher in athletes (approximately 2/100,000 per year) than in non-athletes (2.5 : 1), and the cause is cardiovascular in over 90%.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17143117",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 23,
+          "offsetInEndSection": 102,
+          "text": "The prevalence of SCD is estimated in one case for each 200,000 young athletes ",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20682064",
+          "endSection": "sections.3"
+        }
+      ]
+    },
+    {
+      "body": "What is the rate of survival after commotio cordis?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23107651",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21763255",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23015869",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11879111",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11555799",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20086611"
+      ],
+      "type": "factoid",
+      "id": "530cf4e0c8a0b4a00c000007",
+      "snippets": [
+        {
+          "offsetInBeginSection": 592,
+          "offsetInEndSection": 779,
+          "text": "At their commotio cordis event, 216 study patients were 0.2-51 years old (mean age 15\u00b19 years); 95% were males. Death occurred in 156 individuals (72%), while the other 60 (28%) survived.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23107651",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 740,
+          "offsetInEndSection": 864,
+          "text": "In the 2 groups, events were largely similar demographically, including frequency of survival (26% in U.S. vs 25%; P = .84),",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21763255",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1443,
+          "offsetInEndSection": 1508,
+          "text": "Survival of commotio cordis has risen from 10% to 15% since 2001.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23015869",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1388,
+          "offsetInEndSection": 1622,
+          "text": "Only 21 (16%) individuals survived their event, with particularly prompt cardiopulmonary resuscitation/defibrillation (most commonly reversing ventricular fibrillation) the only identifiable factor associated with a favorable outcome.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11879111",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 351,
+          "offsetInEndSection": 435,
+          "text": "Survival rates for commotio cordis are low, even with prompt CPR and defibrillation.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11555799",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 481,
+          "offsetInEndSection": 536,
+          "text": "Survival is low, even when resuscitation is performed. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20086611",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1356,
+          "offsetInEndSection": 1656,
+          "text": "In human cases, resuscitation within 3 minutes resulted in a survival rate of 25% (17 of 68 cases); when resuscitation was prolonged beyond 3 minutes, the survival rate dropped to 3% (1 of 38 cases).7,21 The total survival rate from CC is approximately 15%,7,21 which has improved from 10% in 2001.13",
+          "beginSection": "sections.6",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23015869",
+          "endSection": "sections.6"
+        }
+      ]
+    },
+    {
+      "body": "How many genes outside of the MHC locus have been genetically associated to Rheumatoid Arthritis through GWAS?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23574521",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23381558",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23288628",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23251581",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23251214",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21542789",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21427575",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20453842",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19772830",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18082339",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16000323"
+      ],
+      "type": "factoid",
+      "id": "531af8cbb166e2b80600003a",
+      "snippets": [
+        {
+          "offsetInBeginSection": 275,
+          "offsetInEndSection": 601,
+          "text": "Genome-Wide Association Studies (GWAS) have allowed the characterization of more than 40 new susceptibility genes and the confirmation of a marked differential genetic background between patients expressing anti-cyclic citrullinated peptide antibodies (ACPA, approximately 80% of all RA patients) and ACPA negative RA patients",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23574521",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 273,
+          "offsetInEndSection": 401,
+          "text": "Firstly, we review here the major advances in identifying RA genetic susceptibility markers both within and outside of the MHC. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23381558",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 727,
+          "offsetInEndSection": 986,
+          "text": "The most relevant non-HLA gene single nucleotide polymorphisms (SNPs) associated with RA include PTPN22, IL23R, TRAF1, CTLA4, IRF5, STAT4, CCR6, PADI4. Large genome-wide association studies (GWAS) have identified more than 30 loci involved in RA pathogenesis.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23288628",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 929,
+          "offsetInEndSection": 1099,
+          "text": "The meta-analysis results showed that: (1) 30, 28 and 26 SNPs were significantly associated with RA (P<0.01) for the allele, dominant, and recessive models, respectively.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23251581",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 285,
+          "offsetInEndSection": 572,
+          "text": "This paper compares corresponding non-MHC genomic regions identified in rodent and human genome-wide association studies (GWAS). To date, over 30 non-MHC RA-associated loci have been identified in humans, and over 100 arthritis-associated loci have been identified in rodent models of RA",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23251214",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 296,
+          "offsetInEndSection": 512,
+          "text": "Interestingly, a series of candidate genes have been identified outside of the classical major histocompatibility (MHC) locus, which had long been regarded as the major contributor to the pathogenesis of this disease",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21542789",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 514,
+          "offsetInEndSection": 626,
+          "text": "Among these genes, PTPN22 plays an outstanding role. CD40, STAT4, PRM1, and TNFAIP3 also seem to be of relevance",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21542789",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 334,
+          "offsetInEndSection": 485,
+          "text": "Genome-wide association studies (GWASs) added about 10 new loci to the list of already more than 20 loci associated with RA, so the list is now over 30",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21427575",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 196,
+          "offsetInEndSection": 346,
+          "text": "Previous studies demonstrate that 6 of the established non-HLA CD and RA risk loci (out of 26 loci for each disease) are shared between both diseases.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 766,
+          "offsetInEndSection": 900,
+          "text": "These new associations bring the total number of confirmed rheumatoid arthritis risk loci to 31 among individuals of European ancestry",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20453842",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 902,
+          "offsetInEndSection": 1074,
+          "text": "An additional 11 SNPs replicated at P < 0.05, many of which are validated autoimmune risk alleles, suggesting that most represent genuine rheumatoid arthritis risk alleles.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20453842",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 111,
+          "offsetInEndSection": 350,
+          "text": "Genome-wide association studies have expanded the number of validated RA risk loci beyond HLA-DRB1 \"shared epitope\" alleles to include additional major histocompatibility complex (MHC) risk alleles and more than 10 regions outside the MHC.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19772830",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 521,
+          "offsetInEndSection": 665,
+          "text": "We successfully identified 41 significant SNPs relevant to RA, 25 associated genes and a number of important SNP-SNP interactions (SNP patterns)",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18082339",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 911,
+          "offsetInEndSection": 960,
+          "text": "A total of 47 candidate regions were identified. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16000323",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1377,
+          "offsetInEndSection": 1451,
+          "text": "Therefore, non-HLA loci associated with RA are being increasingly studied.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23251581",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 10360,
+          "offsetInEndSection": 10441,
+          "text": "For each of the 125 loci, Cochran\u2019s Q-statistics were used to test heterogeneity.",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23251581",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 105,
+          "offsetInEndSection": 194,
+          "text": "Ultimately, 216 published articles involving 125 SNPs were included in the meta-analysis.",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23251581",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 898,
+          "offsetInEndSection": 1025,
+          "text": "The meta-analysis results showed that 30, 28 and 26 SNPs were significantly associated with RA under each model, respectively. ",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23251581",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 10441,
+          "offsetInEndSection": 10693,
+          "text": "Many of these risk alleles are weak and are frequently \u201cspecific\u201d for different ethnic groups or subpopulations, but there are at least 25 strong RA risk alleles within 23 non-MHC loci in the human genome that control disease susceptibility or severity",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23251214",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 2691,
+          "offsetInEndSection": 2935,
+          "text": "A total of 26 loci out of 31 confirmed non-MHC loci were screened for corresponding mouse QTLs. Only those that were found in comparative studies of mouse genome-wide association (GWAS) studies (n = 17) are listed under the \u201chuman locus name.\u201d ",
+          "beginSection": "sections.4",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23251214",
+          "endSection": "sections.4"
+        },
+        {
+          "offsetInBeginSection": 6606,
+          "offsetInEndSection": 6785,
+          "text": "In this paper, we collected results from GWAS in mice and rats (over 100 QTLs) and compared the QTL localisations to those identified in human studies (over 30 RA-associated loci)",
+          "beginSection": "sections.4",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23251214",
+          "endSection": "sections.4"
+        },
+        {
+          "offsetInBeginSection": 55,
+          "offsetInEndSection": 348,
+          "text": "In addition to certain MHC (or human leukocyte antigen (HLA) in humans) class-II alleles on human chromosome 6 that are most commonly (over 40%) associated with a genetic risk for RA [1, 12\u201316], currently there are 31 non-MHC RA risk alleles that have been confirmed by GWAS and meta-analyses ",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23251214",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 358,
+          "offsetInEndSection": 610,
+          "text": "Many of these risk alleles are weak and are frequently \u201cspecific\u201d for different ethnic groups or subpopulations, but there are at least 25 strong RA risk alleles within 23 non-MHC loci in the human genome that control disease susceptibility or severity",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23251214",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 68,
+          "offsetInEndSection": 247,
+          "text": "In this paper, we collected results from GWAS in mice and rats (over 100 QTLs) and compared the QTL localisations to those identified in human studies (over 30 RA-associated loci)",
+          "beginSection": "sections.4",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23251214",
+          "endSection": "sections.4"
+        },
+        {
+          "offsetInBeginSection": 601,
+          "offsetInEndSection": 834,
+          "text": "Six other risk loci outside of the HLA locus are shared between CD and RA and include MMEL/TNFRSF14 [2], [4], REL [2], [5], [6], ICOS-CTLA4 [2], [3], [5], [7], IL2-IL21 [2], [3], [8], [9], [10], TNFAIP3 [2], [3], [6], [11], and TAGAP",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 289,
+          "offsetInEndSection": 453,
+          "text": "Recent genome-wide association studies (GWAS) have confirmed HLA and identified at least 26 other non-HLA genetic loci with common alleles associated to each diseas",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 2274,
+          "offsetInEndSection": 2442,
+          "text": "The TAGAP SNPs show association to opposite alleles in CD and RA.10.1371/journal.pgen.1002004.t001Table 1Comparison of CD and RA risk alleles at seven shared risk loci.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1781,
+          "offsetInEndSection": 2272,
+          "text": "For the six shared loci established in both diseases, figure 1A includes the top CD SNP and figure 1B the top RA SNP. From six shared loci, three (TNFRSF14, IL2/IL21 and TNFAIP3) are associated with same SNP or a good proxy (r2>0.9) in both diseases; in other three loci \u2013 CTLA4, REL and TAGAP \u2013 the most associated SNPs in CD and RA are not in strong LD with each other (r2<0.3), which is reflected in moderate association (CTLA4) or no association (REL) of these SNPs in the second disease",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 503,
+          "offsetInEndSection": 641,
+          "text": " There are 26 non-HLA loci from each disease that satisfy this stringent criterion, representing 46 distinct risk loci (Tables S1 and S2).",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 642,
+          "offsetInEndSection": 739,
+          "text": "We investigated the association of the 26 non-HLA CD SNPs in RA, and the 26 non-HLA RA SNPs in CD",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 4858,
+          "offsetInEndSection": 5099,
+          "text": "Sixty-five SNPs from 21 distinct genomic regions were associated with both CD and RA in the combined analysis with Pcombined<1\u00d710\u22125, and with disease-specific P<0.01 (Tables S4 and S5). Of these 21 loci, five are established in both diseases",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 9400,
+          "offsetInEndSection": 9683,
+          "text": "To determine which of these loci are associated with both diseases \u2013 particularly those 7 loci not previously implicated in either disease and 9 loci established as risk alleles in either CD or RA alone \u2013 we selected from each of these 16 loci one most associated SNP for replication",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 16869,
+          "offsetInEndSection": 17030,
+          "text": "Selecting most likely causal gene near associated SNPWe used two methods to identify the most likely causal gene in the region of the 14 shared non-HLA risk loci",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 17919,
+          "offsetInEndSection": 18053,
+          "text": "Based on these two methods, 23 genes located in the 14 shared loci were selected as plausible candidates for shared CD-RA pathogenesis",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 6460,
+          "offsetInEndSection": 6641,
+          "text": " Third, we did not attempt to fine-map the 26 established risk loci for both autoimmune diseases to determine if a single allele is responsible for risk in both autoimmune diseases.",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 3217,
+          "offsetInEndSection": 3334,
+          "text": "Applying these criteria to our meta-analysis results we conclude that there are 14 non-HLA shared CD and RA risk loci",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 3806,
+          "offsetInEndSection": 3914,
+          "text": "sing these methods we prioritized 23 genes located in the 14 shared loci as plausible functional candidates.",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 4450,
+          "offsetInEndSection": 4923,
+          "text": " These genes are known to modulate T-cell activation and/or differentiation: CTLA4 is a negative regulator of T-cell activation [30], ICOS is a T-cell co-stimulator molecule [31], TAGAP is up-regulated upon T-cell activation[32], SH2B3 (LNK) is an adaptor protein involved in T-cell activation [33], and STAT4 is transcription factor important in differentiation of T helper cells [34].\nHow might these 14 loci influence risk of two clinically distinct autoimmune diseases?",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21383967",
+          "endSection": "sections.2"
+        }
+      ]
+    },
+    {
+      "body": "How much should be the duration of the QT interval in patients with short QT syndrome?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15890322",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16482041",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15569843",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17432514",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16255754",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16265378",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19829181",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17497253"
+      ],
+      "type": "factoid",
+      "id": "52fb7c512059c6d71c000069",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 305,
+          "text": "The short QT syndrome constitutes a new clinical entity that is associated with a high incidence of sudden cardiac death, syncope, and/or atrial fibrillation even in young patients and newborns. Patients with this congenital electrical abnormality are characterized by rate-corrected QT intervals<320 ms. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15890322",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1114,
+          "offsetInEndSection": 1294,
+          "text": "QT interval is shortened when QTc is less than 350 ms (1st degree of shortening). In children with QTc below 330 ms (2nd degree of shortening) short QT syndrome should be excluded.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16482041",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 183,
+          "text": "The short-QT syndrome is a new clinical entity characterized by corrected QT intervals <300 ms and a high incidence of ventricular tachycardia (VT) and fibrillation (VF). ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15569843",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 223,
+          "text": "Short QT syndrome is a newly described cardiologic entity which associates a short OT interval (QT and QTc < or = 300 ms) on the surface ECG to a high risk of syncope or sudden death due to malignant ventricular arrhythmia.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17432514",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is the frequency of mutations induced spontaneously through Ethylnitrosourea (ENU) mutagenesis?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/18504270",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15450411",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12410959",
+        "http://www.ncbi.nlm.nih.gov/pubmed/10886029",
+        "http://www.ncbi.nlm.nih.gov/pubmed/10700191",
+        "http://www.ncbi.nlm.nih.gov/pubmed/3863118",
+        "http://www.ncbi.nlm.nih.gov/pubmed/509687"
+      ],
+      "type": "factoid",
+      "id": "533ba85ffd9a95ea0d000008",
+      "snippets": [
+        {
+          "offsetInBeginSection": 820,
+          "offsetInEndSection": 991,
+          "text": "The mutation frequency increased linearly with MNU or ENU concentration (0.01--2.0 mM); mean values were 2800 and 840 mutants per 10(6) clonable cells per mM, respectively",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/509687",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 609,
+          "offsetInEndSection": 900,
+          "text": "The mutation frequency induced by a 400 mg/kg dosage of ethylnitrosourea is 12 times the maximal mutation frequency achievable with a single exposure to x-rays and 36 times that reported for procarbazine, the most effective chemical mutagen previously known for mouse stem-cell spermatogonia",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/3863118",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 523,
+          "offsetInEndSection": 694,
+          "text": "Specific locus tests designed to detect recessive mutations showed that ENU is the most efficient mutagen in mouse with an approximate mutation rate of 1 in 1,000 gametes.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/10700191",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 966,
+          "offsetInEndSection": 1153,
+          "text": "Theoretical considerations and empirical analysis suggest that the per-base mutation frequency for a fractionated-dose treatment protocol is on the order of 1 sequence change per 10(5) bp",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/10886029",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1285,
+          "offsetInEndSection": 1504,
+          "text": "Unlike spontaneous chromosome damage, spontaneous mutant frequencies did not differ significantly among homozygous, heterozygous, and wild-type mice (3.2 x 10(-5), 3.1 x 10(-5), and 3.1 x 10(-5), respectively; P > 0.05)",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15450411",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1667,
+          "offsetInEndSection": 1831,
+          "text": "The ENU-induced mutation frequency in Blmtm3Brd homozygous, heterozygous, and wild mice were 54 x 10(-5), 35 x 10(-5), and 25 x 10(-5) mutants/plaques, respectively",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15450411",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 888,
+          "offsetInEndSection": 1130,
+          "text": "mutation frequencies per nucleotide based on mutant spectra from this study and published literature. We found this frequency in control spleen to be similar for lacI (3.8 +/- 0.7 x 10(-8)) and PhiX174 (3.1 +/- 1.2 x 10(-8)) at 6 weeks of age",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18504270",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "Approximately how many recombination hotspots have been found in the yeast genome?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19557188",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18682829",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18449558",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17478517",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16640774",
+        "http://www.ncbi.nlm.nih.gov/pubmed/8290959"
+      ],
+      "type": "factoid",
+      "id": "534e364e288f4dae47000001",
+      "snippets": [
+        {
+          "offsetInBeginSection": 387,
+          "offsetInEndSection": 536,
+          "text": "In the fission yeast genome DSBs are located within 194 prominent peaks separated on average by 65-kbp intervals of DNA that are largely free of DSBs",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18682829",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 288,
+          "offsetInEndSection": 385,
+          "text": "Most meiotic recombination is positioned at hotspots, but knowledge of the mechanisms is nebulous",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18682829",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 14,
+          "offsetInEndSection": 214,
+          "text": "meiotic recombination is initiated by double-strand DNA breaks (DSBs) which occur at relatively high frequencies in some genomic regions (hotspots) and relatively low frequencies in others (coldspots)",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17478517",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 4143,
+          "offsetInEndSection": 4309,
+          "text": "Most of the DSBs are clustered within 194 prominent peaks that are spaced on average about 65 kbp apart, and between the peaks there are few, if any, detectable DSBs.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18682829",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 8093,
+          "offsetInEndSection": 8243,
+          "text": "The 194 prominent DSB peaks encompass about 700 kbp (5.6%) of the genome sequence and those peaks are separated by regions essentially devoid of DSBs ",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18682829",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 9140,
+          "offsetInEndSection": 9471,
+          "text": "The preceding analyses considered the 194 prominent DSB peaks that collectively contain most of the meiotic DSBs catalyzed by Rec12 (Spo11). However, there are an additional 159 \u201cweak\u201d DSB peaks that encompass less than 5% of the genome and whose aggregate area integrals contribute 12% of the total DSBs measured across the genome",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18682829",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 885,
+          "offsetInEndSection": 974,
+          "text": "Thus, we obtained 490 hotspots and 591 coldspots which composed of the training data set.",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17478517",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 4079,
+          "offsetInEndSection": 4205,
+          "text": " Out of the 4185 sequences, a total of 195 sequences were predicted as hotspots and 591 sequences were predicted as coldspots.",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17478517",
+          "endSection": "sections.2"
+        }
+      ]
+    },
+    {
+      "body": "Which value of nuchal translucency thickness is set as the threshold for high-risk for Down Syndrome?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/19416569",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18726925",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18461550",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16912493",
+        "http://www.ncbi.nlm.nih.gov/pubmed/9471429"
+      ],
+      "type": "factoid",
+      "id": "53592c1e9a4572de6f000002",
+      "snippets": [
+        {
+          "offsetInBeginSection": 511,
+          "offsetInEndSection": 610,
+          "text": "Combined prenatal screening was always positive for Down syndrome when NT thickness exceeded 4.0 mm",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19416569",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 695,
+          "offsetInEndSection": 867,
+          "text": "In women aged 35 to 37 years, combined prenatal screening was always positive when NT exceeded 2.8 mm, 3.0 mm, and 3.4 mm at 11, 12, and 13 weeks of gestation, respectively",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19416569",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 459,
+          "offsetInEndSection": 618,
+          "text": "NT is physiological for a measurement < 3 mm but the incidence of chromosomal abnormalities (essentially trisomies 21, 18 and 13) increases when NT > or = 3 mm",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/9471429",
+          "endSection": "abstract"
+        }
+      ]
+    },
+    {
+      "body": "What is the number of protein coding genes in the human genome?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/20175080",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22955987",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18040051",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15034132"
+      ],
+      "type": "factoid",
+      "id": "535d3c069a4572de6f000006",
+      "snippets": [
+        {
+          "offsetInBeginSection": 277,
+          "offsetInEndSection": 556,
+          "text": "Here, seven membrane protein topology prediction methods based on different underlying algorithms, such as hidden Markov models, neural networks and support vector machines, have been used for analysis of the protein sequences from the 21,416 annotated genes in the human genome.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20175080",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 364,
+          "offsetInEndSection": 523,
+          "text": "he GENCODE 7 release contains 20,687 protein-coding and 9640 long noncoding RNA loci and has 33,977 coding transcripts not represented in UCSC genes and RefSeq",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22955987",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 136,
+          "offsetInEndSection": 220,
+          "text": "Current catalogs list a total of approximately 24,500 putative protein-coding genes.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18040051",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 252,
+          "offsetInEndSection": 442,
+          "text": "Clustering of these sequences using cross-species relationships suggests that millions of expressed sequences may correspond to only approximately 20,000 distinct protein-coding transcripts.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15034132",
+          "endSection": "abstract"
+        }
+      ]
+    }
+  ]
+}

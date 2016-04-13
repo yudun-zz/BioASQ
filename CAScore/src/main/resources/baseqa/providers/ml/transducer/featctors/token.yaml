@@ -1,0 +1,3 @@
+class: edu.cmu.lti.oaqa.baseqa.providers.ml.transducer.featctors.TokenFeatureConstrutor
+
+stoplist: /baseqa/answer/generators/stoplist-top5k.txt

@@ -1,0 +1,3 @@
+class: edu.cmu.lti.oaqa.baseqa.answer.scorers.TypeCoercionCavScorer
+
+lats-limit: [1, 3]

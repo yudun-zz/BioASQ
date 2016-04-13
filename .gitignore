@@ -10,6 +10,7 @@
 
 .idea
 .DS_Store
+.project
 
 # Sensitive or high-churn files:
 .idea/dataSources.ids

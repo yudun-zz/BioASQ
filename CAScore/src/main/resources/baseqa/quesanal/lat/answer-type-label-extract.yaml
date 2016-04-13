@@ -1,0 +1,5 @@
+class: edu.cmu.lti.oaqa.baseqa.quesanal.lat.AnswerTypeLabelExtractor
+
+quantity-question-words-file: /baseqa/quesanal/lat/quantity-question-words.txt
+
+# add values for parameters "concept-search-provider" and "answer-semantic-types-file"

@@ -1,0 +1,2735 @@
+{
+  "questions": [
+    {
+      "body": "Is Rheumatoid Arthritis more common in men or women?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23217568",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22853635",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21340496",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20889597",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20810033",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19158113",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18759162",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17965425",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16418123",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15083883",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12723987",
+        "http://www.ncbi.nlm.nih.gov/pubmed/1563036"
+      ],
+      "type": "factoid",
+      "id": "5118dd1305c10fae75000001",
+      "snippets": [
+        {
+          "offsetInBeginSection": 591,
+          "offsetInEndSection": 678,
+          "text": "Our results show a high prevalence of RA in LAC women with a ratio of 5.2 women per man",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23217568",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1140,
+          "offsetInEndSection": 1394,
+          "text": "RA in LAC women is not only more common but presents with some clinical characteristics that differ from RA presentation in men. Some of those characteristics could explain the high rates of disability and worse prognosis observed in women with RA in LAC",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23217568",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 559,
+          "offsetInEndSection": 718,
+          "text": "The expression and clinical course of RA are influenced by gender. In developed countries the prevalence of RA is 0,5 to 1.0%, with a male:female ratio of 1:3.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22853635",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 897,
+          "offsetInEndSection": 1031,
+          "text": "women were found to have higher disease activity scores, more pain and greater loss of function, both in early and established disease",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22853635",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 993,
+          "offsetInEndSection": 1062,
+          "text": "Intense anti-CCP2 reaction was 19.8-fold higher in females vs. males,",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21340496",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 911,
+          "offsetInEndSection": 944,
+          "text": " men (n = 67) and women (n = 225)",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20889597",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1808,
+          "offsetInEndSection": 1943,
+          "text": " Responses to treatment over time were better among men in this prebiologic era; women had worse progression despite similar treatment.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20889597",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1550,
+          "offsetInEndSection": 1629,
+          "text": "BMI appears to be associated with RA disease activity in women, but not in men.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20810033",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 729,
+          "offsetInEndSection": 785,
+          "text": "A total of 5,161 RA patients (4,082 women and 1,079 men)",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20810033",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 561,
+          "offsetInEndSection": 744,
+          "text": "In women the DAS28 was significantly higher than in men due to higher scores for general health and tender joints. Likewise, HAQ and VAS pain were rated significantly higher in women.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19158113",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 263,
+          "offsetInEndSection": 285,
+          "text": "432 females, 125 males",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18759162",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 862,
+          "offsetInEndSection": 1017,
+          "text": "ESR significantly increased with age, independent of other variables of disease activity. This increase was more pronounced in male than in female patients",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17965425",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 162,
+          "text": "Disease patterns in RA vary between the sexes; the condition is more commonly seen in women, who exhibit a more aggressive disease and a poorer long-term outcome.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/1563036",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 7,
+          "offsetInEndSection": 89,
+          "text": "The mean age of the patients was 62 years (range 19\u201396 years) and 71% were female;",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12723987",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 688,
+          "offsetInEndSection": 830,
+          "text": "The female to male ratio was 2.5:1 and the mean age at diagnosis was 49.4 +/- 14.9 years for women and 55.3 +/-15.6 years for men (P < 0.0003)",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15083883",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 453,
+          "offsetInEndSection": 514,
+          "text": "in 244 female and 91 male patients with rheumatoid arthritis.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16418123",
+          "endSection": "sections.0"
+        }
+      ]
+    },
+    {
+      "body": "Is cancer related to global DNA hypo or hypermethylation?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22120008",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19639607",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18974140",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18667590",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18162535",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16317087",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15574462"
+      ],
+      "type": "factoid",
+      "id": "516e5f10298dcd4e5100007c",
+      "snippets": [
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 89,
+          "text": "Regions of focal DNA hypermethylation and long-range hypomethylation in colorectal cancer",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22120008",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 458,
+          "offsetInEndSection": 776,
+          "text": "Regions of focal hypermethylation in the tumor were located primarily at CpG islands and were concentrated within regions of long-range (>100 kb) hypomethylation. These hypomethylated domains covered nearly half of the genome and coincided with late replication and attachment to the nuclear lamina in human cell lines",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22120008",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 791,
+          "offsetInEndSection": 845,
+          "text": "the confluence of hypermethylation and hypomethylation",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22120008",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 117,
+          "text": "Comparison of CpG island hypermethylation and repetitive DNA hypomethylation in premalignant stages of gastric cancer",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19639607",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 141,
+          "text": "CpG island hypermethylation and genomic DNA hypomethylation are found not only in gastric cancers but also in associated premalignant lesions",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19639607",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1100,
+          "offsetInEndSection": 1250,
+          "text": "Methylation of repetitive DNA elements in gastric lesions generally decreased with progression of the gastric lesion along the multistep carcinogenesi",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19639607",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1580,
+          "offsetInEndSection": 1720,
+          "text": "our findings suggest that CpG island hypermethylation and repetitive DNA hypomethylation are enhanced with progression of the gastric lesion",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19639607",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 96,
+          "text": "DNA hypomethylation arises later in prostate cancer progression than CpG island hypermethylation",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18974140",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 295,
+          "text": "Hypomethylation of CpG dinucleotides in genomic DNA was one of the first somatic epigenetic alterations discovered in human cancers. DNA hypomethylation is postulated to occur very early in almost all human cancers, perhaps facilitating genetic instability and cancer initiation and progression.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18974140",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 406,
+          "offsetInEndSection": 699,
+          "text": "Contrary to the prevailing view that global DNA hypomethylation changes occur extremely early in all human cancers, we show that reductions in (5me)C content in the genome occur very late in prostate cancer progression, appearing at a significant extent only at the stage of metastatic disease",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18974140",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1557,
+          "offsetInEndSection": 1796,
+          "text": "These findings provide evidence that DNA hypomethylation changes occur later in prostate carcinogenesis than the CpG island hypermethylation changes and occur heterogeneously during prostate cancer progression and metastatic dissemination.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18974140",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 735,
+          "offsetInEndSection": 835,
+          "text": "revealed a high incidence of hypermethylation only in poorly differentiated (early and late) tumors.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18667590",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1187,
+          "offsetInEndSection": 1404,
+          "text": "In contrast to gene hypermethylation, genomic DNA hypomethylation, including hypomethylation of repetitive elements and loss of genomic 5-methyldeoxycytidine, occurred in both early and late stages of prostate cancer.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18667590",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 85,
+          "offsetInEndSection": 178,
+          "text": "Tumors have reduced levels of genomic DNA methylation and contain hypermethylated CpG islands",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18162535",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1113,
+          "offsetInEndSection": 1222,
+          "text": "The results are consistent with a specific defect in methylation of repetitive DNA sequences in human cancer.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18162535",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 86,
+          "text": "Both hypomethylation and hypermethylation in a 0.2-kb region of a DNA repeat in cancer",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16317087",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 85,
+          "text": "Differential DNA hypermethylation and hypomethylation signatures in colorectal cancer",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15574462",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 218,
+          "text": "Cancer cells are characterized by a generalized disruption of the DNA methylation pattern involving an overall decrease in the level of 5-methylcytosine together with regional hypermethylation of particular CpG islands",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15574462",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1589,
+          "offsetInEndSection": 1739,
+          "text": "We conclude that DNA hypermethylation and hypomethylation are independent processes and appear to play different roles in colorectal tumor progression",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15574462",
+          "endSection": "sections.0"
+        }
+      ]
+    },
+    {
+      "body": "Is the H3K4me3 histone mark related to transcriptional initiation or elongation?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/23355544",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23284292",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22904080",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22855832",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22768981",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22132139",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21435340",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18682226"
+      ],
+      "type": "factoid",
+      "id": "512d2fff5274a5fb07000006",
+      "snippets": [
+        {
+          "offsetInBeginSection": 659,
+          "offsetInEndSection": 782,
+          "text": "The histone marks appeared mainly in generic regions and were enriched around the transcription start sites (TSSs) of genes",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23355544",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 150,
+          "text": "Tri-methylated H3 lysine 4 (H3K4me3) is associated with transcriptionally active genes, but its function in the transcription process is still unclear",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23284292",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 623,
+          "offsetInEndSection": 766,
+          "text": "However, the catalytic function is critically required for transcription as H3K4me3 levels determine the efficiency of transcription elongation",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23284292",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 680,
+          "offsetInEndSection": 827,
+          "text": "In particular, tri-methyl H3K4 (H3K4me3) occurs at the transcription-start site (TSS) of active genes and is important for transcription activation",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22904080",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 86,
+          "text": "Trimethylation of histone H3 Lys 4 (H3K4me3) is a mark of active and poised promoters.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22855832",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 128,
+          "text": "Histone H3 lysine 4 trimethylation (H3K4me3) is well known to occur in the promoter region of genes for transcription activation",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22768981",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 348,
+          "offsetInEndSection": 422,
+          "text": "3'-H3K4me3 is associated with ~15% of protein-coding genes in both tissues",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22768981",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 697,
+          "offsetInEndSection": 912,
+          "text": "Furthermore, 3'-H3K4me3 modification levels correlate positively with the antisense expression levels of the associated sense genes, implying that 3'-H3K4me3 is involved in the activation of antisense transcription.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22768981",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 4198,
+          "offsetInEndSection": 4372,
+          "text": "indicated that H3K4me1, but not H3K4me3, was enriched around distal cis-elements for the E1A binding protein p300 (EP300), while both modifications were enriched at promoters",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22132139",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 654,
+          "offsetInEndSection": 853,
+          "text": "Among these are forms of histone 3 that are mono- or tri-methylated at lysine 4 (H3K4me1 or H3K4me3, respectively), which bind preferentially to promoter and enhancer elements in the mammalian genome",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21435340",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1066,
+          "offsetInEndSection": 1156,
+          "text": "we find that H3K4me1 and H3K4me3 are enriched at transcriptional start sites in the genome",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21435340",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1676,
+          "offsetInEndSection": 1734,
+          "text": "H3K4me1 and H3K4me3 generally mark cis regulatory elements",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21435340",
+          "endSection": "sections.0"
+        }
+      ]
+    },
+    {
+      "body": "Do archaeal genomes contain one or multiple origins of replication?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22942672",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21784908",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20850498",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21364800",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17956224",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17350933",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16980466",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16321966",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15337158",
+        "http://www.ncbi.nlm.nih.gov/pubmed/14526006",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11967086",
+        "http://www.ncbi.nlm.nih.gov/pubmed/2541880",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17392430",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12646230"
+      ],
+      "type": "factoid",
+      "id": "52ef7786c8da898910000015",
+      "snippets": [
+        {
+          "offsetInBeginSection": 716,
+          "offsetInEndSection": 915,
+          "text": " different replication origins in some archaeal genomes leave quite different patterns of strand asymmetry, suggesting that different replication origins in the same genome may be differentially used",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22942672",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 275,
+          "offsetInEndSection": 580,
+          "text": "In the process of identifying the minimum replication origin sequence required for autonomous plasmid replication in P. furiosus, we discovered that several features of the origin predicted by bioinformatic analysis and in vitro binding studies were not essential for stable autonomous plasmid replication",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21784908",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 205,
+          "offsetInEndSection": 442,
+          "text": "However, because some archaeal genomes contain multiple origins of replication, bias in gene dosage caused by delayed replication should be minimized and hence the substitution rate of genes should associate less with chromosome position",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 683,
+          "offsetInEndSection": 816,
+          "text": "Ortholog families were grouped by their consensus position and designated by their proximity to one of the three origins (O1, O2, O3)",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 166,
+          "offsetInEndSection": 383,
+          "text": "In perfectly shaped isochore-like structures (in \"protoisochores\") from Sulfolobus acidocaldarius and Thermofilum pendens genomes the difference in 3GC levels between genes from different \"protoisochores\" is about 30%",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20850498",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 186,
+          "offsetInEndSection": 246,
+          "text": "The number of Ori sites varies in prokaryotes and eukaryotes",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21364800",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 248,
+          "offsetInEndSection": 386,
+          "text": "Replication starts at a single Ori site in bacteria, but in eukaryotes multiple Ori sites are used for fast copying across all chromosomes",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21364800",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 388,
+          "offsetInEndSection": 507,
+          "text": "The situation becomes complex in archaea, where some groups have single and others have multiple origins of replication",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21364800",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1221,
+          "offsetInEndSection": 1321,
+          "text": "Results from this in silico analysis show that the Themococcales have a single origin of replication",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21364800",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 927,
+          "offsetInEndSection": 1059,
+          "text": "The analysis of pHH1 deletion variants led to a 4 kilobase pair DNA region containing the origin of replication of the pHH1 plasmid.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/2541880",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1184,
+          "offsetInEndSection": 1339,
+          "text": "The low point in cumulative GC-skew, near the left end, was a region rich in short repeats and lacking ORFs, which is likely to be an origin of replication",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11967086",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 182,
+          "text": "We report on the identification and first cloning of an autonomously replicating sequence element from the chromosome of an archaeon, the extreme halophile Halobacterium strain NRC-1",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14526006",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 184,
+          "offsetInEndSection": 362,
+          "text": "The putative replication origin was identified by association with the orc7 gene and replication ability in the host strain, demonstrated by cloning into a nonreplicating plasmid",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14526006",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 42,
+          "text": "Multiple origins of replication in archaea",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15337158",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 150,
+          "text": "Until recently, the only archaeon for which a bona fide origin of replication was reported was Pyrococcus abyssi, where a single origin was identified",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15337158",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 152,
+          "offsetInEndSection": 306,
+          "text": "Although several in silico analyses have suggested that some archaeal species might contain more than one origin, this has only been demonstrated recently",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15337158",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 308,
+          "offsetInEndSection": 400,
+          "text": "Two studies have shown that multiple origins of replication function in two archaeal species",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15337158",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 402,
+          "offsetInEndSection": 634,
+          "text": "One study identified two origins of replication in the archaeon Sulfolobus solfataricus, whereas a second study used a different technique to show that both S. solfataricus and Sulfolobus acidocaldarius have three functional origins",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15337158",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 636,
+          "offsetInEndSection": 698,
+          "text": "These are the first reports of archaea having multiple origins",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15337158",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 130,
+          "text": "To date, methanogens are the only group within the archaea where firing DNA replication origins have not been demonstrated in vivo",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17956224",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 132,
+          "offsetInEndSection": 349,
+          "text": "In the present study we show that a previously identified cluster of ORB (origin recognition box) sequences do indeed function as an origin of replication in vivo in the archaeon Methanothermobacter thermautotrophicus",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17956224",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 438,
+          "offsetInEndSection": 536,
+          "text": " Two cdc6 genes are present, but neither could be linked unambiguously to an origin of replication",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17350933",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1012,
+          "offsetInEndSection": 1204,
+          "text": "A cryptic 36-kbp plasmid sequence that contains an orc1 gene flanked by a presumptive origin of replication consisting of 38 tandem repeats of a 143-nucleotide motif was detected in M. barkeri",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16980466",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 499,
+          "offsetInEndSection": 749,
+          "text": "We draw the conclusion that multiple functional sites of origin of replication may exist in the genomes of most archaea and in some exceptional cases of eubacteria, while in the majority of eubacteria, replication occurs through a single fixed origin",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16321966",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 400,
+          "offsetInEndSection": 565,
+          "text": "One notable feature distinguishing the genomes and cell cycles of some Archaea from those of Bacteria is the presence of multiple replication origins per chromosome.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1042,
+          "offsetInEndSection": 1266,
+          "text": "In essence, the evolution of multiple replication origins within a relatively small archaeal genome may be equivalent to the evolution of an isochore that generates regional uniformity in mutational and evolutionary dynamics",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1297,
+          "offsetInEndSection": 1400,
+          "text": "However, as in eukaryotes, identifying origins of replication in archaeal genomes has been challenging.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 5226,
+          "offsetInEndSection": 5443,
+          "text": "However, in relatively small (\u223c2.7 Mb) genomes with multiple origins of replication such as the Archaea discussed here, variation in gene dosage caused by different replication timing should theoretically be minimized",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 171,
+          "text": "One of the evolutionary innovations that distinguish some Archaea and Eukarya from Bacteria is the presence of multiple replication origins on each chromosome. ",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 736,
+          "offsetInEndSection": 915,
+          "text": "However, with multiple, nonoverlapping replication forks on archaeal chromosomes the transient variation in gene copy number during the cell cycle should be significantly reduced.",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 6537,
+          "offsetInEndSection": 6644,
+          "text": "These patterns occur in spite of the action of multiple replication origins within one circular chromosome.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 2353,
+          "offsetInEndSection": 2556,
+          "text": "In theory, multiple origins of replication should reduce this variation over equivalent chromosomes with only a single origin, and dosage between origin and terminus should never exceed 2-fold in Archaea",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 10855,
+          "offsetInEndSection": 11058,
+          "text": "It also remains to be studied how multiple replication origins arose in Archaea in general and Sulfolobus in particular, whether by duplication or acquisition of foreign genes from a different archaeon. ",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 1711,
+          "offsetInEndSection": 1991,
+          "text": "The archaea \nhowever do not show a uniform pattern of replication. Some like P.abyssi \n[4], the first experimentally studied archaeon, \nhave a single origin of replication like bacteria, but some like Sulfolobus solfataricus \n[5] and Haloferax volcanii \n[6] have multiple origins.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21364800",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 3918,
+          "offsetInEndSection": 4157,
+          "text": "\nIn most of the cases copy number of the cdc6 gene is directly linked with the number of replication \nsites in genome, that is if there are multiple copies of the cdc6 gene, it indicates a possibility of \nmultiple Ori sites in that genome.",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21364800",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 884,
+          "offsetInEndSection": 1086,
+          "text": "However the eukaryotes have multiple Ori, but as noted earlier, the number of Ori sites in archaea \nvaries. In some archaea like the Thermococcales there is single Ori, but in others there are multiple.",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21364800",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 411,
+          "offsetInEndSection": 468,
+          "text": "The origin of multiple Ori sites in archaea is not clear.",
+          "beginSection": "sections.4",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21364800",
+          "endSection": "sections.4"
+        },
+        {
+          "offsetInBeginSection": 828,
+          "offsetInEndSection": 964,
+          "text": "On the other hand, Halophiles which have lower growth \ntemperatures, like H.volcanii [6] \nand Halobacterium sp. have multiple Ori sites.",
+          "beginSection": "sections.4",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21364800",
+          "endSection": "sections.4"
+        },
+        {
+          "offsetInBeginSection": 4544,
+          "offsetInEndSection": 4742,
+          "text": "different replication origins in some archaeal genomes leave quite different patterns of strand asymmetry, suggesting that different replication origins in the same genome may be differentially used",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22942672",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 52,
+          "offsetInEndSection": 222,
+          "text": "GENOMES\nIt is generally assumed that bacterial genomes have a single origin of replication [41, 42] whereas archaeal genomes tend to have multiple origins of replication ",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22942672",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 2147,
+          "offsetInEndSection": 2430,
+          "text": "There is no strong theoretical reason against some bacterial species having multiple origins of replication, other than the probably far-fetched possibility that daughter genomes arising from multiple origins of replication may fail to segregate properly into the two daughter cells.",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22942672",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 17,
+          "offsetInEndSection": 99,
+          "text": "Multiple replication origins are typically assumed for archaeal genome replication",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22942672",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 114,
+          "offsetInEndSection": 323,
+          "text": "Multiple origins of replication implies multiple changes in polarity in nucleotide skew plots, which is well exemplified by several archaeal species with experimentally verified multiple origins of replication",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22942672",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 2087,
+          "offsetInEndSection": 2304,
+          "text": "The origin of replication has not been identified in the Methanococcus jannaschii genome, but the multiple changes in polarity in the SG plot (Fig. 8A) from the genome strongly suggest multiple origins of replication.",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22942672",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 2468,
+          "offsetInEndSection": 2632,
+          "text": "The shared feature of multiple replication origins among these taxonomically diverse archaeal species suggests that multi-origin replication is the norm in Archaea.",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22942672",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 4233,
+          "offsetInEndSection": 4486,
+          "text": " Furthermore, it will attempt to argue on the possible existence of multiple origins of replication in specific bacterial genomes as a potential explanation regarding the observed skews as well as the failure to locate a single origin in certain species",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16321966",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 5036,
+          "offsetInEndSection": 5309,
+          "text": "he hypothesis of existence of multiple origins of replication in bacteriaAn additional point that can be raised for the possible existence of multiple origins of replication for Nostoc sp. may come from the localization of potential eubacterial DNA polymerase binding sites",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16321966",
+          "endSection": "sections.1"
+        }
+      ]
+    },
+    {
+      "body": "Is the transcriptional regulator BACH1 an activator or a repressor?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/24035498",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23880309",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23738048",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23446334",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23181164",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22847612",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22735309",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22289179",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22127667",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21982894",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21812759",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21473739",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21373270",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20501657",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20388958",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20345481",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20127796",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19591297",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19439223",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19282658",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19119918",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19035757",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19011633",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18948842",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18555605",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18550526",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18426999",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18325350",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17901053",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17701549",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17682061",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16824198",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16771696",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16724942",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16487043",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15855052",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15809329",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15743416",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15464985",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15175654",
+        "http://www.ncbi.nlm.nih.gov/pubmed/14660636",
+        "http://www.ncbi.nlm.nih.gov/pubmed/14504288",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12511571",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12356737",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11530014",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11387216"
+      ],
+      "type": "factoid",
+      "id": "52ed795098d0239505000032",
+      "snippets": [
+        {
+          "offsetInBeginSection": 648,
+          "offsetInEndSection": 835,
+          "text": "We demonstrate that FBXL17 controls the transcription of the NRF2 target HMOX1 via turnover of the transcriptional repressor BACH1 in the absence or presence of extrinsic oxidative stress",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/24035498",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 116,
+          "text": "arallel SCF adaptor capture proteomics reveals a role for SCFFBXL17 in NRF2 activation via BACH1 repressor turnover",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/24035498",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 119,
+          "text": "TB and CNC homology 1 (Bach1) is a transcriptional repressor of antioxidative enzymes, such as heme oxygenase-1 (HO-1)",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23880309",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 710,
+          "offsetInEndSection": 953,
+          "text": "On the other hand, entry and accumulation of Nrf2 protein in the nucleus, while exportting the transcriptional repressor BTB and CNC homology 1 (Bach1) from nucleus to cytoplasm, were also confirmed by western blot and immunofluorescence assay",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23738048",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 208,
+          "text": "BTB and CNC homolog 1 (Bach1) is a transcriptional repressor of heme oxygenase-1 (HO-1), which plays an important role in the protection of cells and tissues against acute and chronic inflammation",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23446334",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 187,
+          "text": "ach1 is a transcriptional repressor which modulates several critical transcriptional responses, such as the expression of the heme oxygenase-1 (HO-1) gene in response to oxidative stress",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23181164",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 189,
+          "offsetInEndSection": 301,
+          "text": "In our recent study, we found that Bach1 possesses a novel role in mitotic chromosome alignment during metaphase",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23181164",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 750,
+          "offsetInEndSection": 869,
+          "text": "Our findings suggest that Bach1 might mediate the regulation of mitotic chromosomes under conditions of cellular stress",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23181164",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 152,
+          "offsetInEndSection": 346,
+          "text": "Among the genes related to ROS metabolism, Bach1 is a repressor of the oxidative stress response, and a negative regulator of ROS-induced cellular senescence directed by p53 in higher eukaryotes",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22847612",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 707,
+          "offsetInEndSection": 891,
+          "text": "In HaCaT cells, FB and EC (200 \u03bcM) induced nuclear translocation of NRF2 protein after 24 h and reduced nuclear protein levels of BACH1, a repressor of the antioxidant response element",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22735309",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 4,
+          "offsetInEndSection": 69,
+          "text": "transcriptional repressor Bach1 mediates various stress responses",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22289179",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 226,
+          "offsetInEndSection": 327,
+          "text": "This study was undertaken to clarify the effects of HO-1 and its repressor Bach1 in osteoclastogenesi",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22127667",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 543,
+          "offsetInEndSection": 716,
+          "text": "However, the regulation of HMOX1 by the antioxidant-response element is firmly established, with the transcription factor BACH1 serving as a repressor and Nrf2 as an enhance",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21982894",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 110,
+          "offsetInEndSection": 166,
+          "text": "induction of the transcriptional repressor BACH1 by Nrf2",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21812759",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 715,
+          "offsetInEndSection": 989,
+          "text": "Transcription factor BACH1 [BTB (broad-complex, tramtrack and bric-a-brac) and CNC (cap'n'collar protein) homology 1] binds to ARE-like sequences, functioning as a transcriptional repressor in a subset of ARE-regulated genes, thus antagonizing the activator function of Nrf2",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21812759",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 89,
+          "text": "TB and CNC homologue 1 (Bach1) is a transcriptional repressor of heme oxygenase-1 (HO-1)",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21473739",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 202,
+          "text": "ach1 is a transcriptional repressor of heme oxygenase-1 (HO-1, a.k.a. HSP-32), which is an inducible enzyme and has anti-oxidation/anti-inflammatory properties shown in various models of organ injuries",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21373270",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 207,
+          "offsetInEndSection": 353,
+          "text": "Because Bach1 is a repressor of the oxidative stress response, we examined the function(s) of Bach1 in keratinocytes subjected to oxidative stress",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20501657",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1351,
+          "offsetInEndSection": 1520,
+          "text": "Thus, in response to oxidative stress, Bach1 regulates the oxidation state through the negative control of HO-1 expression prior to terminal keratinocyte differentiation",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20501657",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1522,
+          "offsetInEndSection": 1603,
+          "text": "However, Bach1-mediated repression is negated during keratinocyte differentiation",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20501657",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 86,
+          "text": "TB and CNC homolog 1 (Bach1) is a transcriptional repressor of heme oxygenase-1 (HO-1",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20388958",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 108,
+          "text": "xpression of heme oxygenase-1 in human leukemic cells and its regulation by transcriptional repressor Bach1",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20345481",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 199,
+          "offsetInEndSection": 515,
+          "text": "Here we investigated the expression of HO-1 in primary and established AML cells as well as other types of leukemic cells and normal monocytes, and its regulatory mechanism by the transcriptional repressor, BTB and CNC homology 1 (Bach1), and the activator, nuclear factor erythroid-derived 2 related factor 2 (Nrf2)",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20345481",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 88,
+          "offsetInEndSection": 283,
+          "text": "Bach1, a basic leucine zipper mammalian transcriptional repressor, negatively regulates heme oxygenase 1 (HMOX1), a key cytoprotective enzyme that has antioxidant and anti-inflammatory activities",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20127796",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 320,
+          "offsetInEndSection": 453,
+          "text": "Bach1 inhibits expression of oxidative stress responsive genes by competing with Nrf2, the key activator of oxidative stress response",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19591297",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 455,
+          "offsetInEndSection": 636,
+          "text": "Bach1 inhibits p53-dependent cellular senescence induced by oxidative stress. Bach1 forms a protein complex with p53, is recruited to p53 target genes, and inhibits their expression",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19591297",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 70,
+          "text": "ach1 is a transcriptional repressor of the heme oxygenase (HO)-1 gene",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19439223",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 153,
+          "text": "ach1 is a basic region-leucine zipper (bZip) protein that forms heterodimers with the small Maf proteins and functions as a repressor of gene expression",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19282658",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 155,
+          "offsetInEndSection": 234,
+          "text": "One of the target genes of Bach1 is Hmox-1 that encodes heme oxygenase-1 (HO-1)",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19282658",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 109,
+          "text": "eme mediates derepression of Maf recognition element through direct binding to transcription repressor Bach1",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11387216",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 75,
+          "offsetInEndSection": 260,
+          "text": "heme. The mammalian transcription factor Bach1 functions as a repressor of the Maf recognition element (MARE) by forming antagonizing hetero-oligomers with the small Maf family proteins",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11387216",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 721,
+          "offsetInEndSection": 805,
+          "text": "The repressor activity of Bach1 was lost upon addition of hemin in transfected cells",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11387216",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 807,
+          "offsetInEndSection": 943,
+          "text": "These results suggest that increased levels of heme inactivate the repressor Bach1, resulting in induction of a host of genes with MARES",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11387216",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 4,
+          "offsetInEndSection": 100,
+          "text": "promoter of mouse transcription repressor bach1 is regulated by Sp1 and trans-activated by Bach1",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11530014",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 83,
+          "offsetInEndSection": 189,
+          "text": "Bach1 and Bach2 repress MARE-dependent transcription by forming heterodimers with Maf-related oncoproteins",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11530014",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 220,
+          "offsetInEndSection": 313,
+          "text": "Here we show that a heme-binding factor, Bach1, is a critical physiological repressor of ho-1",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12356737",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 316,
+          "offsetInEndSection": 552,
+          "text": "ach1 bound to the multiple Maf recognition elements (MAREs) of ho-1 enhancers with MafK in vitro and repressed their activity in vivo, while heme abrogated this repressor function of Bach1 by inhibiting its binding to the ho-1 enhancers",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12356737",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 982,
+          "offsetInEndSection": 1205,
+          "text": "Thus, regulation of ho-1 involves a direct sensing of heme levels by Bach1 (by analogy to lac repressor sensitivity to lactose), generating a simple feedback loop whereby the substrate effects repressor-activator antagonism",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12356737",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 470,
+          "offsetInEndSection": 635,
+          "text": "The hypoxia-mediated repression of HO-1 expression is consistently associated with the induction of Bach1, a heme-regulated transcriptional repressor, in human cells",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12511571",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1205,
+          "offsetInEndSection": 1356,
+          "text": "Therefore, Bach1 functions as a hypoxia-inducible repressor for the HO-1 gene, thereby contributing to fine-tuning of oxygen homeostasis in human cells",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12511571",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 93,
+          "text": "admium induces nuclear export of Bach1, a transcriptional repressor of heme oxygenase-1 gene",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14504288",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 435,
+          "offsetInEndSection": 597,
+          "text": "Although ho-1 is repressed by Bach1/small Maf heterodimers, it is activated by Nrf2/small Maf heterodimers, indicating that Bach1 and Nrf2 compete with each other",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14504288",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1361,
+          "offsetInEndSection": 1525,
+          "text": "These results indicate that the nuclear export of Bach1 constitutes an important regulatory mechanism to relieve the Bach1-mediated repression of genes such as ho-1",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14504288",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 140,
+          "offsetInEndSection": 214,
+          "text": "The repressor activity of Bach1 is inhibited by the direct binding of heme",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14660636",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1791,
+          "offsetInEndSection": 1926,
+          "text": "We propose that heme positively regulates the beta-globin gene expression by blocking the interaction of Bach1 with the MARE in the LCR",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14660636",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1360,
+          "offsetInEndSection": 1488,
+          "text": "ransient expression of Bach1 suppressed the microLCR activity, and this repressor activity was cancelled by treatment with hemin",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14660636",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 143,
+          "text": "ach1 is a transcriptional repressor of heme oxygenase-1 and beta-globin genes, both of which are known to be transcriptionally induced by heme",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15175654",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 841,
+          "offsetInEndSection": 985,
+          "text": "These results extend the regulatory roles for heme in protein sorting, and suggest that Bach1 transduces metabolic activity into gene expression",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15175654",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 4,
+          "offsetInEndSection": 150,
+          "text": "transcriptional factor Bach1 forms a heterodimer with small Maf family, and functions as a repressor of the Maf recognition element (MARE) in vivo",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15464985",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 119,
+          "text": "eme-dependent up-regulation of the alpha-globin gene expression by transcriptional repressor Bach1 in erythroid cells.",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15464985",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 1101,
+          "offsetInEndSection": 1301,
+          "text": "The transient expression of Bach1 and mutated Bach1 lacking CP motifs suppressed the HS-40 activity, and cancellation of the repressor activity by hemin was observed when wild-type Bach1 was expressed",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15464985",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1523,
+          "offsetInEndSection": 1726,
+          "text": "These results indicated that heme plays an important role in the induction of alpha-globin gene expression through disrupting the interaction of Bach1 and the NA site in HS-40 enhancer in erythroid cells",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15464985",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 89,
+          "text": "ach1 is a transcriptional repressor of the cytoprotective enzyme heme oxygenase-1 (HO-1)",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15743416",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1202,
+          "offsetInEndSection": 1358,
+          "text": "hese results indicate that Bach1 plays a critical role in the regulation of HO-1 expression, macrophage function, SMC proliferation and neointimal formation",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15743416",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1360,
+          "offsetInEndSection": 1447,
+          "text": "Bach1 may regulate gene expression in these cells during inflammation and atherogenesis",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15743416",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 99,
+          "text": "ach1 functions as a transcriptional repressor of heme oxygenase-1 (HO-1) and the beta-globin genes",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15809329",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1078,
+          "offsetInEndSection": 1194,
+          "text": "The repression of HO-1 reporter activity by Bach1 was attenuated by co-transfecting IHABP in a dose-dependent manner",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15809329",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 100,
+          "text": "ach1 is a transcriptional repressor of heme oxygenase-1, one of the most inducible phase 2 proteins",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15855052",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1053,
+          "offsetInEndSection": 1168,
+          "text": "These data suggest that redox regulation of Bach1 is an alternative mechanism to induce multiple ARE-governed genes",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15855052",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 808,
+          "offsetInEndSection": 1012,
+          "text": "By binding to Bach1, heme induces selective removal of the repressor from the gene enhancers permitting subsequent occupancy of the MAREs by activators that, interestingly, also contain small Maf proteins",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16487043",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 921,
+          "offsetInEndSection": 1140,
+          "text": "Discovery of Bach1, a transcriptional repressor of HO-1, has greatly contributed to the understanding of the regulation of HO-11 expression, providing a clue to a development of alternative method to enhance HO activity",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16724942",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1142,
+          "offsetInEndSection": 1182,
+          "text": "Bach1 normally represses HO-1 expression",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16724942",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 5,
+          "offsetInEndSection": 101,
+          "text": "Carotene and cigarette smoke condensate regulate heme oxygenase-1 and its repressor factor Bach1",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16771696",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 91,
+          "text": "ach1 is a transcriptional repressor of heme oxygenase-1 gene (Hmox-1) and beta-globin gene",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16824198",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1307,
+          "offsetInEndSection": 1441,
+          "text": "Bach1 inactivation during I/R appears to be a key mechanism controlling the activation level of cytoprotective program involving HO-1.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16824198",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 4,
+          "offsetInEndSection": 133,
+          "text": "transcription repressor Bach1 is a sensor and effector of heme that regulates the expression of heme oxygenase 1 and globin genes",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17682061",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 4,
+          "offsetInEndSection": 188,
+          "text": "mammalian transcription factor Bach1 functions as a repressor of the enhancers of heme oxygenase-1 (HO-1) gene (Hmox-1) by forming heterodimers with the small Maf proteins such as MafK",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17701549",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 434,
+          "offsetInEndSection": 662,
+          "text": "In addition, overexpression of Bach1 protein in the transfected cells decreased ferritin expression, indicating insufficient endogenous Bach1 for full repression; decreasing Bach1 with antisense RNA increased ferritin expression",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17901053",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 196,
+          "text": "ach1 repression of ferritin and thioredoxin reductase1 is heme-sensitive in cells and in vitro and coordinates expression with heme oxygenase1, beta-globin, and NADP(H) quinone (oxido) reductase1",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17901053",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 191,
+          "offsetInEndSection": 372,
+          "text": "n contrast, the transcriptional repressor BACH1 binds ARE-like enhancers in cells na\u00efve to oxidative stress and antagonizes NRF2 binding until it becomes inactivated by pro-oxidants",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1116,
+          "offsetInEndSection": 1254,
+          "text": "Thus, BACH1 confers an additional level of regulation to ARE-dependent genes that reveals a new dimension to the oxidative stress response",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 615,
+          "offsetInEndSection": 746,
+          "text": "BACH1 repression is dominant over NRF2-mediated HMOX1 transcription and inactivation of BACH1 is a prerequisite for HMOX1 induction",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 86,
+          "offsetInEndSection": 141,
+          "text": "Bach1 is a mammalian transcriptional repressor of HO-1.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18325350",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 118,
+          "text": "yocardial protection against pressure overload in mice lacking Bach1, a transcriptional repressor of heme oxygenase-1",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18426999",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 159,
+          "text": "ach1 is a stress-responsive transcriptional factor that is thought to control the expression levels of cytoprotective factors, including heme-oxygenase (HO)-1",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18426999",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1590,
+          "offsetInEndSection": 1788,
+          "text": "Bach1 repressively controls myocardial HO-1 expression both in basal and stressed conditions, inhibition of Bach1 may be a novel therapeutic strategy to protect the myocardium from pressure overload",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18426999",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1395,
+          "offsetInEndSection": 1588,
+          "text": "These results suggest that deletion of Bach1 caused upregulation of cytoprotective HO-1, thereby inhibiting TAC-induced LV hypertrophy and remodeling, at least in part, through activation of HO",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18426999",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 70,
+          "text": "ACH1 is a specific repressor of HMOX1 that is inactivated by arsenite",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18550526",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 235,
+          "offsetInEndSection": 435,
+          "text": "In the absence of elevated intracellular heme or oxidative stress, the basic region leucine zipper transcriptional regulator BACH1 binds HMOX1 antioxidant response elements and represses transcription",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18550526",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 374,
+          "offsetInEndSection": 537,
+          "text": "Bach1 is a transcriptional repressor of the HO-1 gene, and plays a critical role in tissue protection from oxidative stress by reperfusion injury of the myocardium",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18555605",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1183,
+          "offsetInEndSection": 1302,
+          "text": "Thus, Bach1 plays an important role in regulating the constitutive and inducible expression levels of HO-1 in the brain",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18555605",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 770,
+          "offsetInEndSection": 965,
+          "text": "Compared with adults, levels of the repressor of HO-1 transcription, Bach1, were higher in the neonatal lung as was nuclear protein-DNA binding to the antioxidant response element (ARE) from HO-1",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18948842",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 165,
+          "offsetInEndSection": 413,
+          "text": "Here we show that the transcription factor Bach1 (BTB and CNC homology 1, basic leucine zipper transcription factor 1), which inhibits oxidative stress-inducible genes, is a crucial negative regulator of oxidative stress-induced cellular senescence",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19011633",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 709,
+          "offsetInEndSection": 834,
+          "text": "Bach1 was recruited to a subset of p53 target genes and contributed to impeding p53 action by promoting histone deacetylation",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19011633",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 245,
+          "offsetInEndSection": 406,
+          "text": "Mice deficient in Bach1 (Bach1-/-), a transcriptional repressor of the HO-1 and beta-globin genes, express high levels of HO-1 mRNA and protein in various organs",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19035757",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 143,
+          "text": "enetic ablation of transcription repressor Bach1 reduces neural tissue damage and improves locomotor function after spinal cord injury in mice",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19119918",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 228,
+          "offsetInEndSection": 290,
+          "text": "Bach1 is a transcriptional repressor of the HO-1 gene (Hmox-1)",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19119918",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 292,
+          "offsetInEndSection": 472,
+          "text": "Previous reports have demonstrated that the genetic ablation of Bach1 engenders an increased HO-1 expression and a marked reduction in the degree of oxidative tissue damage in vivo",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19119918",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1207,
+          "offsetInEndSection": 1372,
+          "text": "These results suggest that Bach1 deficiency engenders a constitutively higher expression of HO-1 and a dramatic increase in cytoprotection against spinal cord injury",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19119918",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 3520,
+          "offsetInEndSection": 3696,
+          "text": "\nOn the other hand, studies on Nrf2 pathway recent years lead to the discovery of Bach1 (BTB and CNC homology 1), a kind of nuclear transcriptional repressor of Nrf2 activation",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23738048",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 4155,
+          "offsetInEndSection": 4286,
+          "text": "The relationship between Nrf2 and Bach1, a kind of nuclear transcriptional repressor, was also explored in this experimental study.",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23738048",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 2510,
+          "offsetInEndSection": 2617,
+          "text": "\nOn the other hand, a kind of transcriptional repressor, Bach1, has gained close attentions in recent years",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23738048",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 2619,
+          "offsetInEndSection": 2692,
+          "text": "In general, Bach1 serves as a repressor of the oxidative stress responses",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23738048",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 2886,
+          "offsetInEndSection": 3241,
+          "text": "Some researches indicate that activation of Nrf2 requires the inactivation of the transcriptional repressor Bach1 [34], and it is therefore argued that even when Nrf2 enters and accumulates in the nucleus, Nrf2 could not bind to the ARE site to initiate the Nrf2-mediated antioxidant responses unless Bach1 inactivates and probably exits out of the nucleu",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23738048",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 3472,
+          "offsetInEndSection": 3609,
+          "text": " Similarly, it has been demonstrated that knockdown of Bach1 in human keratinocytes specifically upregulated the gene expression of HO-1 ",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23738048",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 3805,
+          "offsetInEndSection": 3989,
+          "text": "It seems that nuclear factor Bach1 might act as a negative regulator of Nrf2 pathway, which gives the Nrf2/ARE system a high range of plasticity to adapt to adverse cellular conditions",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23738048",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 1842,
+          "offsetInEndSection": 1920,
+          "text": "Bach1 occupies MARE enhancers to repress transcription under normal conditions",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23181164",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1922,
+          "offsetInEndSection": 2118,
+          "text": "The elimination of the Bach1-mediated transcriptional repression occurs through inhibition of its DNA binding activity and subsequent Crm1-dependent nuclear export in response to oxidative stress.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23181164",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 2995,
+          "offsetInEndSection": 3096,
+          "text": "A heme-binding factor Bach1 functions as a transcriptional repressor of the gene encoding HO-1 (Hmox1",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21373270",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 381,
+          "offsetInEndSection": 603,
+          "text": "Consistent with these changes in mRNA expressions, Fig.\u00a01B demonstrates 5-fold increase in hepatic HO-1 activity in the absence of Bach1, which was entirely repressed by intraperitoneal injection of ZnPP, an HO-1 inhibitor",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21373270",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 2202,
+          "offsetInEndSection": 2437,
+          "text": " This arrangement appears to exist between NRF2 and BACH1.\nBACH1 is a transcriptional repressor (12) that is conserved and ubiquitously expressed in tissues (13,14) though its global activity in gene regulation is poorly characterized.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 2747,
+          "offsetInEndSection": 2852,
+          "text": "As a repressive transcription factor, BACH1 allows gene induction upon its release from enhancer elements",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 2854,
+          "offsetInEndSection": 2956,
+          "text": "Originally, BACH1 was described as a heme-regulated repressor of \u03b2-globin genes (12) and HMOX1 (14\u201318)",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 3201,
+          "offsetInEndSection": 3309,
+          "text": "Therefore, it is possible that heme and oxidants trigger gene induction simply by relieving BACH1 repression",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 3316,
+          "offsetInEndSection": 3487,
+          "text": "In this regard, it has been demonstrated that BACH1 plays a role in redox induction of HMOX1 (17) and NQO1 (10), though the exact mechanism of this repression is not clear",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 4446,
+          "offsetInEndSection": 5037,
+          "text": "Here, we have tested whether oxidative stress induced by arsenite exposure can trigger gene induction by simply releasing repressive BACH1 from ARE motifs. We find that NRF2 and BACH1 bind to two distal ARE enhancer sites far upstream of the HMOX1 TSS and that BACH1 removal is necessary for NRF2-mediated HMOX1 gene induction. In contrast to HMOX1, TXNRD1, which has a single ARE motif located 9 bp upstream of the TSS, is regulated by NRF2 but not by BACH1. Comparison of TXNRD1 expression with that of HMOX1 demonstrates that BACH1 repression is dominant over NRF2-mediated transcription.",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 17455,
+          "offsetInEndSection": 17752,
+          "text": "Consistent with whole cell lysate and nuclear extract immunoblots, it is evident that RNA pol II HMOX1 binding precedes NRF2 activation, further supporting the conclusion that loss of BACH1-mediated transcriptional repression is more important than nuclear accumulation of NRF2 for HMOX1 induction",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 22069,
+          "offsetInEndSection": 22359,
+          "text": "Interestingly, the combination of MG132 plus hemin also shows that, when preceded by CHX treatment, HMOX1 expression remains significantly induced despite the lack of NRF2 and hints at the possible role for BACH1 in repressing the activity of transcriptional activators in addition to NRF2.",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 5675,
+          "offsetInEndSection": 5894,
+          "text": "It is noteworthy that some HMOX1 expression elicited by hemin inactivation of BACH1 persists despite the absence of NRF2 protein, suggesting BACH1 may also play a role in the repression of factor(s) in addition to NRF2.",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 6860,
+          "offsetInEndSection": 7183,
+          "text": "By mass action, NRF2 activation could establish a new equilibrium favoring DNA-bound NRF2/sMAF, thereby increasing the stoichiometric DNA residence of NRF2. Since BACH1 appears to bind at sites containing multiple AREs, NRF2 may not displace a large enough fraction of DNA-bound BACH1 to overcome transcriptional repression",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 7269,
+          "offsetInEndSection": 7877,
+          "text": "When interpreted in the light of our ChIP enhancer binding data, these findings support the conclusion that inactivation of BACH1 by hemin decreases its DNA-binding affinity resulting in its generalized removal from ARE motifs and concomitant loss of transcriptional repression, leaving the AREs available for binding by NRF2 and possibly other transcription that mediate gene induction.\nBased on the dynamic exchange of BACH1 and NRF2 we propose that in cells na\u00efve to oxidative stress, BACH1 is bound to the ARE enhancer motifs preventing NRF2 from binding and thereby repressing transcription (Figure 7A).",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 8225,
+          "offsetInEndSection": 8378,
+          "text": "The vast increase in the presence of nuclear NRF2 permits some increase in NRF2 binding to HMOX1 AREs but the presence of BACH1 maintains gene repression",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 10126,
+          "offsetInEndSection": 10232,
+          "text": "In this case, genes specifically repressed by BACH1 could be globally induced in response to redox stress.",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.3"
+        }
+      ]
+    },
+    {
+      "body": "Is the transcriptional regulator BACH1 an activator or a repressor?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/21555518",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20501657",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23562577",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22698995",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22107958",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21812759",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20388958",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20345481",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20127796",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19897490",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19439223",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19282658",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19119918",
+        "http://www.ncbi.nlm.nih.gov/pubmed/19011633",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18555605",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18426999",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17701549",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17257585",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16894358",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16724942",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16530877",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16487043",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15855052",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15743416",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15734732",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15613547",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15464985",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15175654",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15068251",
+        "http://www.ncbi.nlm.nih.gov/pubmed/14660636",
+        "http://www.ncbi.nlm.nih.gov/pubmed/14580148",
+        "http://www.ncbi.nlm.nih.gov/pubmed/14504288",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12511571",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12356737",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11387216"
+      ],
+      "type": "factoid",
+      "id": "52fa6ac72059c6d71c000055",
+      "snippets": [
+        {
+          "offsetInBeginSection": 948,
+          "offsetInEndSection": 995,
+          "text": "the impact of BACH1 repression on transcription",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21555518",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 215,
+          "offsetInEndSection": 268,
+          "text": "Bach1 is a repressor of the oxidative stress response",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20501657",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 2113,
+          "offsetInEndSection": 2147,
+          "text": "transcriptional repressor Bach-1, ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23562577",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 423,
+          "offsetInEndSection": 475,
+          "text": "Bach1, a transcriptional repressor of the HMOX1 gene",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22698995",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 236,
+          "offsetInEndSection": 315,
+          "text": "The mechanism underlying Bach1-mediated HO-1 repression is less well understood",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22107958",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 715,
+          "offsetInEndSection": 905,
+          "text": "Transcription factor BACH1 [BTB (broad-complex, tramtrack and bric-a-brac) and CNC (cap'n'collar protein) homology 1] binds to ARE-like sequences, functioning as a transcriptional repressor ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21812759",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 23,
+          "offsetInEndSection": 87,
+          "text": "Bach1) is a transcriptional repressor of heme oxygenase-1 (HO-1)",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20388958",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 346,
+          "offsetInEndSection": 437,
+          "text": " its regulatory mechanism by the transcriptional repressor, BTB and CNC homology 1 (Bach1),",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20345481",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 88,
+          "offsetInEndSection": 201,
+          "text": "Bach1, a basic leucine zipper mammalian transcriptional repressor, negatively regulates heme oxygenase 1 (HMOX1),",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20127796",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 258,
+          "offsetInEndSection": 295,
+          "text": "Bach1, the negative regulator of Nrf2",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19897490",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 72,
+          "text": "ach1 is a transcriptional repressor of the heme oxygenase (HO)-1 gene. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19439223",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1570,
+          "offsetInEndSection": 1668,
+          "text": "The inhibitory role for Bach1 may stem from its activity to repress gene expression including HO-1",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19282658",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 228,
+          "offsetInEndSection": 290,
+          "text": "Bach1 is a transcriptional repressor of the HO-1 gene (Hmox-1)",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19119918",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 165,
+          "offsetInEndSection": 413,
+          "text": "Here we show that the transcription factor Bach1 (BTB and CNC homology 1, basic leucine zipper transcription factor 1), which inhibits oxidative stress-inducible genes, is a crucial negative regulator of oxidative stress-induced cellular senescence",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/19011633",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 374,
+          "offsetInEndSection": 427,
+          "text": "Bach1 is a transcriptional repressor of the HO-1 gene",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18555605",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1590,
+          "offsetInEndSection": 1645,
+          "text": "Bach1 repressively controls myocardial HO-1 expression ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18426999",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 202,
+          "offsetInEndSection": 263,
+          "text": " the transcriptional repressor BACH1 binds ARE-like enhancers",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 13,
+          "offsetInEndSection": 123,
+          "text": " transcription factor Bach1 functions as a repressor of the enhancers of heme oxygenase-1 (HO-1) gene (Hmox-1)",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17701549",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 238,
+          "offsetInEndSection": 297,
+          "text": "Bach1, a transcription factor that suppresses the HO-1 gene",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17257585",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 652,
+          "offsetInEndSection": 742,
+          "text": "Bach1, a transcriptional repressor that is negatively regulated by heme in mammalian cells",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16894358",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1142,
+          "offsetInEndSection": 1184,
+          "text": "Bach1 normally represses HO-1 expression. ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16724942",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 240,
+          "offsetInEndSection": 300,
+          "text": "Bach1, a heme binding protein that represses gene expression",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16530877",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1078,
+          "offsetInEndSection": 1137,
+          "text": "complexes with Bach1 repress MARE-dependent gene expression",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16487043",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 24,
+          "offsetInEndSection": 55,
+          "text": "transcriptional repressor Bach1",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15855052",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 469,
+          "offsetInEndSection": 525,
+          "text": "bach1-ablation resulted in increased expression of HO-1 ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15743416",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1478,
+          "offsetInEndSection": 1541,
+          "text": "Bach1 contributes to the down-regulation of ARE-regulated genes",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15734732",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1361,
+          "offsetInEndSection": 1458,
+          "text": "evidence that BACH1 acts as a transcriptional repressor in the regulation of MARE-dependent genes",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15613547",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 27,
+          "offsetInEndSection": 150,
+          "text": "Bach1 forms a heterodimer with small Maf family, and functions as a repressor of the Maf recognition element (MARE) in vivo",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15464985",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1,
+          "offsetInEndSection": 79,
+          "text": "ach1 is a transcriptional repressor of heme oxygenase-1 and beta-globin genes,",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15175654",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1460,
+          "offsetInEndSection": 1494,
+          "text": "BACH1 suppresses expression of HO1",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15068251",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 4,
+          "offsetInEndSection": 138,
+          "text": "transcription factor Bach1 heterodimerizes with small Maf proteins to repress Maf recognition element (MARE)-dependent gene expression",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14660636",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 901,
+          "offsetInEndSection": 994,
+          "text": " Bach1 as a heme-regulated and hypoxia-inducible repressor for transcription of the HO-1 gene",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14580148",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 34,
+          "offsetInEndSection": 93,
+          "text": "Bach1, a transcriptional repressor of heme oxygenase-1 gene",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/14504288",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 570,
+          "offsetInEndSection": 619,
+          "text": "Bach1, a heme-regulated transcriptional repressor",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12511571",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 238,
+          "offsetInEndSection": 313,
+          "text": "a heme-binding factor, Bach1, is a critical physiological repressor of ho-1",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12356737",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 80,
+          "offsetInEndSection": 109,
+          "text": "transcription repressor Bach1",
+          "beginSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11387216",
+          "endSection": "title"
+        },
+        {
+          "offsetInBeginSection": 2261,
+          "offsetInEndSection": 2297,
+          "text": "BACH1 is a transcriptional repressor",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 2866,
+          "offsetInEndSection": 2948,
+          "text": "BACH1 was described as a heme-regulated repressor of \u03b2-globin genes (12) and HMOX1",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 3293,
+          "offsetInEndSection": 3309,
+          "text": "BACH1 repression",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 4975,
+          "offsetInEndSection": 4991,
+          "text": "BACH1 repression",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 17639,
+          "offsetInEndSection": 17680,
+          "text": "BACH1-mediated transcriptional repression",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 5816,
+          "offsetInEndSection": 5873,
+          "text": "BACH1 may also play a role in the repression of factor(s)",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 8347,
+          "offsetInEndSection": 8378,
+          "text": "BACH1 maintains gene repression",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17942419",
+          "endSection": "sections.3"
+        }
+      ]
+    },
+    {
+      "body": "Do archaeal genomes contain one or multiple origins of replication?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/15197606",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12646230",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12237132",
+        "http://www.ncbi.nlm.nih.gov/pubmed/24185008",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23375370",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22978470",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22942672",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22812406",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+        "http://www.ncbi.nlm.nih.gov/pubmed/20667100",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18922777",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17511521",
+        "http://www.ncbi.nlm.nih.gov/pubmed/17392430",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16249118",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15876567",
+        "http://www.ncbi.nlm.nih.gov/pubmed/11521661"
+      ],
+      "type": "factoid",
+      "id": "52fe58f82059c6d71c00007a",
+      "snippets": [
+        {
+          "offsetInBeginSection": 1056,
+          "offsetInEndSection": 1407,
+          "text": "Therefore, these lines of evidence strongly suggest that the identified region is a replication origin, which is designated as oriC1. The analysis of the y component of the Z curve, i.e., MK disparity curve, suggests the presence of another replication origin corresponding to one of the peaks in the MK disparity curve at around 1,388 kb of the genom",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15197606",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 927,
+          "offsetInEndSection": 1039,
+          "text": "Our results strongly suggest that the single replication origin of M. mazei is situated at the intergenic region",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12237132",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 294,
+          "offsetInEndSection": 424,
+          "text": "Bacteria and some archaea replicate from single origins, whereas most archaea and all eukaryotes replicate using multiple origins.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/24185008",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 17,
+          "offsetInEndSection": 95,
+          "text": "multiple DNA replication origins are a hallmark of Eukaryotes and some Archaea",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23375370",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 403,
+          "offsetInEndSection": 509,
+          "text": "Multiple orc/cdc6-associated replication origins were predicted in all of the analyzed haloarchaeal genome",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 717,
+          "offsetInEndSection": 822,
+          "text": "different replication origins in some archaeal genomes leave quite different patterns of strand asymmetry",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22942672",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 218,
+          "offsetInEndSection": 301,
+          "text": "the single chromosome of Pyrobaculum calidifontis contains four replication origins",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22812406",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 469,
+          "offsetInEndSection": 569,
+          "text": "six archaeal genomes from the genus Sulfolobus containing three origins of replication were selected",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 641,
+          "offsetInEndSection": 835,
+          "text": "The strong replication-biased structuring of the Sulfolobus chromosome implies that the multiple replication origins serve purposes other than simply shortening the time required for replication",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20667100",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 237,
+          "offsetInEndSection": 295,
+          "text": "The 3 DNA replication origins of Sulfolobus acidocaldarius",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18922777",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 459,
+          "offsetInEndSection": 665,
+          "text": "We have used a combination of genetic, biochemical, and bioinformatic approaches to map DNA replication origins in H. volcanii. Five autonomously replicating sequences were found adjacent to cdc6/orc1 genes",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17511521",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 325,
+          "offsetInEndSection": 427,
+          "text": "the multiple replication origin paradigm has also been demonstrated within the archaeal domain of life",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17392430",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 17,
+          "offsetInEndSection": 132,
+          "text": "multiple chromosome replication origins in Sulfolobus species has added yet another eukaryotic trait to the archaea",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16249118",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 197,
+          "offsetInEndSection": 434,
+          "text": "We employed Z-curve analysis to identify one replication origin in the Methanocaldococcus jannaschii genome, two replication origins in the Halobacterium species NRC-1 genome and one replication origin in the Methanosarcina mazei genome.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15876567",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 104,
+          "offsetInEndSection": 245,
+          "text": "Archaea seem to replicate using a single origin (as do eubacteria) even though archaeal replication factors are more like those of eukaryotes",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11521661",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 739,
+          "offsetInEndSection": 877,
+          "text": "Based on the above analysis, a model of replication of Halobacterium NRC-1 with two replication origins and two termini has been proposed.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12646230",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1132,
+          "offsetInEndSection": 1285,
+          "text": "In addition, the potential multiple replication origins of the archaeon Sulfolobus solfataricus are suggested by the analysis based on the Z curve method",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12646230",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 140,
+          "text": "While multiple replication origins have been observed in archaea, considerably less is known about their evolutionary processes.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 46,
+          "offsetInEndSection": 122,
+          "text": "archaeon2,3, its 2.85 Mb main chromosome is replicated from multiple origins",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/24185008",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 198,
+          "offsetInEndSection": 301,
+          "text": "other archaea8 and in eukaryotes7,9, suggesting they are a feature of chromosomes with multiple origins",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/24185008",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 13,
+          "offsetInEndSection": 89,
+          "text": "Several archaeal species have multiple origins of replication per chromosome",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23375370",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 2675,
+          "offsetInEndSection": 2749,
+          "text": "multiple-origin single-chromosome genomes are found in a number of archaea",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23375370",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 1608,
+          "offsetInEndSection": 1680,
+          "text": "multiple orc/cdc6-associated replication origins in haloarchaeal genomes",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 418,
+          "offsetInEndSection": 495,
+          "text": "multiple replication origins have been identified in several archaeal species",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 3049,
+          "offsetInEndSection": 3207,
+          "text": "the multiple origins, especially the ORB sequences and their associated Orc/Cdc6 proteins, are quite diverse in all three experimentally characterized archaea",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 3685,
+          "offsetInEndSection": 3728,
+          "text": "multiple replication origins within Archaea",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 5230,
+          "offsetInEndSection": 5289,
+          "text": "multiple origins of replication in the haloarchaeal genomes",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 8824,
+          "offsetInEndSection": 8911,
+          "text": "multiple replication origins were predicted in all of the analyzed haloarchaeal genomes",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 17685,
+          "offsetInEndSection": 17728,
+          "text": "multiple replication origins in haloarchaea",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 250,
+          "text": "In this study, orc/cdc6-associated replication origins were predicted in 15 sequenced haloarchaeal genomes through Orc/Cdc6 protein analyses and adjacent ORB searching. Multiple replication origins were found in all of the analyzed genomes",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 14524,
+          "offsetInEndSection": 14563,
+          "text": " multiple origins within a haloarchaeon",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 1557,
+          "offsetInEndSection": 1610,
+          "text": "multiple replication origins in haloarchaeal genomes ",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22978470",
+          "endSection": "sections.2"
+        },
+        {
+          "offsetInBeginSection": 160,
+          "offsetInEndSection": 221,
+          "text": "archaeal genomes tend to have multiple origins of replication",
+          "beginSection": "sections.1",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22942672",
+          "endSection": "sections.1"
+        },
+        {
+          "offsetInBeginSection": 17,
+          "offsetInEndSection": 100,
+          "text": "Multiple replication origins are typically assumed for archaeal genome replication ",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22942672",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 400,
+          "offsetInEndSection": 564,
+          "text": "One notable feature distinguishing the genomes and cell cycles of some Archaea from those of Bacteria is the presence of multiple replication origins per chromosome",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1071,
+          "offsetInEndSection": 1142,
+          "text": "multiple replication origins within a relatively small archaeal genome ",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 5265,
+          "offsetInEndSection": 5330,
+          "text": "genomes with multiple origins of replication such as the Archaea ",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 169,
+          "text": "One of the evolutionary innovations that distinguish some Archaea and Eukarya from Bacteria is the presence of multiple replication origins on each chromosome",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 10855,
+          "offsetInEndSection": 10935,
+          "text": "It also remains to be studied how multiple replication origins arose in Archaea ",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20978102",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 11,
+          "offsetInEndSection": 225,
+          "text": "Our study reports a strong replication-biased structuring of the Sulfolobus chromosome which implies that the multiple replication origins serve purposes other than only shortening the time required for replication",
+          "beginSection": "sections.3",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/20667100",
+          "endSection": "sections.3"
+        },
+        {
+          "offsetInBeginSection": 2738,
+          "offsetInEndSection": 2776,
+          "text": "haloarchaea contain multiple replicons",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/17511521",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1143,
+          "offsetInEndSection": 1191,
+          "text": "archaea use multiple origins for DNA replication",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/11521661",
+          "endSection": "sections.2"
+        }
+      ]
+    },
+    {
+      "body": "Is the long non- coding RNA malat-1 up or downregulated in cancer?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/22722759",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22088988",
+        "http://www.ncbi.nlm.nih.gov/pubmed/24163781",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23845456",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23726266",
+        "http://www.ncbi.nlm.nih.gov/pubmed/23104528",
+        "http://www.ncbi.nlm.nih.gov/pubmed/22858678",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21678027",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16878148",
+        "http://www.ncbi.nlm.nih.gov/pubmed/16441420",
+        "http://www.ncbi.nlm.nih.gov/pubmed/15552795",
+        "http://www.ncbi.nlm.nih.gov/pubmed/12970751",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21266177",
+        "http://www.ncbi.nlm.nih.gov/pubmed/18006640"
+      ],
+      "type": "factoid",
+      "id": "53440d2caeec6fbd07000004",
+      "snippets": [
+        {
+          "offsetInBeginSection": 132,
+          "offsetInEndSection": 188,
+          "text": "lncRNA MALAT-1 expression is upregulated in some tumors.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22722759",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 98,
+          "offsetInEndSection": 225,
+          "text": "Metastasis-Associated-in-Lung-Adenocarcinoma-Transcript-1 (MALAT-1) is an ncRNA that is highly expressed in several tumor types",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22088988",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 21,
+          "offsetInEndSection": 158,
+          "text": "metastasis-associated lung adenocarcinoma transcript (MALAT)-1 is known to be consistently upregulated in several epithelial malignancies",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/24163781",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 975,
+          "offsetInEndSection": 1048,
+          "text": "MALAT-1 was up-regulated in human prostate cancer tissues and cell lines.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23845456",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 933,
+          "offsetInEndSection": 1043,
+          "text": "Genome-wide profiling revealed that MALAT-1 and prostate cancer gene 3 (PCA3) are overexpressed in PCa tissues",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23726266",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1015,
+          "offsetInEndSection": 1131,
+          "text": "The level of MALAT-1 in LSCC was significantly higher than that in the corresponding adjacent non-neoplastic tissues",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/23104528",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 4,
+          "offsetInEndSection": 189,
+          "text": "metastasis-associated lung adenocarcinoma transcript 1, MALAT1, is a long non-coding RNA (lncRNA) that has been discovered as a marker for lung cancer metastasis. It is highly abundant,",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22858678",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 54,
+          "offsetInEndSection": 185,
+          "text": "(MALAT1), a long non-coding RNA (lncRNA), is up-regulated in many solid tumors and associated with cancer metastasis and recurrence",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21678027",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 619,
+          "offsetInEndSection": 715,
+          "text": " Quantitative analyses indicated a 6-7-fold increased RNA level in HCCs versus uninvolved liver,",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16878148",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 205,
+          "offsetInEndSection": 335,
+          "text": "(hcn), encoding a 7-kb mRNA-like transcript. The gene appears to be the murine ortholog of the human alpha gene, that is, MALAT-1.",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16878148",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 330,
+          "offsetInEndSection": 532,
+          "text": "After suppression subtractive hybridization and differential screening, we detected the metastasis-associated lung adenocarcinoma transcript 1 (MALAT-1) gene as one of the major genes upregulated in ESS",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/16441420",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 961,
+          "offsetInEndSection": 1117,
+          "text": "a novel non-coding RNA (MALAT-1) to be expressed at significantly higher levels in stage-I and stage-II NSCLC primary tumours that subsequently metastasised",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/15552795",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 388,
+          "offsetInEndSection": 635,
+          "text": "quantitative RT-PCR verified overexpression in metastasizing samples. Several of the identified genes (eIF4A1, thymosin beta4 and a novel transcript named MALAT-1) were demonstrated to be significantly associated with metastasis in NSCLC patients ",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/12970751",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 177,
+          "offsetInEndSection": 289,
+          "text": "\u03a3 RNA is a class of conserved large non-coding RNAs (murine Hepcarcin; human MALAT-1) up-regulated in carcinomas",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/21266177",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 242,
+          "offsetInEndSection": 415,
+          "text": "To date, most known NCTs studied have been relatively short, but several important regulatory NCTs, including XIST, MALAT-1, BC1 and BC200, are considerably larger in length",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18006640",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1292,
+          "offsetInEndSection": 1364,
+          "text": "These NCTs were among the most abundantly expressed transcripts detected",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/18006640",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 440,
+          "offsetInEndSection": 642,
+          "text": "The nuclear transcript MALAT-1 has been functionally associated with gene regulation and alternative splicing and its regulation has been shown to impact proliferation, apoptosis, migration and invasion",
+          "beginSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22858678",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInBeginSection": 1044,
+          "offsetInEndSection": 1110,
+          "text": "MALAT1, the metastasis-associated lung adenocarcinoma transcript 1",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22858678",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1295,
+          "offsetInEndSection": 1554,
+          "text": "Deregulation or a functional role for MALAT1 have now been established in many human cancer entities including lung cancer, hepatocellular carcinoma (HCC), uterine endometrial stromal sarcoma, cervical cancer, breast cancer, osteosarcoma and colorectal cancer",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22858678",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 1630,
+          "offsetInEndSection": 1720,
+          "text": "In non-small cell lung cancer (NSCLC), MALAT1 is significantly associated with metastasis ",
+          "beginSection": "sections.0",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22858678",
+          "endSection": "sections.0"
+        },
+        {
+          "offsetInBeginSection": 4118,
+          "offsetInEndSection": 4188,
+          "text": "MALAT1 might also represent an active player in the metastatic cascade",
+          "beginSection": "sections.2",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/22858678",
+          "endSection": "sections.2"
+        }
+      ]
+    }
+  ]
+}

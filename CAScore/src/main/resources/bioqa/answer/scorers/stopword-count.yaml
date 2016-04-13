@@ -1,0 +1,3 @@
+inherit: baseqa.answer.scorers.stopword-count
+
+stopword: /bioqa/answer/generators/stoplist-gene-top5k.txt

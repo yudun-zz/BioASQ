@@ -1,0 +1,7 @@
+inherit: baseqa.quesanal.lat.train
+
+classifier: 'inherit: bioqa.quesanal.lat.classifier-liblinear'
+cv-predict-file: src/main/resources/bioqa/quesanal/lat/feat-label/3b-dev-qa-types-cv.tsv
+feature-constructor: 'inherit: baseqa.quesanal.lat.feature-constructor'
+cv-predict-limit: 5
+qa-types-file: /bioqa/quesanal/lat/feat-label/3b-dev-qa-types-modified.yaml

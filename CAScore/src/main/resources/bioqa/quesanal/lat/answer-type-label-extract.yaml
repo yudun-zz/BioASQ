@@ -1,0 +1,4 @@
+inherit: baseqa.quesanal.lat.answer-type-label-extract
+
+answer-semantic-types-file: src/main/resources/bioqa/quesanal/lat/feat-label/3b-dev-qa-types-pre.yaml
+concept-search-provider: 'inherit: bioqa.providers.kb.concept-search-uts'

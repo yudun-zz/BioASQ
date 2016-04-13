@@ -1,0 +1,5 @@
+inherit: baseqa.retrieval.passage.lucene-sentence
+
+sentence-model: com.aliasi.sentences.MedlineSentenceModel
+hits: 100
+nlp-provider: 'inherit: bioqa.providers.nlp.clearnlp-bioinformatics'

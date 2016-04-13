@@ -1,0 +1,17 @@
+inherit: baseqa.answer.score-train
+
+balance-sample: true
+classifier: 'inherit: bioqa.answer.score-classifier-liblinear'
+scorers: |
+  - inherit: baseqa.answer.scorers.type-coercion
+  - inherit: baseqa.answer.scorers.cao-count
+  - inherit: baseqa.answer.scorers.name-count
+  - inherit: baseqa.answer.scorers.avg-covered-token-count
+  - inherit: bioqa.answer.scorers.stopword-count
+  - inherit: baseqa.answer.scorers.token-overlap-count
+  - inherit: baseqa.answer.scorers.concept-overlap-count
+  - inherit: baseqa.answer.scorers.token-proximity
+  - inherit: baseqa.answer.scorers.concept-proximity
+  - inherit: baseqa.answer.scorers.focus-overlap-count
+  - inherit: baseqa.answer.scorers.parsehead-proximity
+cv-predict-file: src/main/resources/bioqa/answer/score-model/3b-dev-liblinear-cv.tsv

@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.baseqa.providers.ml.transducer.MalletHmmTransducer
+
+feature-prefix: '[token:lemma]'
+# add parameter "model-file"

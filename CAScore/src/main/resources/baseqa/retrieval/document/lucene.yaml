@@ -1,0 +1,6 @@
+class: edu.cmu.lti.oaqa.baseqa.retrieval.document.LuceneDocumentRetrievalExecutor
+
+query-string-constructor: edu.cmu.lti.oaqa.baseqa.retrieval.query.LuceneQueryStringConstructor
+hits: 100
+query-analyzer: org.apache.lucene.analysis.standard.StandardAnalyzer
+# requires search-fields, index, id-field, title-field, text-field, uri-prefix
