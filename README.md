@@ -11,6 +11,7 @@ build a visualization system upon the QA dataset and help developer get better u
 ### Progress:
 
 metadata for Yahoo Answer dataset generated.
+
 sample data for category "Buenos Aires" got, testing visualization to be built
 
 
