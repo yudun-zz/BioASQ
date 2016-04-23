@@ -18,7 +18,7 @@ public interface CavScorer extends Resource {
 
   static Map<String, Double> generateSummaryFeatures(double[] ratios, String keyword) {
     return generateSummaryFeatures(ratios, keyword, "avg", "max", "min", "pos-ratio", "one-ratio",
-            "any-one");
+            "any-one", "dev");
   }
 
   static Map<String, Double> generateSummaryFeatures(double[] ratios, String keyword,
@@ -45,6 +45,10 @@ public interface CavScorer extends Resource {
     if (operatorSet.contains("any-one")) {
       feat2value.put(keyword + "-any-one",
               DoubleStream.of(ratios).anyMatch(r -> r == 1.0) ? 1.0 : 0.0);
+    }
+    if (operatorSet.contains("dev")) {
+    	double avg = DoubleStream.of(ratios).average().orElse(0);
+    	feat2value.put(keyword + "-dev", Math.sqrt(DoubleStream.of(ratios).map(r -> Math.pow(r - avg, 2.0)).average().orElse(0)));
     }
     return feat2value.build();
   }
