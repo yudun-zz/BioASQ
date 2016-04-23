@@ -1,5 +1,7 @@
 04/12/2016
+
 1. Need to do clustering analysis on these 2916 categories
+
 2. Testing Visualize on "Buenos Aires":
     First Decide the similirities among questions;
     Then generate the adjacent matrix for these 541 nodes (for future larger sets, do pruning based on answer num)
