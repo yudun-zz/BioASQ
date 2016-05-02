@@ -24,15 +24,14 @@ public class DevCoveredTokenCountCavScorer extends ConfigurableProvider
 				.mapToInt(
 						cao -> JCasUtil.selectCovered(Token.class, cao).size())
 				.average().orElse(0);
-		double devCount = CavScorer.safeDividedBy(
-				TypeUtil.getCandidateAnswerOccurrences(cav)
-						.stream()
-						.mapToDouble(
-								cao -> Math
-										.pow(JCasUtil.selectCovered(
-												Token.class, cao).size()
-												- avgCount, 2)).average()
-						.orElse(0.0), avgCount);
+		double devCount = CavScorer.safeDividedBy(Math.sqrt(TypeUtil
+				.getCandidateAnswerOccurrences(cav)
+				.stream()
+				.mapToDouble(
+						cao -> Math.pow(JCasUtil
+								.selectCovered(Token.class, cao).size()
+								- avgCount, 2)).average().orElse(0.0)),
+				avgCount);
 		return ImmutableMap.of("dev-covered-token-count", devCount);
 	}
 
