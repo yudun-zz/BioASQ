@@ -36,7 +36,14 @@ Enrich feature space of LeToR.
 ### Progress:
 
 Get familiar with current features.
-Set up the environment to generate features and prediction results. (the process is quite slow...)
+
+Set up the environment to generate features and prediction results.
+
+Design a new feature - 2-gram token overlap count
+
+Design a new feature (score) aggregation method - deviation
+
+Pending evaluation result...
 
 ## Word Embedding - Yu
 
