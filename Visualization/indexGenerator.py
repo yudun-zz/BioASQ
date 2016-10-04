@@ -13,7 +13,7 @@ rawqueries = []
 queris = []
 index = {}
 
-with open(SAMPLE_DATA_PATH_PREFIX + "montreal.json") as data_file:
+with open(SAMPLE_DATA_PATH_PREFIX + "buenos_aires.json") as data_file:
     rawdata = json.load(data_file)
 
 for cat in rawdata:
