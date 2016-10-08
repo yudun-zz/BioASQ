@@ -1,7 +1,7 @@
 __author__ = 'Shimin Wang'
 __andrewID__ = 'shiminw'
 
-# an metadata snalyser to extract metadata from the Yahoo Answer dataset
+# an metadata analyser to extract metadata from the Yahoo Answer dataset
 # we want to get:
 # 1. The total number of questions and answers in this dataset
 # 2. The number of questions and answers in each category and sub-category
@@ -95,7 +95,7 @@ for event, elem in context:
     elem.clear()
 
 print "finished in ", time.time() - start, "s. "
-print questionNum - startQuestionNum, " questions parsed"
+print questionNum - startQuestionNum + 1, " questions parsed"
 
 f = open(METADATA_PATH, "w")
 f.write(json.dumps(categoryMetadata))

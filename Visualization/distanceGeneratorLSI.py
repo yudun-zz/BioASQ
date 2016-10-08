@@ -56,6 +56,7 @@ for i in range(l):
 
 U, S, V = np.linalg.svd(matrix)
 
+
 topicnum = 5
 S = S[:topicnum]
 topics = [[] for i in range(topicnum)]
@@ -115,6 +116,8 @@ for topic in quesDis:
     for q in topic:
         links.append({"source": q[0], "target": q[1],
                       "value": int(linearMap([QUESTION_DISTANCE_THREHOLD, globalMaxQuesDis], [1, 20], q[2]))})
+
+print "link num =", len(links)
 
 force_directed = {"nodes": nodes, "links": links}
 with open("force_directed.json", "w") as f:
