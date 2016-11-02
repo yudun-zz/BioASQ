@@ -20,7 +20,7 @@ parsingBegun = False
 questionNum = 0 # expect 4483032, actual 4483031
 answerNum = 0
 
-targetCatName = "Montreal"
+targetCatName = "Chicago"
 
 sampleData = {}
 # { "Education & Reference" :
@@ -91,7 +91,7 @@ for event, elem in context:
 print "finished in ", time.time() - start, "s. "
 print questionNum - startQuestionNum, " questions parsed"
 
-f = open(SAMPLE_DATA_PATH_PREFIX + "montreal.json", "w")
+f = open(SAMPLE_DATA_PATH_PREFIX + "chicago.json", "w")
 f.write(json.dumps(sampleData))
 f.close()
 

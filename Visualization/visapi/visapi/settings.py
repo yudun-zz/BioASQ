@@ -26,7 +26,8 @@ SECRET_KEY = 'bof6qisj4%a@j9&xh1tmom!md(+0w088^qc&o!^i@gg69o_+=^'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+APPEND_SLASH = False
+CSRF_COOKIE_SECURE = False
 
 # Application definition
 

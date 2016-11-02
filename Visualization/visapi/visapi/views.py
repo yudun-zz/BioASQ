@@ -1,5 +1,13 @@
 from django.http import HttpResponse
+import json
+from Config import *
+from django.views.decorators.csrf import csrf_exempt
+from visualizer.Visualizer import Visualizer
+import threading
 
+# the preloaded question index
+with open(INDEX_PREFIX + "index.json") as data_file:
+    question_index = json.load(data_file)
 
 def index(request):
     return HttpResponse("index")
@@ -22,15 +30,21 @@ def updateSubgraph(request):
     return HttpResponse("Hi")
 
 
-
 #
 # API for slaves
 #
+@csrf_exempt
 def startVisSubGraph(request):
-    # TODO: the main entry for the slave to initialize a vis of a subgraph of a (q, subcategory) pair
-    return HttpResponse("Hi")
+    global question_index
+    body = json.loads(request.body)
+    query = body['query']
+    subcat = body['subcat']
 
+    # kick off the async visualization using the questions set and question_index
+    visualizer = Visualizer(query, subcat, question_index)
+    threading.Thread(target=visualizer.run).start()
 
+    return HttpResponse("ok")
 
 
 #
@@ -40,3 +54,5 @@ def beginClassify(request):
     # TODO: begin the classification of a question
     # return top 3 most related subcategory
     return HttpResponse("Hi")
+
+
